@@ -1,0 +1,55 @@
+{
+  "type": "object",
+  "properties": {
+    "title": {
+      "type": "string",
+      "description": "The title of the subject"
+    },
+    "topics": {
+      "type": "array",
+      "description": "An extensive list of topics that have appeared in the exams so far",
+      "items": {
+        "type": "object",
+        "properties": {
+          "List": {
+            "type": "array",
+            "description": "Year wise weightage of the topic",
+            "items": {
+              "type": "object",
+              "properties": {
+                "weight": {
+                  "type": "integer",
+                  "format": "int32"
+                },
+                "year": {
+                  "type": "integer",
+                  "description": "Year when the topic appeared",
+                  "format": "int32"
+                }
+              },
+              "additionalProperties": false,
+              "required": [
+                "year",
+                "weight"
+              ]
+            }
+          },
+          "name": {
+            "type": "string",
+            "description": "Name of the title"
+          }
+        },
+        "additionalProperties": false,
+        "required": [
+          "name",
+          "List"
+        ]
+      }
+    }
+  },
+  "additionalProperties": false,
+  "required": [
+    "title",
+    "topics"
+  ]
+}
