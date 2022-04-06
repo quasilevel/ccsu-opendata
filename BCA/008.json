@@ -1,0 +1,320 @@
+{
+    "008":"environmental studies",
+    "unit 1":[
+        {
+            "the multidisciplinary nature of environmental studies": "definition",
+            "weights":[
+                {
+                    "year": 2011, "weight":20
+                },
+                {
+                    "year": 2013, "weight":10
+                },
+                {
+                    "year": 2017, "weight":5 
+                },
+                {
+                    "year":2019, "weight":10
+                },
+                {
+                    "year":2020, "weight":5
+                }
+            ]
+        },
+        {
+            "the multidisciplinary nature of environmental studies": "scope and importance",
+            "weights":[
+                {
+                    "year":2012, "weight":5
+                },
+                {
+                    "year":2015, "weight":10
+                },
+                {
+                    "year":2019, "weight":20
+                },
+                {
+                    "year":2020, "weight":20
+                }
+            ]
+        },
+        {
+            "the multidisciplinary nature of environmental studies":"need for public awarness",
+            "weights":[
+                {
+                    "year":2012, "weight":10
+                },
+                {
+                    "year":2013, "weight": 5
+                }
+            ]
+        }
+    ],
+    "unit 2" : [
+        {
+            "natural ecosystem": "forest resources",
+            "weights" :[
+                {
+                    "year": 2012, "weight":20
+                },
+                {
+                    "year": 2018, "weight": 10
+                }
+            ]          
+        },
+        {
+            "natural ecosystem": "energy resources",
+            "weights":[
+                {
+                    "year": 2012, "weight": 5
+                },
+                {
+                    "year": 2019, "weight": 10
+                }
+            ]
+        },
+        {
+            "natural ecosystem": "water resources",
+            "weights":[
+                {
+                    "year": 2011, "weight": 20
+                },
+                {
+                    "year": 2016, "weight": 5
+                },
+                {
+                    "year": 2020, "weight":10
+                }
+            ]
+        }
+    ],
+    "unit 3" : [
+        {
+            "ecosystem": "structure and function",
+            "weights":[
+                {
+                    "year": 2013, "weight": 10
+                },
+                {
+                    "year": 2019, "weight": 5
+                },
+                {
+                    "year": 2021, "weight": 20
+                }
+            ]
+        }
+    ],
+    "unit 4" : [
+        {
+            "biodiveristy and its conservation": "definition",
+            "weights":[
+                {
+                    "year": 2011, "weight":20
+                },
+                {
+                    "year":2013, "weight": 10
+                },
+                {
+                    "year": 2019, "weight":5
+                }
+            ]
+        },
+        {
+            "biodiveristy and its conservation":"environmental education",
+            "weights":[
+                {
+                    "year": 2016, "weight":20 
+                },
+                {
+                    "year": 2021, "weight":45
+                }
+            ]
+        }
+    ],
+    "unit 5" : [
+        {
+            "environmental pollution": "definition, types",
+            "weights ": [
+                {
+                    "year":2012, "weight": 5
+                },
+                {
+                    "year": 2017, "weight":10
+                },
+                {
+                    "year": 2019, "weight":20
+                }
+            ]
+        },
+        {
+            "environmental pollution": "water pollution",
+            "weights ":[
+                {
+                    "year": 2012, "weight":20
+                },
+                {
+                    "year": 2012, "weight":10
+                },
+                {
+                    "year": 2017, "weight":5
+                }
+            ]
+        },
+        {
+            "environmental pollution": "soil pollution",
+            "weights":[
+                {
+                    "year": 2013, "weight": 20
+                },
+                {
+                    "year": 2019, "weight": 5
+                },
+                {
+                    "year" : 2021, "weight":10
+                }
+            ]
+        },
+        {
+            "environmental pollution": "radio active pollution",
+            "weights":[
+                {
+                    "year": 2015, "weight": 20
+                },
+                {
+                    "year":2019, "weight": 5
+                }
+            ]
+        },
+        {
+            "environmental pollution": "soil erosion",
+            "weights":[
+                {
+                    "year": 2011, "weight": 10
+                },
+                {
+                    "year": 2019, "weight":20
+                },
+                {
+                    "year":2021, "weight": 5
+                }
+            ]
+        }
+    ],
+    "unit 6" :[
+        {
+            "social issues and the environment": "green house effect",
+            "weights":[
+                {
+                    "year":2011, "weight":5
+                }, 
+                {
+                    "year": 2019, "weight":20
+                }
+            ]
+        },
+        {
+            "social issues and the environment": "acid rain", 
+            "weights":[
+                {
+                    "year": 2012, "weight":10
+                }, 
+                {
+                    "year": 2015, "weight":5
+                },
+                {
+                    "year": 2016, "weight":5
+                }, 
+                {
+                    "year": 2019, "weight": 20
+                }
+            ]
+        }, 
+        {
+            "social issues and the environment": "ozone ",
+            "weights":[
+                {
+                    "year": 2011, "weight":20
+                },
+                {
+                    "year": 2013, "weight":5
+                },
+                {
+                    "year": 2015, "weight":10
+                }
+            ]
+        },
+        {
+            "social issues and the environment": "rain water harvesting",
+            "weights":[
+                {
+                    "year": 2015,"weight":20
+                },
+                {
+                    "year": 2021, "weight":45
+                }
+            ]
+        },
+        {
+            "social issues and the environment":"conserving wildlife",
+            "weights":[
+                {
+                    "year":2013, "weight":10
+                },
+                {
+                    "year":2015, "weight":20
+                },
+                {
+                    "year":2019, "weight":20
+                },
+                {
+                    "year":2021, "weight":45
+                }
+            ]
+        }
+    ],
+    "unit 7":[
+        {
+            "human population and the environment":"human rights",
+            "weights":[
+                {
+                    "year": 2013, "weight":10
+                },
+                {
+                    "year": 2015, "weight":20
+                },
+                {
+                    "year": 2016, "weight":20
+                },
+                {
+                    "year": 2017, "weight":10
+                },
+                {
+                    "year": 2020, "weight":20
+                },
+                {
+                    "year": 2021, "weight":45
+                }
+            ]
+        },
+        {
+            "human population and the environment": "hiv/aids",
+            "weights":[
+                {
+                    "year": 2013, "weight":20
+                },
+                {
+                    "year": 2014, "weight":10
+                },
+                {
+                    "year": 2016, "weight":10
+                },
+                {
+                    "year": 2019, "weight":20
+                },
+                {
+                    "year": 2020, "weight":20
+                }
+            ]
+        }
+    ]
+}
