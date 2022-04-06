@@ -1,0 +1,370 @@
+{
+    "501": "introduction to DBMS",
+    "unit 1": [
+        {
+            "introduction": "Characteristics of database approach",
+            "weights": [
+                {
+                    "year": 2013, "weight":7.5
+                },
+                {
+                    "year": 2013, "weight": 15
+                },
+                {
+                    "year": 2014, "weight":3
+                },
+                {
+                    "year": 2016, "weight": 3
+                },
+                {
+                    "year": 2017, "weight": 3
+                },
+                {
+                    "year": 2017, "weight": 7.5
+                },
+                {
+                    "year": 2018, "weight": 3
+                },
+                {
+                    "year": 2021, "weight": 45
+                }
+            ]
+        },
+        {
+            "introduction": "data models", 
+            "weights": [
+                {
+                    "year": 2015, "weight": 3
+                },
+                {
+                    "year": 2017, "weight": 15
+                }
+            ]
+        },
+        {
+            "introduction": "DBMS architecture and data independence",
+            "weights":[
+                {
+                    "year":2013, "weight":3 
+                },
+                {
+                    "year":2014, "weight": 15
+                },
+                {
+                    "year": 2015, "weight":7.5
+                },
+                {
+                    "year": 2015, "weight":15
+                },
+                {
+                    "year":2018, "weight":3
+                },
+                {
+                    "year":2020, "weight":15
+                },
+                {
+                    "year": 2021, "weight":45
+                }
+            ]
+        }
+    ],
+    "unit 2" : [
+        {
+            "E-R modelling": "Entity types, Entity set, attribute and key(relation, full concept)",
+            "weights": [
+                {
+                    "year":2014, "weight":15
+                },
+                {
+                    "year":2015, "weight":3
+                },
+                {
+                    "year": 2016, "weight":7.5
+                },
+                {
+                    "year":2017, "weight":15
+                }
+            ]
+        },
+        {
+            "E-R modelling": "enhanced E-R and object modeling",
+            "weights":[
+                {
+                    "year": 2013, "weight":7.5
+                },
+                {
+                    "year": 2014, "weight":7.5
+                },
+                {
+                    "year": 2015, "weight": 15
+                },
+                {
+                    "year":2016, "weight":15
+                },
+                {
+                    "year":2017, "weight":3
+                },
+                {
+                    "year":2018, "weight":15
+                }
+            ]
+        },
+        {
+            "E-R modelling": "Super classes, inheritance, specialization and generalization ",
+            "weights": [
+                {
+                    "year":2013, "weight":7.5
+                },
+                {
+                    "year": 2014, "weight":3
+                },
+                {
+                    "year":2014, "weight":15
+                },
+                {
+                    "year":2015, "weight":15
+                },
+                {
+                    "year":2016, "weight":3
+                },
+                {
+                    "year":2016, "weight":15
+                },
+                {
+                    "year":2021, "weight":45
+                }
+            ]
+        }
+    ],
+    "unit 3":[
+        {
+            "file organization": "implementation using B & B++ trees",
+            "weights":[
+                {
+                    "year": 2017, "weight":3
+                },
+                {
+                    "year":2017, "weight":15
+                },
+                {
+                    "year":2018, "weight":15
+                }
+            ]
+        },
+        {
+            "file organization": "hashing(function, collision, extendible, dynamic,implementation, performance)",
+            "weights": [
+                {
+                    "year": 2013, "weight":15
+                },
+                {
+                    "year":2015, "weight":3
+                },
+                {
+                    "year": 2018, "weight":3
+                },
+                {
+                    "year":2021, "weight":45
+                }
+            ]
+        }
+    ],
+    "unit 4" : [
+        {
+            "relational data model": "relational(concepts, constraits,alzebra)",
+            "weights":[
+                {
+                    "year": 2013, "weight":15
+                },
+                {
+                    "year":2014, "weight":3
+                },
+                {
+                    "year": 2014, "weight":7.5
+                },
+                {
+                    "year":2014, "weight":15
+                },
+                {
+                    "year":2015, "weight":3
+                },
+                {
+                    "year":2015, "weight":7.5
+                },
+                {
+                    "year":2017, "weight":3
+                },
+                {
+                    "year":2017, "weight":15
+                },
+                {
+                    "year":2018, "weight":3
+                },
+                {
+                    "year":2019, "weight":15
+                },
+                {
+                    "year":2020, "weight":45
+                }
+            ]
+        },
+        {
+            "SQL" : "queries, programming",
+            "weights":[
+                {
+                    "year": 2013, "weight":15
+                },
+                {
+                    "year":2015, "weight":3
+                },
+                {
+                    "year":2017, "weight":3
+                },
+                {
+                    "year":2018, "weight":15
+                },
+                {
+                    "year":2019, "weight":3
+                },
+                {
+                    "year":2019, "weight":15
+                },
+                {
+                    "year":2020, "weight":7.5
+                },
+                {
+                    "year":2020, "weight":15
+                },
+                {
+                    "year":2021, "weight":45
+                }
+            ]
+        }
+    ],
+    "unit 5": [
+        {
+            "EER and ER to relational mapping": "data base design using EER to relational language",
+            "weights":[
+                {
+                    "year":2013, "weight":7.5
+                },
+                {
+                    "year":2014,"weight":15
+                },
+                {
+                    "year":2015, "weight":15
+                },
+                {
+                    "year":2016, "weight":15
+                }
+            ]
+        }
+    ],
+    "unit 6": [
+        {
+            "data normalization": "functional dependencies",
+            "weights":[
+                {
+                    "year":2013, "weight":3
+                },
+                {
+                    "year":2014, "weight":3
+                },
+                {
+                    "year":2015, "weight":7.5
+                },
+                {
+                    "year":2018, "weight":3
+                },
+                {
+                    "year":2018, "weight":15
+                },
+                {
+                    "year":2020, "weight":15
+                },
+                {
+                    "year":2021, "weight":15
+                }
+            ]
+        },
+        {
+            "data normalization":"Normal form up to 3rd normal form",
+            "weights":[
+                {
+                    "year":2013, "weight":15
+                },
+                {
+                    "year":2014, "weight":3
+                },
+                {
+                    "year":2014, "weight":15
+                },
+                {
+                    "year":2014, "weight":15
+                },
+                {
+                    "year": 2015, "weight":3
+                },
+                {
+                    "year":2015, "weight":15
+                },
+                {
+                    "year":2016, "weight":3
+                },
+                {
+                    "year":2016, "weight":7.5
+                },
+                {
+                    "year":2016, "weight":15
+                },
+                {
+                    "year":2019, "weight":7.5
+                },
+                {
+                    "year":2019, "weight":15
+                },
+                {
+                    "year":2020, "weight":15
+                },
+                {
+                    "year":2021, "weight":45
+                }
+            ]
+        },
+        {
+            "data normalization": "concurrency control",
+            "weights":[
+                {
+                    "year":2013, "weight":15
+                },
+                {
+                    "year":2014, "weight":15
+                },
+                {
+                    "year":2015, "weight":15
+                },
+                {
+                    "year":2016, "weight":7.5
+                },
+                {
+                    "year":2017, "weight":15
+                },
+                {
+                    "year":2018, "weight":15
+                },
+                {
+                    "year": 2020, "weight":15
+                },
+                {
+                    "year":2020, "weight":45
+                },
+                {
+                    "year":2021, "weight":7.5
+                },
+                {
+                    "year":2021, "weight":45
+                }
+            ]
+        }
+    ]
+}
