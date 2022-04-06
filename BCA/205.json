@@ -1,0 +1,370 @@
+{
+    "205": "financial accounting and management",
+    "unit 1": [
+        {
+            "overview":"meaning and nature of financial accounting",
+            "weights": [
+                {
+                    "year": 2015, "weight": 3
+                },
+                {
+                    "year": 2016, "weight": 3
+                },
+                {
+                    "year":2018, "weight": 3
+                },
+                {
+                    "year":2019, "weight":3
+                }
+            ]
+        } 
+    ],
+    "unit 2" : [
+        {
+            "basics of accounting ": "Introduction to Trail Balance",
+            "weights" : [
+                {
+                    "year": 2012, "weight":7.5
+                },
+                {
+                    "year": 2014, "weight":7.5
+                },
+                {
+                    "year":2015, "weight":3
+                },
+                {
+                    "year": 2016, "weight": 3
+                },
+                {
+                    "year": 2019, "weight": 7.5
+                }
+            ]
+        },
+        {
+            "basics of accounting ": "application of computer in accounting double entry system ",
+            "weights":[
+                {
+                    "year":2012, "weight":7.5
+                },
+                {
+                    "year":2015, "weight":7.5
+                },
+                {
+                    "year":2018, "weight":7.5
+                },
+                {
+                    "year":2018, "weight":15
+                }
+            ]
+        },
+        {
+            "basics of accounting ": "introduction to journal",
+            "weights":[
+                {
+                    "year":2015 , "weight": 7.5             
+                },
+                {
+                    "year":2017, "weight":3
+                },
+                {
+                    "year":2019, "weight":3
+                },
+                {
+                    "year":2019, "weight":15
+                }
+            ]
+        },
+        {
+            "basics of accounting ": " balance sheet and related concept",
+            "weights":[
+                {
+                    "year":2013 , "weight": 7.5 
+                },
+                {
+                    "year":2018 , "weight": 3 
+                },
+                {
+                    "year":2018 , "weight": 15   
+                },
+                {
+                    "year":2019 , "weight": 7.5   
+                },
+                {
+                    "year":2019 , "weight": 15   
+                }
+            ]
+        }
+    ],
+    "unit 3" : [
+        {
+            "financial statement analysis": "funds concept and flow analysis",
+            "weights": [
+                {
+                    "year":2011 , "weight":3 
+                },
+                {
+                    "year": 2015, "weight":3 
+                },
+                {
+                    "year": 2016, "weight":3 
+                },
+                {
+                    "year": 2017, "weight": 3
+                }
+            ]
+        },
+        {
+            "financial statement analysis":"cash book",
+            "weights":[
+                {
+                    "year": 2012, "weight":3 
+                },
+                {
+                    "year": 2016, "weight":3 
+                },
+                {
+                    "year": 2016, "weight":7.5 
+                },
+                {
+                    "year": 2019, "weight":7.5 
+                }
+            ]
+        },
+        {
+            "financial statement analysis":"financial accounting",
+            "weights":[
+                {
+                    "year":2013 , "weight":3 
+                },
+                {
+                    "year":2014, "weight":7.5
+                },
+                {
+                    "year":2016, "weight":15
+                },
+                {
+                    "year": 2017, "weight":15 
+                },
+                {
+                    "year":2019 , "weight":3 
+                }
+            ]
+        }
+    ],
+    "unit 4" : [
+        {
+            "financial management": "function of a campany",
+            "weights":[
+                {
+                    "year":2011, "weight":3
+                },
+                {
+                    "year":2013, "weight":7.5
+                },
+                {
+                    "year":2014, "weight":15
+                },
+                {
+                    "year": 2016, "weight":15 
+                },
+                {
+                    "year": 2017, "weight": 7.5
+                }
+            ]
+        },
+        {
+            "financial management": "importance",
+            "weights":[
+                {
+                    "year":2013, "weight":3
+                },
+                {
+                    "year":2015, "weight":7.5
+                },
+                {
+                    "year":2016, "weight":15
+                },
+                {
+                    "year":2017, "weight":3
+                },
+                {
+                    "year":2018, "weight":7.5
+                }
+            ]
+        },
+        {
+            "financial management":"explicit & implicit cost",
+            "weights":[
+                {
+                    "year":2013, "weight":15
+                },
+                {
+                    "year":2014, "weight":7.5
+                },
+                {
+                    "year":2015, "weight": 3
+                },
+                {
+                    "year":2017, "weight":7.5
+                }
+            ]
+        },
+        {
+            "financial management":"objective of financial management",
+            "weights":[
+                {
+                    "year":2013, "weight":15
+                },
+                {
+                    "year":2015, "weight":3
+                },
+                {
+                    "year":2017, "weight":7.5
+                },
+                {
+                    "year":2020, "weight": 15
+                }
+            ]
+        },
+        {
+            "financial management":"capatalization",
+            "weights":[
+                {
+                    "year":2011, "weight":3
+                },
+                {
+                    "year":2013, "weight":7.5
+                },
+                {
+                    "year":2015, "weight":3
+                },
+                {
+                    "year":2017, "weight":7.5
+                },
+                {
+                    "year":2019, "weight":15
+                }
+            ]
+        }
+    ],
+    "unit 5" :[
+        {
+            "capital management":"concept",
+            "weights" :[
+                {
+                    "year":2013, "weight":7.5
+                },
+                {
+                    "year":2015, "weight":3
+                },
+                {
+                    "year":2018, "weight":7.5
+                },
+                {
+                    "year":2019, "weight":3
+                }
+            ]
+        },
+        {
+            "capital management":"liquidity",
+            "weights":[
+                {
+                    "year":2011, "weight":7.5
+                },
+                {
+                    "year":2013, "weight":3
+                },
+                {
+                    "year":2016, "weight":3
+                },
+                {
+                    "year":2017, "weight":15
+                },
+                {
+                    "year":2019, "weight":7.5
+                }
+            ]
+        },
+        {
+            "capital management":"objectives",
+            "weights":[
+                {
+                    "year":2011, "weight":7.5
+                },
+                {
+                    "year":2013, "weight":3
+                },
+                {
+                    "year":2016, "weight":7.5
+                },
+                {
+                    "year":2018, "weight":15
+                }
+            ]
+        },
+        {
+            "capital management":"nature and concepts",
+            "weights":[
+                {
+                    "year":2013, "weight":7.5
+                },
+                {
+                    "year":2015, "weight":15
+                },
+                {
+                    "year":2019, "weight":3
+                }
+            ]
+        }
+    ],
+    "unit 6": [
+        {
+            "cash management" :"cash management",
+            "weights":[
+                {
+                    "year":2011, "weight":3
+                },
+                {
+                    "year":2014, "weight":7.5
+                },
+                {
+                    "year":2017, "weight":15
+                },
+                {
+                    "year":2019, "weight":7.5
+                },
+                {
+                    "year":2020, "weight":7.5
+                }
+            ]
+        },
+        {
+            "inventory management":"inventory management",
+            "weights":[
+                {
+                    "year":2014, "weight":3
+                },
+                {
+                    "year":2016, "weight":7.5
+                },
+                {
+                    "year":2017, "weight":7.5
+                },
+                {
+                    "year": 2019, "weight":15
+                }
+            ]
+        },
+        {
+            "receivables management": "recievables management",
+            "weights":[
+                {
+                    "year":2017, "weight":7.5
+                },
+                {
+                    "year": 2020, "weight":45
+                }
+            ]
+        }
+    ]
+}
