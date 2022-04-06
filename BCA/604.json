@@ -1,0 +1,252 @@
+{
+    "604": "knowledge management",
+    "unit 1": [
+        {
+            "business intelligence and business decisions": " modeling decision process",
+            "weights":[
+                {
+                    "year": 2016, "weight":3
+                },
+                {
+                    "year":2017, "weight":3
+                },
+                {
+                    "year":2019, "weight":3
+                },
+                {
+                    "year":2021, "weight":15
+                }
+            ]
+        },
+        {
+            "business intelligence and business decisions": "decision support systems",
+            "weights": [
+                {
+                    "year":2016, "weight":3
+                },
+                {
+                    "year":2017, "weight":3
+                },
+                {
+                    "year":2018, "weight":3
+                },
+                {
+                    "year":2018, "weight":15
+                },
+                {
+                    "year":2021, "weight":15
+                },
+                {
+                    "year":2021, "weight":45
+                }
+            ]
+        },
+        {
+            "business intelligence and business decisions": "group decision support", 
+            "weights": [
+                {
+                    "year": 2019, "weight":15
+                },
+                {
+                    "year":2020, "weight":15
+                },
+                {
+                    "year":2021, "weight":7.5
+                },
+                {
+                    "year":2021, "weight":45
+                }
+            ]
+        },
+        {
+            "business intelligence and business decisions": "groupware technologies",
+            "weights":[
+                {
+                    "year": 2019, "weight":3
+                },
+                {
+                    "year":2021, "weight":7.5
+                }
+            ]
+        }
+    ],
+    "unit 2" : [
+        {
+            "executive information and support Systems" : "business expert system and AI",
+            "weights":[
+                {
+                    "year":2016, "weight":3
+                },
+                {
+                    "year":2016, "weight":7.5
+                },
+                {
+                    "year": 2016, "weight":15
+                },
+                {
+                    "year":2017, "weight":3
+                },
+                {
+                    "year":2018, "weight":15
+                },
+                {
+                    "year":2019, "weight":3
+                },
+                {
+                    "year":2020, "weight":7.5
+                },
+                {
+                    "year":2020, "weight":45
+                },
+                {
+                    "year":2021, "weight":45
+                }
+            ] 
+        },
+        {
+            "executive information and support Systems":"OLTO & OLAP",
+            "weights":[
+                {
+                    "year":2018, "weight":15
+                },
+                {
+                    "year":2020, "weight":3
+                },
+                {
+                    "year":2020, "weight":15
+                }
+            ]
+        },
+        {
+            "executive information and support Systems":"data warehousing(architecture + tools)",
+            "weights":[
+                {
+                    "year": 2019, "weight":7.5
+                },
+                {
+                    "year":2019, "weight":15
+                },
+                {
+                    "year":2020, "weight":45
+                },
+                {
+                    "year":2020, "weight":15
+                },
+                {
+                    "year":2021, "weight":7.5
+                },
+                {
+                    "year":2021, "weight":45
+                }
+            ]
+        },
+        {
+            "executive information and support Systems":"data marts",
+            "weights":[
+                {
+                    "year":2016, "weight":7.5
+                },
+                {
+                    "year":2020, "weight":7.5
+                },
+                {
+                    "year":2021, "weight":7.5
+                }
+            ]
+        }
+    ],
+    "unit 3":[
+        {
+            "multi-dimensional analysis": "data mining and knowledge discovery, techniques",
+            "weights":[
+                {
+                    "year":2016, "weight":3
+                },
+                {
+                    "year":2016, "weight":3
+                },
+                {
+                    "year":2016, "weight":7.5
+                },
+                {
+                    "year":2017, "weight":7.5
+                },
+                {
+                    "year":2017, "weight":15
+                },
+                {
+                    "year":2017, "weight":15
+                },
+                {
+                    "year":2018, "weight":7.5
+                },
+                {
+                    "year":2018, "weight":15
+                },
+                {
+                    "year":2019, "weight":3
+                },
+                {
+                    "year":2019, "weight":15
+                },
+                {
+                    "year": 2021, "weight":45
+                }
+            ]
+        }
+    ],
+    "unit 4":[
+        {
+            "knowledge management systems": "concept and structure KM systems",
+            "weights":[
+                {
+                    "year":2016, "weight":3
+                },
+                {
+                    "year":2017, "weight":3
+                },
+                {
+                    "year":2017, "weight":7.5
+                },
+                {
+                    "year":2018, "weight":3
+                },
+                {
+                    "year":2019, "weight":15
+                },
+                {
+                    "year":2020, "weight":15
+                },
+                {
+                    "year":2021, "weight":45
+                }
+            ]
+        },
+        {
+            "knowledge management systems":"techniques of knowledge management appreciation & limitation",
+            "weights":[
+                {
+                    "year": 2017, "weight":15
+                },
+                {
+                    "year":2018, "weight": 3
+                },
+                {
+                    "year":2018, "weight":7.5
+                },
+                {
+                    "year":2018, "weight":7.5
+                },
+                {
+                    "year": 2018, "weight":15
+                },
+                {
+                    "year":2020, "weight":15
+                },
+                {
+                    "year":2021, "weight":45
+                }
+            ]
+        }
+    ]
+}
