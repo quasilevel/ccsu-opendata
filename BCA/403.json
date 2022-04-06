@@ -1,0 +1,223 @@
+{
+    "403": "software engineering",
+    "unit 1" : [
+        {
+            "software engineering": "definition and paradigms",
+            "weights": [
+                {
+                    "year": 2016, "weight": 3
+                },
+                {
+                    "year":2017, "weight":3
+                },
+                {
+                    "year":2018, "weight":3
+                }
+            ]
+        }
+    ],
+    "unit 2" :[
+        {
+            "requirement analysis": "analyzing a problem",
+            "weights":[
+                {
+                    "year": 2017, "weight":7.5
+                }
+            ]
+        }
+    ],
+    "unit 3" : [
+        {
+            "desining software solutions":  "application of fundamental design concept for data",
+            "weights":[
+                {
+                    "year": 2016, "weight":15
+                },
+                {
+                    "year":2017, "weight":7.5
+                },
+                {
+                    "year":2017, "weight":15
+                },
+                {
+                    "year":2019, "weight":3
+                }
+            ]
+        },
+        {
+            "desining software solutions": "object oriented design paradigm",
+            "weights":[
+                {
+                    "year": 2017, "weight":3
+                },
+                {
+                    "year":2019, "weight":3
+                }
+            ]
+        }       
+    ],
+    "unit 4":[
+        {
+            "software implementation":"implementation issues and programming support environmen",
+            "weights":[
+                {
+                    "year": 2017, "weight":7.5
+                },
+                {
+                    "year":2018, "weight":3
+                },
+                {
+                    "year":2020, "weight":7.5
+                }
+            ]
+        },
+        {
+            "software implementation":"coding the procedural design",
+            "weights":[
+                {
+                    "year": 2016, "weight":15
+                },
+                {
+                    "year":2017, "weight":7.5
+                },
+                {
+                    "year":2017, "weight":15
+                },
+                {
+                    "year":2018, "weight":15
+                },
+                {
+                    "year":2020, "weight":15
+                }
+            ]
+        }
+    ],
+    "unit 5" : [
+        {
+            "software maintenance":" maintenance as part of software evaluation",
+            "weights":[
+                {
+                    "year":2016, "weight":3
+                },
+                {
+                    "year":2017, "weight":3
+                },
+                {
+                    "year":2018, "weight":15
+                },
+                {
+                    "year": 2020, "weight":7.5
+                }
+            ]
+        },
+        {
+            "software maintenance":"types of maintenance (Perceptive, adoptive, corrective)",
+            "weights":[
+                {
+                    "year":2016, "weight":7.5
+                },
+                {
+                    "year":2016, "weight":15
+                },
+                {
+                    "year":2016, "weight":15
+                },
+                {
+                    "year":2017, "weight":15
+                },
+                {
+                    "year":2018, "weight":15
+                },
+                {
+                    "year":2019, "weight":3
+                },
+                {
+                    "year":2019, "weight":15
+                },
+                {
+                    "year":2020, "weight":15
+                }
+            ]
+        },
+        {
+            "software maintenance":"designing and techniques",
+            "weights":[
+                {
+                    "year":2016, "weight": 3
+                },
+                {
+                    "year":2016, "weight":7.5
+                },
+                {
+                    "year": 2016, "weight":15
+                },
+                {
+                    "year":2017, "weight":7.5
+                },
+                {
+                    "year": 2018, "weight":15
+                },
+                {
+                    "year":2019, "weight":7.5
+                }, 
+                {
+                    "year": 2020, "weight": 45
+                }
+            ]
+        }
+    ],
+    "unit 6" : [
+        {
+            "configuration management": "configuration management",
+            "weights":[
+                {
+                    "year": 2016, "weight":7.5
+                },
+                {
+                    "year":2017, "weight":7.5
+                },
+                {
+                    "year":2018, "weight":7.5
+                },
+                {
+                    "year": 2020, "weight":15
+                }
+            ]
+        },
+        {
+            "configuration management": "platform/ case tools",
+            "weights":[
+                {
+                    "year": 2016, "weight":3
+                },
+                {
+                    "year": 2017, "weight":3
+                },
+                {
+                    "year": 2017, "weight":7.5
+                },
+                {
+                    "year":2017, "weight":15
+                },
+                {
+                    "year":2018, "weight":3
+                },
+                {
+                    "year":2018, "weight":7.5
+                },
+                {
+                    "year":2019, "weight":3
+                },
+                {
+                    "year":2019, "weight":7.5
+                },
+                {
+                    "year":2020, "weight":15
+                },
+                {
+                    "year":2020, "weight":45
+                }
+            ]
+        }
+    ]
+}
