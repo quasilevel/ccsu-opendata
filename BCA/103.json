@@ -1,0 +1,379 @@
+{
+    "103":"Computer Fundamentals And Office Automation",
+    "unit 1" :[
+        {
+            "Introduction to computer" : "data organisation",
+            "weights" : [
+                {
+                    "year":2013, "weight":3
+                },
+                {
+                    "year":2013, "weight":7.5
+                },
+                {
+                    "year":2011, "weight":15
+                },
+                {
+                    "year":2015, "weight":7.5
+                },
+                {
+                    "year":2018, "weight":3
+                },
+                {
+                    "year":2020, "weight":15
+                }
+            ]
+        },
+        {
+            "Introduction to computer": "i/o devices",
+            "weights": [
+                {
+                    "year":2012, "weight": 3
+                },
+                {
+                    "year":2012, "weight":7.5
+                },
+                {
+                    "year":2015, "weight":7.5
+                },
+                {
+                    "year":2018, "weight":15
+                },
+                {
+                    "year":2020, "weight":15
+                },
+                {
+                    "year":2021, "weight" :45
+                }
+
+            ]
+        },
+        {
+            "Introduction to computer": "types of computers",
+            "weights" :[
+                {
+                    "year":2011, "weight":7.5
+                },
+                {
+                    "year":2018, "weight":15
+                },
+                {
+                    "year":2019, "weight":7.5
+                }
+            ]
+        },
+        {
+            "Introduction to computer":"introduction to number system",
+            "weights": [
+                {
+                    "year":2011, "weight": 3 
+                },
+                {
+                    "year":2012, "weight": 7.5
+                },
+                {
+                    "year":2013, "weight": 7.5
+                },
+                {
+                    "year":2016, "weight":7.5
+                },
+                {
+                    "year":2017, "weight":7.5
+                },
+                {
+                    "year":2020, "weight":7.5
+                }
+            ]
+        },
+        {
+            "Introduction to computer": "drives",
+            "weights":[
+                {
+                    "year":2011, "weight":7.5
+                },
+                {
+                    "year":2013, "weight":7.5
+                },
+                {
+                    "year":2016, "weight":7.5
+                },
+                {
+                    "year":2019, "weight":7.5
+                } 
+            ]
+        },
+        {
+            "Introduction to computer": "types of memory",
+            "weights":[
+                {
+                    "year":2012, "weight":7.5
+                },
+                {
+                    "year":2013, "weight":7.5
+                },
+                {
+                    "year":2017, "weight":15
+                },
+                {
+                    "year":2021, "weight":15
+                }
+            ]
+        },
+        {
+            "Introduction to computer": "block daigram of computer",
+            "weights":[
+                {
+                    "year":2013, "weight":15
+                },
+                {
+                    "year":2017, "weight":15
+                },
+                {
+                    "year":2019, "weight":15
+                },
+                {
+                    "year":2020, "weight":45
+                },
+                {
+                    "year":2021, "weight":45
+                }
+            ]
+        },
+        {
+            "Introduction to computer": "types of programming language",
+            "weights":[
+                {
+                    "year":2011, "weight":3
+                },
+                {
+                    "year":2015, "weight":7.5
+                },
+                {
+                    "year":2017, "weight":15
+                },
+                {
+                    "year":2019, "weight":7.5
+                }
+            ]
+        }
+    ],
+    "unit 2" :[
+        {
+            "Alogrithm and Flowchart":"algorithm(defition,characteristics,advantage,disadvantage,example)",
+            "weights":[
+                {
+                    "year":2012, "weight":15
+                },
+                {
+                    "year":2013, "weight":15
+                },
+                {
+                    "year":2015, "weight":15
+                },
+                {
+                    "year":2019, "weight":15
+                },
+                {
+                    "year":2020, "weight":45
+                },
+                {
+                    "year":2021, "weight":45
+                }
+            ]
+        },
+        {
+            "Alogrithm and Flowchart" :"flowchart(defition,characteristics,advantage,disadvantage,example)",
+            "weights":[
+                {
+                    "year":2011,"weight":15
+                },
+                {
+                    "year":2013,"weight":15
+                },
+                {
+                    "year":2015,"weight":15
+                },
+                {
+                    "year":2017,"weight":15
+                }
+            ]
+        }
+    ],
+    "unit 3" : [
+        {
+            "operating system and services in o.s" : "Dos-(history,files)",
+
+            "weights":[
+                {
+                    "year":2011,"weight":3
+                },
+                {
+                    "year":2013,"weight":7.5
+                },
+                {
+                    "year":2015,"weight":7.5
+                },
+                {
+                    "year":2017,"weight":7.5
+                }
+            ]
+        },
+        {
+            "operating system and services in o.s": "internal and external commands",
+            "weights":[
+                {
+                    "year":2013,"weight" : 7.5
+                },
+                {
+                    "year":2015,"weight":15
+                },
+                {
+                    "year":2019,"weight":7.5
+                },
+                {
+                    "year":2021,"weight":7.5
+                }
+            ]
+        },
+        {
+            "operating system and services in o.s": "batch files",
+            "weights":[
+                {
+                    "year":2013,"weight" :7.5
+                },
+                {
+                    "year":2015,"weight":7.5
+                },
+                {
+                    "year":2019,"weight":3
+                }
+            ]
+        },
+        {
+            "operating system and services in o.s":"types of os",
+            "weights":[
+                {
+                    "year":2011, "weight":7.5
+                },
+                {
+                    "year":2019, "weight":7.5
+                }
+            ]
+        },
+        {
+            "operating system and services in o.s":"operating system",
+            "weights":[
+                {
+                    "year":2012, "weight":7.5
+                },
+                {
+                    "year":2012, "weight":7.5
+                },
+                {
+                    "year":2015, "weight":7.5
+                },
+                {
+                    "year":2019, "weight":7.5
+                }
+            ]
+        }    
+    ],
+    "unit 4": [
+        {
+            "windows operating environment" : "window applications",
+            "weights":[
+                {
+                    "year":2011, "weight":15
+                },
+                {
+                    "year":2013, "weight":15
+                },
+                {
+                    "year":2017, "weight":7.5
+                },
+                {
+                    "year":2019, "weight":7.5
+                },
+                {
+                    "year":2021, "weight":15
+                }
+            ]
+        },
+        {
+            "windows operating environment": "taskbar",
+            "weights":[
+                {
+                    "year":2011, "weight":7.5
+                },
+                {
+                    "year":2019, "weight":3
+                }
+            ]
+        },
+        {
+            "windows operating environment": "window accessories",
+            "weights":[
+                {
+                    "year": 2013, "weight":15
+                },
+                {
+                    "year":2019, "weight": 7.5
+                }
+            ]
+        }
+    ],
+    "unit 5" : [
+        {
+            "editors and word processors": "basic concepts",
+            "weights":[
+                {
+                    "year": 2017, "weight":7.5
+                },
+                {
+                    "year":2020, "weight":15
+                },
+                {
+                    "year":2021, "weight":45
+                }
+            ]
+        },
+        {
+            "editors and word processors": "desktop publishing",
+            "weights":[
+                {
+                    "year":2015, "weight":15
+                },
+                {
+                    "year":2019, "weight":15
+                }
+            ]
+        }
+    ],
+    "unit 6" : [
+        {
+            "spreadsheet and database packages": "ms excel",
+            "weights":[
+                {
+                    "year":2012, "weight":15
+                },
+                {
+                    "year":2019, "weight":3
+                }
+            ]
+        },
+        {
+            "spreadsheet and database packages": "ms powerpoint",
+            "weights":[
+                {
+                    "year": 2011, "weight":7.5
+                },
+                {
+                    "year": 2019, "weight":7.5
+                },
+                {
+                    "year": 2021, "weight": 45
+                }
+            ]
+        }
+    ]
+}
