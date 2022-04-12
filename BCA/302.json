@@ -1,8 +1,8 @@
 {
-    "Subject": "data structure using c and c++",
-    "Topic": [
+    "subject": "data structure using c and c++",
+    "topic": [
         {
-            "Name": "single and multidemensional array",
+            "name": "single and multidemensional array",
             "weights": [
                 {
                     "year": 2013, 
@@ -43,7 +43,7 @@
             ]            
         },
         {
-            "Name": "sparse array",
+            "name": "sparse array",
             "weights": [
                 {
                     "year": 2015, 
@@ -80,7 +80,7 @@
             ]
         },
         {
-            "Name" : "introductiion, application, primitive operation on satck",
+            "name" : "introductiion, application, primitive operation on satck",
             "weights":[
                 {
                     "year": 2015, 
@@ -113,7 +113,7 @@
             ]
         },
         {
-            "Name": "infix, postfix, prefix",
+            "name": "infix, postfix, prefix",
             "weights":[
                 {
                     "year": 2016, 
@@ -138,7 +138,7 @@
             ]
         },
         {
-            "Name": "d queue",
+            "name": "d queue",
             "weights":[
                 {
                     "year":2013, 
@@ -179,7 +179,7 @@
             ]
         },
         {
-            "Name": "priority queues",
+            "name": "priority queues",
             "weights":[
                 {
                     "year":2014, 
@@ -196,7 +196,7 @@
             ]
         },
         {
-            "Name": "linked lists(all operations)",
+            "name": "linked lists(all operations)",
             "weights":[
                 {
                     "year": 2013, 
@@ -253,7 +253,7 @@
             ] 
         },
         {
-            "Name" :"header",
+            "name" :"header",
             "weights":[
                 {
                     "year":2015, 
@@ -270,7 +270,7 @@
             ]
         },
         {
-            "Name": "binary, binary search tree",
+            "name": "binary, binary search tree",
             "weights":[
                 {
                     "year":2013, 
@@ -339,7 +339,7 @@
             ] 
         },
         {
-            "Name": "b-trees(full concept)",
+            "name": "b-trees(full concept)",
             "weights":[
                 {
                     "year":2014, 
@@ -380,7 +380,7 @@
             ]
         },
         {
-            "Name": "sorting techniques",
+            "name": "sorting techniques",
             "weights":[
                 {
                     "year" :2011, 
@@ -393,7 +393,7 @@
             ]
         },
         {
-            "Name": "heap sort",
+            "name": "heap sort",
             "weights":[
                 {
                     "year": 2014, 
@@ -422,7 +422,7 @@
             ]
         },
         {
-            "Name": "merge sort", 
+            "name": "merge sort", 
             "weights": [
                 {
                     "year":2016, 
@@ -443,7 +443,7 @@
             ]
         },
         {
-            "Name": "searching teachniques",
+            "name": "searching teachniques",
             "weights":[
                 {
                     "year": 2011, 
