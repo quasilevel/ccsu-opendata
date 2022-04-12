@@ -1,8 +1,8 @@
 {
-    "Subject":"Computer Fundamentals And Office Automation",
+    "Subject":"computer fundamentals And office automation",
     "Topic" :[
         {
-            "Name" : "data organisation",
+            "name" : "data organisation",
             "weights" : [
                 {
                     "year":2013, 
@@ -31,7 +31,7 @@
             ]
         },
         {
-            "Name": "i/o devices",
+            "name": "i/o devices",
             "weights": [
                 {
                     "year":2012, 
@@ -61,7 +61,7 @@
             ]
         },
         {
-            "Name": "types of computers",
+            "name": "types of computers",
             "weights" :[
                 {
                     "year":2011, 
@@ -78,7 +78,7 @@
             ]
         },
         {
-            "Name":"introduction to number system",
+            "name":"introduction to number system",
             "weights": [
                 {
                     "year":2011, 
@@ -107,7 +107,7 @@
             ]
         },
         {
-            "Name": "drives",
+            "name": "drives",
             "weights":[
                 {
                     "year":2011, 
@@ -128,7 +128,7 @@
             ]
         },
         {
-            "Name": "types of memory",
+            "name": "types of memory",
             "weights":[
                 {
                     "year":2012, 
@@ -149,7 +149,7 @@
             ]
         },
         {
-            "Name": "block daigram of computer",
+            "name": "block daigram of computer",
             "weights":[
                 {
                     "year":2013, 
@@ -174,7 +174,7 @@
             ]
         },
         {
-              "Name": "types of programming language",
+              "name": "types of programming language",
             "weights":[
                 {
                     "year":2011, 
@@ -195,7 +195,7 @@
             ]
         },
         {
-            "Name":"algorithm(defition,characteristics,advantage,disadvantage,example)",
+            "name":"algorithm(defition,characteristics,advantage,disadvantage,example)",
             "weights":[
                 {
                     "year":2012, 
@@ -224,7 +224,7 @@
             ]
         },
         {
-            "Name" :"flowchart(defition,characteristics,advantage,disadvantage,example)",
+            "name" :"flowchart(defition,characteristics,advantage,disadvantage,example)",
             "weights":[
                 {
                     "year":2011,
@@ -245,7 +245,7 @@
             ]
         },
         {
-            "Name" : "Dos-(history,files)",
+            "name" : "Dos-(history,files)",
 
             "weights":[
                 {
@@ -267,7 +267,7 @@
             ]
         },
         {
-            "Name": "internal and external commands",
+            "name": "internal and external commands",
             "weights":[
                 {
                     "year":2013,
@@ -288,7 +288,7 @@
             ]
         },
         {
-            "Name": "batch files",
+            "name": "batch files",
             "weights":[
                 {
                     "year":2013,
@@ -305,7 +305,7 @@
             ]
         },
         {
-            "Name":"types of os",
+            "name":"types of os",
             "weights":[
                 {
                     "year":2011, 
@@ -318,7 +318,7 @@
             ]
         },
         {
-            "Name":"operating system",
+            "name":"operating system",
             "weights":[
                 {
                     "year":2012, 
@@ -339,7 +339,7 @@
             ]
         },    
         {
-            "Name": "window applications",
+            "name": "window applications",
             "weights":[
                 {
                     "year":2011, 
@@ -364,7 +364,7 @@
             ]
         },
         {
-            "Name" : "taskbar",
+            "name" : "taskbar",
             "weights":[
                 {
                     "year":2011, 
@@ -377,7 +377,7 @@
             ]
         },
         {
-            "Name" : "window accessories",
+            "name" : "window accessories",
             "weights":[
                 {
                     "year": 2013, 
@@ -390,7 +390,7 @@
             ]
         },
         {
-            "Name": "basic concepts",
+            "name": "basic concepts",
             "weights":[
                 {
                     "year": 2017, 
@@ -407,7 +407,7 @@
             ]
         },
         {
-            "Name": "desktop publishing",
+            "name": "desktop publishing",
             "weights":[
                 {
                     "year":2015, 
@@ -420,7 +420,7 @@
             ]
         },
         {
-            "Name": "ms excel",
+            "name": "ms excel",
             "weights":[
                 {
                     "year":2012, 
@@ -433,7 +433,7 @@
             ]
         },
         {
-            "Name": "ms powerpoint",
+            "name": "ms powerpoint",
             "weights":[
                 {
                     "year": 2011, 
