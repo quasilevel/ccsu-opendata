@@ -1,8 +1,8 @@
 {
-    "Subject": "software engineering",
-    "Topic" : [
+    "subject": "software engineering",
+    "topic" : [
         {
-            "Name": "definition and paradigms",
+            "name": "definition and paradigms",
             "weights": [
                 {
                     "year": 2016, 
@@ -19,7 +19,7 @@
             ]
         },
         {
-            "Name": "analyzing a problem",
+            "name": "analyzing a problem",
             "weights":[
                 {
                     "year": 2017, 
@@ -28,7 +28,7 @@
             ]
         },
         {
-            "Name":  "application of fundamental design concept for data",
+            "name":  "application of fundamental design concept for data",
             "weights":[
                 {
                     "year": 2016, 
@@ -49,7 +49,7 @@
             ]
         },
         {
-            "Name": "object oriented design paradigm",
+            "name": "object oriented design paradigm",
             "weights":[
                 {
                     "year": 2017, 
@@ -62,7 +62,7 @@
             ]
         },
         {
-            "Name":"implementation issues and programming support environmen",
+            "name":"implementation issues and programming support environmen",
             "weights":[
                 {
                     "year": 2017, 
@@ -79,7 +79,7 @@
             ]
         },
         {
-            "Name":"coding the procedural design",
+            "name":"coding the procedural design",
             "weights":[
                 {
                     "year": 2016, 
@@ -104,7 +104,7 @@
             ]
         },
         {
-            "Name":" maintenance as part of software evaluation",
+            "name":" maintenance as part of software evaluation",
             "weights":[
                 {
                     "year":2016, 
@@ -125,7 +125,7 @@
             ]
         },
         {
-            "Name":"types of maintenance (Perceptive, adoptive, corrective)",
+            "name":"types of maintenance (Perceptive, adoptive, corrective)",
             "weights":[
                 {
                     "year":2016, 
@@ -163,7 +163,7 @@
             ]
         },
         {
-            "Name":"designing and techniques",
+            "name":"designing and techniques",
             "weights":[
                 {
                     "year":2016, 
@@ -196,7 +196,7 @@
             ]
         },
         {
-            "Name": "configuration management",
+            "name": "configuration management",
             "weights":[
                 {
                     "year": 2016, 
@@ -217,7 +217,7 @@
             ]
         },
         {
-            "Name": "platform/ case tools",
+            "name": "platform/ case tools",
             "weights":[
                 {
                     "year": 2016, 
