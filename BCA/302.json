@@ -1,0 +1,524 @@
+{
+    "subject": "data structure using c and c++",
+    "topic": [
+        {
+            "name": "single and multidemensional array",
+            "weights": [
+                {
+                    "year": 2013, 
+                    "weight": 3
+                },
+                {
+                    "year": 2013, 
+                    "weight": 7.5
+                },
+                {
+                    "year":2013, 
+                    "weight":3
+                },
+                {
+                    "year": 2014, 
+                    "weight":3
+                },
+                {
+                    "year":2016, 
+                    "weight": 15
+                },
+                {
+                    "year":2017, 
+                    "weight":3
+                },
+                {
+                    "year": 2019, 
+                    "weight": 3
+                },
+                {
+                    "year": 2020, 
+                    "weight": 7.5
+                },
+                {
+                    "year":2021, 
+                    "weight": 45
+                }
+            ]            
+        },
+        {
+            "name": "sparse array",
+            "weights": [
+                {
+                    "year": 2015, 
+                    "weight": 3
+                },
+                {
+                    "year":2016, 
+                    "weight": 3
+                },
+                {
+                    "year": 2016, 
+                    "weight":7.5
+                },
+                {
+                    "year": 2017, 
+                    "weight":7.5
+                },
+                {
+                    "year": 2017, 
+                    "weight": 15
+                },
+                {
+                    "year": 2018, 
+                    "weight": 7.5
+                },
+                {
+                    "year": 2020, 
+                    "weight":15
+                },
+                {
+                    "year":2020, 
+                    "weight": 15
+                }
+            ]
+        },
+        {
+            "name" : "introductiion, application, primitive operation on satck",
+            "weights":[
+                {
+                    "year": 2015, 
+                    "weight": 15
+                },
+                {
+                    "year":2017, 
+                    "weight": 15
+                },
+                {
+                    "year":2018, 
+                    "weight":3
+                },
+                {
+                    "year":2018, 
+                    "weight":7.5
+                },
+                {
+                    "year": 2019, 
+                    "weight":3
+                },
+                {
+                    "year":2020, 
+                    "weight":7.5
+                },
+                {
+                    "year": 2021, 
+                    "weight":15
+                }
+            ]
+        },
+        {
+            "name": "infix, postfix, prefix",
+            "weights":[
+                {
+                    "year": 2016, 
+                    "weight": 7.5
+                },
+                {
+                    "year":2018, 
+                    "weight":15
+                },
+                {
+                    "year":2018, 
+                    "weight":15
+                },
+                {
+                    "year":2019, 
+                    "weight":15
+                },
+                {
+                    "year":2020, 
+                    "weight":7.5
+                }
+            ]
+        },
+        {
+            "name": "d queue",
+            "weights":[
+                {
+                    "year":2013, 
+                    "weight":3
+                },
+                {
+                    "year":2014, 
+                    "weight":3
+                },
+                {
+                    "year":2015, 
+                    "weight":7.5
+                },
+                {
+                    "year": 2016, 
+                    "weight": 15
+                },
+                {
+                    "year": 2017, 
+                    "weight":3
+                },
+                {
+                    "year": 2019, 
+                    "weight": 7.5
+                },
+                {
+                    "year": 2020, 
+                    "weight":7.5
+                },
+                {
+                    "year":2021, 
+                    "weight":7.5
+                },
+                {
+                    "year":2021, 
+                    "weight":15
+                }
+            ]
+        },
+        {
+            "name": "priority queues",
+            "weights":[
+                {
+                    "year":2014, 
+                    "weight":15
+                },
+                {
+                    "year": 2018, 
+                    "weight": 15
+                },
+                {
+                    "year": 2020, 
+                    "weight":7.5
+                }
+            ]
+        },
+        {
+            "name": "linked lists(all operations)",
+            "weights":[
+                {
+                    "year": 2013, 
+                    "weight":3
+                },
+                {
+                    "year": 2013, 
+                    "weight": 15
+                },
+                {
+                    "year":2014, 
+                    "weight": 3
+                },
+                {
+                    "year":2014, 
+                    "weight":7.5
+                },
+                {
+                    "year":2015, 
+                    "weight":15
+                },
+                {
+                    "year": 2016, 
+                    "weight":3
+                },
+                {
+                    "year": 2016, 
+                    "weight":7.5
+                },
+                {
+                    "year":2017, 
+                    "weight":3
+                },
+                {
+                    "year": 2017, 
+                    "weight":7.5
+                },
+                {
+                    "year": 2019, 
+                    "weight":7.5
+                },
+                {
+                    "year": 2020, 
+                    "weight" :15
+                },
+                {
+                    "year": 2021, 
+                    "weight":7.5
+                },
+                {
+                    "year":2021, 
+                    "weight":45
+                }
+            ] 
+        },
+        {
+            "name" :"header",
+            "weights":[
+                {
+                    "year":2015, 
+                    "weight": 3
+                },
+                {
+                    "year": 2016, 
+                    "weight":3
+                },
+                {
+                    "year": 2013, 
+                    "weight":3
+                }
+            ]
+        },
+        {
+            "name": "binary, binary search tree",
+            "weights":[
+                {
+                    "year":2013, 
+                    "weight": 3
+                },
+                {
+                    "year": 2013, 
+                    "weight": 15
+                },
+                {
+                    "year":2014, 
+                    "weight": 3
+                },
+                {
+                    "year": 2014, 
+                    "weight":15
+                },
+                {
+                    "year":2015,
+                    "weight": 15
+                },
+                {
+                    "year": 2016,
+                     "weight":3
+                },
+                {
+                    "year":2017, 
+                    "weight":3
+                },
+                {
+                    "year":2017, 
+                    "weight":7.5
+                },
+                {
+                    "year":2017, 
+                    "weight":15
+                },
+                {
+                    "year": 2018, 
+                    "weight":7.5
+                },
+                {
+                    "year":2018, 
+                    "weight": 15
+                },
+                {
+                    "year":2019, 
+                    "weight":3
+                },
+                {
+                    "year":2019, 
+                    "weight":7.5
+                },
+                {
+                    "year":2019, 
+                    "weight":15
+                },
+                {
+                    "year":2020, 
+                    "weight":15
+                },
+                {
+                    "year":2021,
+                    "weight":45
+                }
+            ] 
+        },
+        {
+            "name": "b-trees(full concept)",
+            "weights":[
+                {
+                    "year":2014, 
+                    "weight": 7.5
+                },
+                {
+                    "year":2015, 
+                    "weight":3
+                },
+                {
+                    "year": 2016, 
+                    "weight": 7.5
+                },
+                {
+                    "year": 2017, 
+                    "weight":7.5
+                },
+                {
+                    "year": 2018, 
+                    "weight":15
+                },
+                {
+                    "year": 2019, 
+                    "weight":3
+                },
+                {
+                    "year": 2019, 
+                    "weight":7.5
+                },
+                {
+                    "year":2020, 
+                    "weight":45
+                },
+                {
+                    "year":2021, 
+                    "weight":15
+                }
+            ]
+        },
+        {
+            "name": "sorting techniques",
+            "weights":[
+                {
+                    "year" :2011, 
+                    "weight":15 
+                },
+                {
+                    "year":2019, 
+                    "weight":15
+                }
+            ]
+        },
+        {
+            "name": "heap sort",
+            "weights":[
+                {
+                    "year": 2014, 
+                    "weight":15
+                },
+                {
+                    "year": 2015, 
+                    "weight":15
+                },
+                {
+                    "year":2017, 
+                    "weight":15
+                },
+                {
+                    "year":2019, 
+                    "weight":15
+                },
+                {
+                    "year":2020, 
+                    "weight":45
+                },
+                {
+                    "year": 2021, 
+                    "weight": 15
+                }
+            ]
+        },
+        {
+            "name": "merge sort", 
+            "weights": [
+                {
+                    "year":2016, 
+                    "weight":15
+                }, 
+                {
+                    "year":2017, 
+                    "weight": 7.5
+                },
+                {
+                    "year": 2019, 
+                    "weight":7.5
+                },
+                {
+                    "year":2021, 
+                    "weight":45
+                }
+            ]
+        },
+        {
+            "name": "searching teachniques",
+            "weights":[
+                {
+                    "year": 2011, 
+                    "weight":3
+                },
+                {
+                    "year": 2011, 
+                    "weight":7.5
+                },
+                {
+                    "year":2014, 
+                    "weight":3
+                },
+                {
+                    "year": 2014, 
+                    "weight":15
+                },
+                {
+                    "year":2015, 
+                    "weight":3
+                },
+                {
+                    "year":2015, 
+                    "weight":7.5
+                },
+                {
+                    "year":2016, 
+                    "weight":7.5
+                },
+                {
+                    "year":2016, 
+                    "weight":15
+                },
+                {
+                    "year":2017, 
+                    "weight":7.5
+                },
+                {
+                    "year":2017, 
+                    "weight":15             
+                }, 
+                {
+                    "year":2018, 
+                    "weight":15
+                },
+                {
+                    "year":2019, 
+                    "weight":15
+                },
+                {
+                    "year": 2020, 
+                    "weight":7.5
+                }, 
+                {
+                    "year":2020, 
+                    "weight":7.5
+                },
+                {
+                    "year": 2020, 
+                    "weight":15
+                },
+                {
+                    "year":2021, 
+                    
+                    "weight":7.5
+                },
+                {
+                    "year":2021, 
+                    "weight":15
+                },
+                {
+                    "year":2021, 
+                    "weight":45
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,265 @@
+{
+    "subject": "software engineering",
+    "topic" : [
+        {
+            "name": "definition and paradigms",
+            "weights": [
+                {
+                    "year": 2016, 
+                    "weight": 3
+                },
+                {
+                    "year":2017, 
+                    "weight":3
+                },
+                {
+                    "year":2018, 
+                    "weight":3
+                }
+            ]
+        },
+        {
+            "name": "analyzing a problem",
+            "weights":[
+                {
+                    "year": 2017, 
+                    "weight":7.5
+                }
+            ]
+        },
+        {
+            "name":  "application of fundamental design concept for data",
+            "weights":[
+                {
+                    "year": 2016, 
+                    "weight":15
+                },
+                {
+                    "year":2017, 
+                    "weight":7.5
+                },
+                {
+                    "year":2017, 
+                    "weight":15
+                },
+                {
+                    "year":2019, 
+                    "weight":3
+                }
+            ]
+        },
+        {
+            "name": "object oriented design paradigm",
+            "weights":[
+                {
+                    "year": 2017, 
+                    "weight":3
+                },
+                {
+                    "year":2019, 
+                    "weight":3
+                }
+            ]
+        },
+        {
+            "name":"implementation issues and programming support environmen",
+            "weights":[
+                {
+                    "year": 2017, 
+                    "weight":7.5
+                },
+                {
+                    "year":2018, 
+                    "weight":3
+                },
+                {
+                    "year":2020, 
+                    "weight":7.5
+                }
+            ]
+        },
+        {
+            "name":"coding the procedural design",
+            "weights":[
+                {
+                    "year": 2016, 
+                    "weight":15
+                },
+                {
+                    "year":2017, 
+                    "weight":7.5
+                },
+                {
+                    "year":2017, 
+                    "weight":15
+                },
+                {
+                    "year":2018, 
+                    "weight":15
+                },
+                {
+                    "year":2020, 
+                    "weight":15
+                }
+            ]
+        },
+        {
+            "name":" maintenance as part of software evaluation",
+            "weights":[
+                {
+                    "year":2016, 
+                    "weight":3
+                },
+                {
+                    "year":2017, 
+                    "weight":3
+                },
+                {
+                    "year":2018, 
+                    "weight":15
+                },
+                {
+                    "year": 2020, 
+                    "weight":7.5
+                }
+            ]
+        },
+        {
+            "name":"types of maintenance (Perceptive, adoptive, corrective)",
+            "weights":[
+                {
+                    "year":2016, 
+                    
+                    "weight":7.5
+                },
+                {
+                    "year":2016, 
+                    "weight":15
+                },
+                {
+                    "year":2016, 
+                    "weight":15
+                },
+                {
+                    "year":2017, 
+                    "weight":15
+                },
+                {
+                    "year":2018, 
+                    "weight":15
+                },
+                {
+                    "year":2019, 
+                    "weight":3
+                },
+                {
+                    "year":2019, 
+                    "weight":15
+                },
+                {
+                    "year":2020, 
+                    "weight":15
+                }
+            ]
+        },
+        {
+            "name":"designing and techniques",
+            "weights":[
+                {
+                    "year":2016, 
+                    "weight": 3
+                },
+                {
+                    "year":2016, 
+                    "weight":7.5
+                },
+                {
+                    "year": 2016, 
+                    "weight":15
+                },
+                {
+                    "year":2017, 
+                    "weight":7.5
+                },
+                {
+                    "year": 2018, 
+                    "weight":15
+                },
+                {
+                    "year":2019, 
+                    "weight":7.5
+                }, 
+                {
+                    "year": 2020, 
+                    "weight": 45
+                }
+            ]
+        },
+        {
+            "name": "configuration management",
+            "weights":[
+                {
+                    "year": 2016, 
+                    "weight":7.5
+                },
+                {
+                    "year":2017, 
+                    "weight":7.5
+                },
+                {
+                    "year":2018, 
+                    "weight":7.5
+                },
+                {
+                    "year": 2020, 
+                    "weight":15
+                }
+            ]
+        },
+        {
+            "name": "platform/ case tools",
+            "weights":[
+                {
+                    "year": 2016, 
+                    "weight":3
+                },
+                {
+                    "year": 2017, 
+                    "weight":3
+                },
+                {
+                    "year": 2017, 
+                    "weight":7.5
+                },
+                {
+                    "year":2017, 
+                    "weight":15
+                },
+                {
+                    "year":2018, 
+                    "weight":3
+                },
+                {
+                    "year":2018, 
+                    "weight":7.5
+                },
+                {
+                    "year":2019, 
+                    "weight":3
+                },
+                {
+                    "year":2019, 
+                    "weight":7.5
+                },
+                {
+                    "year":2020, 
+                    "weight":15
+                },
+                {
+                    "year":2020, 
+                    "weight":45
+                }
+            ]
+        }
+    ]
+}

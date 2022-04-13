@@ -1,0 +1,446 @@
+{
+    "subject": "financial accounting and management",
+    "topic": [
+        {
+            "name":"meaning and nature of financial accounting",
+            "weights": [
+                {
+                    "year": 2015, 
+                    "weight": 3
+                },
+                {
+                    "year": 2016, 
+                    "weight": 3
+                },
+                {
+                    "year":2018, 
+                    "weight": 3
+                },
+                {
+                    "year":2019,
+                     "weight":3
+                }
+            ]
+        },
+        {
+            "name": "introduction to trail balance",
+            "weights" : [
+                {
+                    "year": 2012, 
+                    "weight":7.5
+                },
+                {
+                    "year": 2014, 
+                    "weight":7.5
+                },
+                {
+                    "year":2015, 
+                    "weight":3
+                },
+                {
+                    "year": 2016,
+                     "weight": 3
+                },
+                {
+                    "year": 2019, 
+                    "weight": 7.5
+                }
+            ]
+        },
+        {
+            "name": "application of computer in accounting double entry system ",
+            "weights":[
+                {
+                    "year":2012, 
+                    "weight":7.5
+                },
+                {
+                    "year":2015, 
+                    "weight":7.5
+                },
+                {
+                    "year":2018, 
+                    "weight":7.5
+                },
+                {
+                    "year":2018, 
+                    "weight":15
+                }
+            ]
+        },
+        {
+            "name": "introduction to journal",
+            "weights":[
+                {
+                    "year":2015 , 
+                    "weight": 7.5             
+                },
+                {
+                    "year":2017, 
+                    "weight":3
+                },
+                {
+                    "year":2019, 
+                    "weight":3
+                },
+                {
+                    "year":2019, 
+                    "weight":15
+                }
+            ]
+        },
+        {
+            "name": " balance sheet and related concept",
+            "weights":[
+                {
+                    "year":2013 , 
+                    "weight": 7.5 
+                },
+                {
+                    "year":2018 , 
+                    "weight": 3 
+                },
+                {
+                    "year":2018 , 
+                    
+                    "weight": 15   
+                },
+                {
+                    "year":2019 ,
+                     "weight": 7.5   
+                },
+                {
+                    "year":2019 , 
+                    "weight": 15   
+                }
+            ]
+        },
+        {
+            "name": "funds concept and flow analysis",
+            "weights": [
+                {
+                    "year":2011 , 
+                    "weight":3 
+                },
+                {
+                    "year": 2015, 
+                    "weight":3 
+                },
+                {
+                    "year": 2016, 
+                    "weight":3 
+                },
+                {
+                    "year": 2017, 
+                    "weight": 3
+                }
+            ]
+        },
+        {
+            "name":"cash book",
+            "weights":[
+                {
+                    "year": 2012, 
+                    "weight":3 
+                },
+                {
+                    "year": 2016, 
+                    "weight":3 
+                },
+                {
+                    "year": 2016, 
+                    "weight":7.5 
+                },
+                {
+                    "year": 2019, 
+                    "weight":7.5 
+                }
+            ]
+        },
+        {
+            "name":"financial accounting",
+            "weights":[
+                {
+                    "year":2013 , 
+                    "weight":3 
+                },
+                {
+                    "year":2014, 
+                    "weight":7.5
+                },
+                {
+                    "year":2016, 
+                    "weight":15
+                },
+                {
+                    "year": 2017, 
+                    "weight":15 
+                },
+                {
+                    "year":2019 , 
+                    "weight":3 
+                }
+            ]
+        },
+        {
+            "name": "function of a campany",
+            "weights":[
+                {
+                    "year":2011, 
+                    "weight":3
+                },
+                {
+                    "year":2013, 
+                    "weight":7.5
+                },
+                {
+                    "year":2014, 
+                    "weight":15
+                },
+                {
+                    "year": 2016, 
+                    "weight":15 
+                },
+                {
+                    "year": 2017, 
+                    "weight": 7.5
+                }
+            ]
+        },
+        {
+            "name": "importance",
+            "weights":[
+                {
+                    "year":2013, 
+                    "weight":3
+                },
+                {
+                    "year":2015, 
+                    "weight":7.5
+                },
+                {
+                    "year":2016, 
+                    "weight":15
+                },
+                {
+                    "year":2017, 
+                    "weight":3
+                },
+                {
+                    "year":2018, 
+                    "weight":7.5
+                }
+            ]
+        },
+        {
+            "name":"explicit & implicit cost",
+            "weights":[
+                {
+                    "year":2013, 
+                    "weight":15
+                },
+                {
+                    "year":2014, 
+                    "weight":7.5
+                },
+                {
+                    "year":2015, 
+                    "weight": 3
+                },
+                {
+                    "year":2017, 
+                    "weight":7.5
+                }
+            ]
+        },
+        {
+            "name":"objective of financial management",
+            "weights":[
+                {
+                    "year":2013, 
+                    "weight":15
+                },
+                {
+                    "year":2015, 
+                    "weight":3
+                },
+                {
+                    "year":2017, 
+                    "weight":7.5
+                },
+                {
+                    "year":2020, 
+                    "weight": 15
+                }
+            ]
+        },
+        {
+            "name":"capatalization",
+            "weights":[
+                {
+                    "year":2011, 
+                    "weight":3
+                },
+                {
+                    "year":2013, 
+                    "weight":7.5
+                },
+                {
+                    "year":2015, 
+                    "weight":3
+                },
+                {
+                    "year":2017, 
+                    "weight":7.5
+                },
+                {
+                    "year":2019, 
+                    "weight":15
+                }
+            ]
+        },
+        {
+            "name":"concept",
+            "weights" :[
+                {
+                    "year":2013, 
+                    "weight":7.5
+                },
+                {
+                    "year":2015, 
+                    "weight":3
+                },
+                {
+                    "year":2018, 
+                    "weight":7.5
+                },
+                {
+                    "year":2019, 
+                    "weight":3
+                }
+            ]
+        },
+        {
+            "name":"liquidity",
+            "weights":[
+                {
+                    "year":2011, 
+                    "weight":7.5
+                },
+                {
+                    "year":2013, 
+                    "weight":3
+                },
+                {
+                    "year":2016, 
+                    "weight":3
+                },
+                {
+                    "year":2017, 
+                    "weight":15
+                },
+                {
+                    "year":2019, 
+                    "weight":7.5
+                }
+            ]
+        },
+        {
+            "name":"objectives",
+            "weights":[
+                {
+                    "year":2011, 
+                    "weight":7.5
+                },
+                {
+                    "year":2013, 
+                    "weight":3
+                },
+                {
+                    "year":2016, 
+                    "weight":7.5
+                },
+                {
+                    "year":2018, 
+                    "weight":15
+                }
+            ]
+        },
+        {
+            "name":"nature and concepts",
+            "weights":[
+                {
+                    "year":2013, 
+                    "weight":7.5
+                },
+                {
+                    "year":2015, 
+                    "weight":15
+                },
+                {
+                    "year":2019, 
+                    "weight":3
+                }
+            ]
+        },
+        {
+            "name" :"cash management",
+            "weights":[
+                {
+                    "year":2011, 
+                    "weight":3
+                },
+                {
+                    "year":2014, 
+                    "weight":7.5
+                },
+                {
+                    "year":2017, 
+                    "weight":15
+                },
+                {
+                    "year":2019, 
+                    "weight":7.5
+                },
+                {
+                    "year":2020, 
+                    "weight":7.5
+                }
+            ]
+        },
+        {
+            "name":"inventory management",
+            "weights":[
+                {
+                    "year":2014, 
+                    "weight":3
+                },
+                {
+                    "year":2016, 
+                    "weight":7.5
+                },
+                {
+                    "year":2017, 
+                    "weight":7.5
+                },
+                {
+                    "year": 2019, 
+                    "weight":15
+                }
+            ]
+        },
+        {
+            "name": "recievables management",
+            "weights":[
+                {
+                    "year":2017, 
+                    "weight":7.5
+                },
+                {
+                    "year": 2020, 
+                    "weight":45
+                }
+            ]
+        }
+    ]
+}
