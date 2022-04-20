@@ -1,0 +1,190 @@
+{
+  "title": "Knowledge mnagement",
+  "topics": [
+     {
+        "name": "Knowledge",
+         "weights": [
+           {
+             "year": 21, "weight": 3
+            },
+            {
+             "year": 21, "weight": 7.5
+            },
+            {
+             "year": 20, "weight": 22.5
+            },
+            {
+             "year": 19, "weight": 7.5
+            },
+            {
+             "year": 18, "weight": 3
+            },
+            {
+             "year": 18, "weight": 15
+            },
+            {
+             "year": 17, "weight": 3
+            }            
+          ]
+        },
+ {
+        "name": "Data mart",
+         "weights": [
+           {
+             "year": 21, "weight": 3
+            },
+            {
+             "year": 20, "weight": 3
+            }
+          ]
+        },
+{
+        "name": "Data warehouse",
+         "weights": [
+           {
+             "year": 21, "weight": 15
+            },
+            {
+             "year": 19, "weight": 22.5
+            },
+            {
+             "year": 19, "weight": 3
+            },
+            {
+             "year": 19, "weight": 7.5
+            },
+            {
+             "year": 17, "weight": 3
+            }
+          ]
+        },
+  {
+        "name": "Group decision",
+         "weights": [
+           {
+             "year": 21, "weight": 3
+            },
+            {
+             "year": 21, "weight": 15
+            },
+
+           {
+             "year": 20, "weight": 3
+            },
+            {
+             "year": 20, "weight": 15
+            },
+            {
+             "year": 19, "weight": 15
+            },
+            {
+             "year": 18, "weight": 15
+            }
+          ]
+        },
+ {
+        "name": "Decision support system",
+         "weights": [
+           {
+             "year": 21, "weight": 7.5
+            },
+            {
+             "year": 18, "weight": 3
+            },
+            {
+             "year": 17, "weight": 3
+            }
+          ]
+        },
+{
+        "name": "Data mining",
+         "weights": [
+           {
+             "year": 21, "weight": 7.5
+            },
+            {
+             "year": 21, "weight": 15
+            },
+            {
+             "year": 19, "weight": 3
+            },
+            {
+             "year": 19, "weight": 15
+            },
+            {
+             "year": 18, "weight": 7.5
+            },
+            {
+             "year": 18, "weight": 7.5
+            },
+            {
+             "year": 17, "weight": 15
+            }
+          ]
+        },
+ {
+        "name": "OLAP",
+         "weights": [
+           {
+             "year": 20, "weight": 3
+            },
+            {
+             "year": 20, "weight": 15
+            },
+            {
+             "year": 18, "weight": 7.5
+            }
+          ]
+        },
+ {
+        "name": "Analysis",
+         "weights": [
+           {
+             "year": 20, "weight": 3
+            },
+            {
+             "year": 20, "weight": 3
+            },
+            {
+             "year": 20, "weight": 15
+            }
+          ]
+        },
+ {
+        "name": "KM system",
+         "weights": [
+           {
+             "year": 20, "weight": 15
+            },
+            {
+             "year": 18, "weight": 7.5
+            },
+            {
+             "year": 18, "weight": 7.5
+            },
+            {
+             "year": 17, "weight": 22.5
+            }
+          ]
+        },
+{
+        "name": "Business analysis",
+         "weights": [
+           {
+             "year": 20, "weight": 22.5
+            },
+            {
+             "year": 19, "weight": 3
+            },
+            {
+             "year": 19, "weight": 3
+            },
+            {
+             "year": 18, "weight": 7.5
+            
+           }
+          ]
+         }
+        ]
+      }
+      
