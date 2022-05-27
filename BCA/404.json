@@ -1,0 +1,325 @@
+{
+    "title": "Organization Tecniques",
+    "topics": [
+        {
+            "name": "lenear programming problem",
+            "weights": [
+                {
+                    "year": 2019,
+                    "weight": 3
+                },
+                {
+                    "year": 2018,
+                    "weight": 3
+                },
+                {
+                    "year": 2017,
+                    "weight": 7.5
+                },
+                {
+                    "year": 2016,
+                    "weight": 3
+                }
+            ]
+        },
+        {
+            "name": "inventory model",
+            "weights": [
+                {
+                    "year": 2019,
+                    "weight": 3
+                }
+            ]
+        },
+        {
+            "name": "present value",
+            "weights": [
+                {
+                    "year": 2019,
+                    "weight": 3
+                },
+                {
+                    "year": 2018,
+                    "weight": 3
+                },
+                {
+                    "year": 2017,
+                    "weight": 3
+                }
+            ]
+        },
+        {
+            "name": "discount rate",
+            "weights": [
+                {
+                    "year": 2019,
+                    "weight": 3
+                },
+                {
+                    "year": 2017,
+                    "weight": 3
+                },
+                {
+                    "year": 2016,
+                    "weight": 3
+                }
+            ]
+        },
+        {
+            "name": "sequencing problem",
+            "weights": [
+                {
+                    "year": 2019,
+                    "weight": 3
+                },
+                {
+                    "year": 2017,
+                    "weight": 3
+                }
+            ]
+        },
+        {
+            "name": "queue length, waiting time, traffic intensity",
+            "weights": [
+                {
+                    "year": 2019,
+                    "weight": 3
+                },
+                {
+                    "year": 2017,
+                    "weight": 3
+                }
+            ]
+        },
+        {
+            "name": "sequence of fine jobs that will minimize the elapsed time t",
+            "weights": [
+                {
+                    "year": 2019,
+                    "weight": 7.5
+                },
+                {
+                    "year": 2018,
+                    "weight": 7.5
+                },
+                {
+                    "year": 2017,
+                    "weight": 7.5
+                },
+                {
+                    "year": 2016,
+                    "weight": 7.5
+                }
+            ]
+        },
+        {
+            "name": "lpp",
+            "weights": [
+                {
+                    "year": 2019,
+                    "weight": 15
+                },
+                {
+                    "year": 2018,
+                    "weight": 15
+                },
+                {
+                    "year": 2017,
+                    "weight": 3
+                },
+                {
+                    "year": 2017,
+                    "weight": 15
+                },
+                {
+                    "year": 2016,
+                    "weight": 3
+                },
+                {
+                    "year": 2016,
+                    "weight": 15
+                }
+            ]
+        },
+        {
+            "name": "transportation problem",
+            "weights": [
+                {
+                    "year": 2019,
+                    "weight": 15
+                },
+                {
+                    "year": 2018,
+                    "weight": 15
+                },
+                {
+                    "year": 2017,
+                    "weight": 15
+                },
+                {
+                    "year": 2016,
+                    "weight": 15
+                }
+            ]
+        },
+        {
+            "name": "determine the sequence for fine job that will minimize the elapsed time",
+            "weights": [
+                {
+                    "year": 2019,
+                    "weight": 15
+                },
+                {
+                    "year": 2019,
+                    "weight": 15
+                }
+            ]
+        },
+        {
+            "name": "money value",
+            "weights": [
+                {
+                    "year": 2018,
+                    "weight": 3
+                },
+                {
+                    "year": 2017,
+                    "weight": 3
+                }
+            ]
+        },
+        {
+            "name": "busy period",
+            "weights": [
+                {
+                    "year": 2018,
+                    "weight": 3
+                }
+            ]
+        },
+        {
+            "name": "idle period",
+            "weights": [
+                {
+                    "year": 2018,
+                    "weight": 3
+                }
+            ]
+        },
+        {
+            "name": "travelling sales man problem",
+            "weights": [
+                {
+                    "year": 2018,
+                    "weight": 3
+                }
+            ]
+        },
+        {
+            "name": "holding cost",
+            "weights": [
+                {
+                    "year": 2018,
+                    "weight": 3
+                }
+            ]
+        },
+        {
+            "name": "storage cost",
+            "weights": [
+                {
+                    "year": 2018,
+                    "weight": 3
+                },
+                {
+                    "year": 2017,
+                    "weight": 3
+                }
+            ]
+        },
+        {
+            "name": "assignment problem",
+            "weights": [
+                {
+                    "year": 2018,
+                    "weight": 7.5
+                },
+                {
+                    "year": 2017,
+                    "weight": 7.5
+                },
+                {
+                    "year": 2016,
+                    "weight": 7.5
+                }
+            ]
+        },
+        {
+            "name": "storage cost",
+            "weights": [
+                {
+                    "year": 2018,
+                    "weight": 3
+                }
+            ]
+        },
+        {
+            "name": "find cost pattern",
+            "weights": [
+                {
+                    "year": 2018,
+                    "weight": 15
+                }
+            ]
+        },
+        {
+            "name": "average waiting time",
+            "weights": [
+                {
+                    "year": 2018,
+                    "weight": 15
+                },
+                {
+                    "year": 2016,
+                    "weight": 3
+                }
+            ]
+        },
+        {
+            "name": "quantity graph",
+            "weights": [
+                {
+                    "year": 2016,
+                    "weight": 3
+                }
+            ]
+        },
+        {
+            "name": "replacement policies",
+            "weights": [
+                {
+                    "year": 2016,
+                    "weight": 3
+                }
+            ]
+        },
+        {
+            "name": "wilson eqq formula",
+            "weights": [
+                {
+                    "year": 2016,
+                    "weight": 15
+                }
+            ]
+        },
+        {
+            "name": "tic_tac problem",
+            "weights": [
+                {
+                    "year": 2016,
+                    "weight": 3
+                }
+            ]
+        }
+    ]
+}
