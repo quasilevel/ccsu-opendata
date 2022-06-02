@@ -1,0 +1,310 @@
+{
+    "title": "information system analysis design and implementation",
+    "topic": [
+        {
+            "name": "system analysis and design",
+            "weights": [
+                {
+                    "year": 2021,
+                    "weight": 3
+                },
+                {
+                    "year": 2020,
+                    "weight": 3
+                }
+            ]
+        },
+        {
+            "name": "decision tree",
+            "weights": [
+                {
+                    "year": 2021,
+                    "weight": 3
+                },
+                {
+                    "year": 2020,
+                    "weight": 3
+                },
+                {
+                    "year": 2019,
+                    "weight": 3
+                }
+            ]
+        },
+        {
+            "name": "case tools",
+            "weights": [
+                {
+                    "year": 2021,
+                    "weight": 3
+                },
+                {
+                    "year": 2021,
+                    "weight": 15
+                },
+                {
+                    "year": 2020,
+                    "weight": 15
+                }
+            ]
+        },
+        {
+            "name": "cmm and iso",
+            "weights": [
+                {
+                    "year": 2021,
+                    "weight": 3
+                }
+            ]
+        },
+        {
+            "name": "data flow diagram",
+            "weights": [
+                {
+                    "year": 2021,
+                    "weight": 3
+                },
+                {
+                    "year": 2020,
+                    "weight": 3
+                }
+            ]
+        },
+        {
+            "name": "feasability study",
+            "weights": [
+                {
+                    "year": 2021,
+                    "weight": 7.5
+                },
+                {
+                    "year": 2020,
+                    "weight": 3
+                },
+                {
+                    "year": 2019,
+                    "weight": 3
+                }
+            ]
+        },
+        {
+            "name": "information engineering",
+            "weights": [
+                {
+                    "year": 2021,
+                    "weight": 7.5
+                }
+            ]
+        },
+        {
+            "name": "software project management",
+            "weights": [
+                {
+                    "year": 2021,
+                    "weight": 7.5
+                }
+            ]
+        },
+        {
+            "name": "waterfall model",
+            "weights": [
+                {
+                    "year": 2021,
+                    "weight": 15
+                },
+                {
+                    "year": 2020,
+                    "weight": 7.5
+                },
+                {
+                    "year": 2019,
+                    "weight": 7.5
+                }
+            ]
+        },
+        {
+            "name": "prototyping",
+            "weights": [
+                {
+                    "year": 2021,
+                    "weight": 15
+                },
+                {
+                    "year": 2020,
+                    "weight": 7.5
+                }
+            ]
+        },
+        {
+            "name": "object oriented design",
+            "weights": [
+                {
+                    "year": 2021,
+                    "weight": 15
+                },
+                {
+                    "year": 2020,
+                    "weight": 7.5
+                },
+                {
+                    "year": 2019,
+                    "weight": 7.5
+                }
+            ]
+        },
+        {
+            "name": "strutured system analysis and design / process",
+            "weights": [
+                {
+                    "year": 2021,
+                    "weight": 15
+                },
+                {
+                    "year": 2020,
+                    "weight": 7.5
+                },
+                {
+                    "year": 2019,
+                    "weight": 15
+                }
+            ]
+        },
+        {
+            "name": "characterstics of system",
+            "weights": [
+                {
+                    "year": 2020,
+                    "weight": 3
+                },
+                {
+                    "year": 2019,
+                    "weight": 3
+                }
+            ]
+        },
+        {
+            "name": "rad model",
+            "weights": [
+                {
+                    "year": 2020,
+                    "weight": 3
+                }
+            ]
+        },
+        {
+            "name": "sdlc",
+            "weights": [
+                {
+                    "year": 2020,
+                    "weight": 15
+                },
+                {
+                    "year": 2019,
+                    "weight": 7.5
+                }
+            ]
+        },
+        {
+            "name": "risk analysis",
+            "weights": [
+                {
+                    "year": 2020,
+                    "weight": 15
+                }
+            ]
+        },
+        {
+            "name": "joint application design(jad)",
+            "weights": [
+                {
+                    "year": 2020,
+                    "weight": 7.5
+                },
+                {
+                    "year": 2019,
+                    "weight": 7.5
+                }
+            ]
+        },
+        {
+            "name": "process design",
+            "weights": [
+                {
+                    "year": 2020,
+                    "weight": 3
+                }
+            ]
+        },
+        {
+            "name": "line of code",
+            "weights": [
+                {
+                    "year": 2020,
+                    "weight": 3
+                },
+                {
+                    "year": 2019,
+                    "weight": 3
+                }
+            ]
+        },
+        {
+            "name": "polymorphism",
+            "weights": [
+                {
+                    "year": 2020,
+                    "weight": 3
+                }
+            ]
+        },
+        {
+            "name": "attribute",
+            "weights": [
+                {
+                    "year": 2020,
+                    "weight": 3
+                },
+                {
+                    "year": 2019,
+                    "weight": 3
+                }
+            ]
+        },
+        {
+            "name": "DBA",
+            "weights": [
+                {
+                    "year": 2019,
+                    "weight": 3
+                }
+            ]
+        },
+        {
+            "name": "e-r diagram",
+            "weights": [
+                {
+                    "year": 2019,
+                    "weight": 3
+                }
+            ]
+        },
+        {
+            "name": "project scheduling",
+            "weights": [
+                {
+                    "year": 2019,
+                    "weight": 3
+                }
+            ]
+        },
+        {
+            "name": "sequence diagram",
+            "weights": [
+                {
+                    "year": 2019,
+                    "weight": 3
+                }
+            ]
+        }
+    ]
+}
