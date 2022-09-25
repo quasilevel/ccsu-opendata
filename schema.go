@@ -14,8 +14,8 @@ type Weightage struct {
 }
 
 type Topic struct {
-	Name    string      `json:"name" doc:"Name of the title"`
-	Weights []Weightage `json:"List" doc:"Year wise weightage of the topic"`
+	Name    string      `json:"name" doc:"Name of the topic"`
+	Weights []Weightage `json:"weights" doc:"Year wise weightage of the topic"`
 }
 
 type Data struct {
