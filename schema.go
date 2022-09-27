@@ -10,7 +10,7 @@ import (
 
 type Weightage struct {
 	Year   int `json:"year" doc:"Year when the topic appeared"`
-  Weight int `json:"weight" doc:"Weight that the topic carried"`
+  Weight float32 `json:"weight" doc:"Weight that the topic carried"`
 }
 
 type Topic struct {
