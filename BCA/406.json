@@ -1,8 +1,8 @@
 {
-    "title": "mathematics",
-    "topic": [
+    "subject": "Mathematics",
+    "topics": [
         {
-            "name": "order and degree",
+            "name": "Order and Degree",
             "weights": [
                 {
                     "year": 2019,
@@ -29,7 +29,7 @@
             ]
         },
         {
-            "name": "modulas amplitude form",
+            "name": "Modulas Amplitude form",
             "weights": [
                 {
                     "year": 2019,
@@ -38,7 +38,7 @@
             ]
         },
         {
-            "name": "directional derivative",
+            "name": "Directional Derivative",
             "weights": [
                 {
                     "year": 2019,
@@ -47,7 +47,7 @@
             ]
         },
         {
-            "name": "fourier series",
+            "name": "Fourier Series",
             "weights": [
                 {
                     "year": 2019,
@@ -69,7 +69,7 @@
             ]
         },
         {
-            "name": "directional derivative",
+            "name": "Directional Derivative",
             "weights": [
                 {
                     "year": 2018,
@@ -82,7 +82,7 @@
             ]
         },
         {
-            "name": "curl grad",
+            "name": "Curl Grad",
             "weights": [
                 {
                     "year": 2018,
@@ -100,7 +100,7 @@
             ]
         },
         {
-            "name": "curl grad",
+            "name": "Curl Grad",
             "weights": [
                 {
                     "year": 2018,

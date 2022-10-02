@@ -1,8 +1,8 @@
 {
-    "subject": "introduction to dbms",
-    "topic": [
+    "subject": "Introduction to DBMS",
+    "topics": [
         {
-            "name": "characteristics of database approach",
+            "name": "Characteristics of Database approach",
             "weights": [
                 {
                     "year": 2013, 
@@ -40,7 +40,7 @@
             ]
         },
         {
-            "name": "data models", 
+            "name": "Data Models", 
             "weights": [
                 {
                     "year": 2015, 
@@ -53,7 +53,7 @@
             ]
         },
         {
-            "name": "dbms architecture and data independence",
+            "name": "DBMS architecture and data independence",
             "weights":[
                 {
                     "year":2013,
@@ -86,7 +86,7 @@
             ]
         },
         {
-            "name": "entity types, entity set, attribute and key(relation, full concept)",
+            "name": "Entity types, Entity set, Attribute and Key(relation, full concept)",
             "weights": [
                 {
                     "year":2014, 
@@ -107,7 +107,7 @@
             ]
         },
         {
-            "name": "enhanced e-r and object modeling",
+            "name": "Enhanced e-r and object modeling",
             "weights":[
                 {
                     "year": 2013, 
@@ -136,7 +136,7 @@
             ]
         },
         {
-            "name": "super classes, inheritance, specialization and generalization ",
+            "name": "Super classes, Inheritance, Specialization and Generalization ",
             "weights": [
                 {
                     "year":2013, 
@@ -169,7 +169,7 @@
             ]
         },
         {
-            "name": "implementation using b & b++ trees",
+            "name": "Implementation using b & b++ trees",
             "weights":[
                 {
                     "year": 2017, 
@@ -186,7 +186,7 @@
             ]
         },
         {
-            "name": "hashing(function, collision, extendible, dynamic,implementation, performance)",
+            "name": "Hashing(function, collision, extendible, dynamic,implementation, performance)",
             "weights": [
                 {
 
@@ -209,7 +209,7 @@
             ]
         },
         {
-            "name": "relational(concepts, constraits,alzebra)",
+            "name": "Relational(concepts, constraits,alzebra)",
             "weights":[
                 {
                     "year": 2013, 
@@ -258,7 +258,7 @@
             ]
         },
         {
-            "name" : "queries, programming",
+            "name" : "Queries, Programming",
             "weights":[
                 {
                     "year": 2013, 
@@ -299,7 +299,7 @@
             ]
         },
         {
-            "name": "data base design using eer to relational language",
+            "name": "Data base design using eer to relational language",
             "weights":[
                 {
                     "year":2013, 
@@ -320,7 +320,7 @@
             ]
         },
         {
-            "name": "functional dependencies",
+            "name": "Functional dependencies",
             "weights":[
                 {
                     "year":2013, 
@@ -354,7 +354,7 @@
             ]
         },
         {
-            "name":"normal form up to 3rd normal form",
+            "name":"Normal form up to 3rd normal form",
             "weights":[
                 {
                     "year":2013, 
@@ -412,7 +412,7 @@
             ]
         },
         {
-            "name": "concurrency control",
+            "name": "Concurrency control",
             "weights":[
                 {
                     "year":2013, 

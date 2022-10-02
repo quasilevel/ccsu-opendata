@@ -1,8 +1,8 @@
 {
-    "title": "information system analysis design and implementation",
-    "topic": [
+    "subject": "Information system analysis design and implementation",
+    "topics": [
         {
-            "name": "system analysis and design",
+            "name": "System analysis and design",
             "weights": [
                 {
                     "year": 2021,
@@ -15,7 +15,7 @@
             ]
         },
         {
-            "name": "decision tree",
+            "name": "Decision tree",
             "weights": [
                 {
                     "year": 2021,
@@ -32,7 +32,7 @@
             ]
         },
         {
-            "name": "case tools",
+            "name": "Case tools",
             "weights": [
                 {
                     "year": 2021,
@@ -49,7 +49,7 @@
             ]
         },
         {
-            "name": "cmm and iso",
+            "name": "CMM and ISO",
             "weights": [
                 {
                     "year": 2021,
@@ -58,7 +58,7 @@
             ]
         },
         {
-            "name": "data flow diagram",
+            "name": "Data flow diagram",
             "weights": [
                 {
                     "year": 2021,
@@ -71,7 +71,7 @@
             ]
         },
         {
-            "name": "feasability study",
+            "name": "Feasability study",
             "weights": [
                 {
                     "year": 2021,
@@ -88,7 +88,7 @@
             ]
         },
         {
-            "name": "information engineering",
+            "name": "Information engineering",
             "weights": [
                 {
                     "year": 2021,
@@ -97,7 +97,7 @@
             ]
         },
         {
-            "name": "software project management",
+            "name": "Software project management",
             "weights": [
                 {
                     "year": 2021,
@@ -106,37 +106,7 @@
             ]
         },
         {
-            "name": "waterfall model",
-            "weights": [
-                {
-                    "year": 2021,
-                    "weight": 15
-                },
-                {
-                    "year": 2020,
-                    "weight": 7.5
-                },
-                {
-                    "year": 2019,
-                    "weight": 7.5
-                }
-            ]
-        },
-        {
-            "name": "prototyping",
-            "weights": [
-                {
-                    "year": 2021,
-                    "weight": 15
-                },
-                {
-                    "year": 2020,
-                    "weight": 7.5
-                }
-            ]
-        },
-        {
-            "name": "object oriented design",
+            "name": "Waterfall model",
             "weights": [
                 {
                     "year": 2021,
@@ -153,7 +123,37 @@
             ]
         },
         {
-            "name": "strutured system analysis and design / process",
+            "name": "Prototyping",
+            "weights": [
+                {
+                    "year": 2021,
+                    "weight": 15
+                },
+                {
+                    "year": 2020,
+                    "weight": 7.5
+                }
+            ]
+        },
+        {
+            "name": "Object Oriented Design",
+            "weights": [
+                {
+                    "year": 2021,
+                    "weight": 15
+                },
+                {
+                    "year": 2020,
+                    "weight": 7.5
+                },
+                {
+                    "year": 2019,
+                    "weight": 7.5
+                }
+            ]
+        },
+        {
+            "name": "Strutured system analysis and design / process",
             "weights": [
                 {
                     "year": 2021,
@@ -170,7 +170,7 @@
             ]
         },
         {
-            "name": "characterstics of system",
+            "name": "Characterstics of system",
             "weights": [
                 {
                     "year": 2020,
@@ -183,7 +183,7 @@
             ]
         },
         {
-            "name": "rad model",
+            "name": "Rad model",
             "weights": [
                 {
                     "year": 2020,
@@ -192,7 +192,7 @@
             ]
         },
         {
-            "name": "sdlc",
+            "name": "SDLC",
             "weights": [
                 {
                     "year": 2020,
@@ -205,7 +205,7 @@
             ]
         },
         {
-            "name": "risk analysis",
+            "name": "Risk Analysis",
             "weights": [
                 {
                     "year": 2020,
@@ -214,7 +214,7 @@
             ]
         },
         {
-            "name": "joint application design(jad)",
+            "name": "Joint Application Design(jad)",
             "weights": [
                 {
                     "year": 2020,
@@ -227,7 +227,7 @@
             ]
         },
         {
-            "name": "process design",
+            "name": "Process Design",
             "weights": [
                 {
                     "year": 2020,
@@ -236,7 +236,7 @@
             ]
         },
         {
-            "name": "line of code",
+            "name": "Line of code",
             "weights": [
                 {
                     "year": 2020,
@@ -249,7 +249,7 @@
             ]
         },
         {
-            "name": "polymorphism",
+            "name": "Polymorphism",
             "weights": [
                 {
                     "year": 2020,
@@ -258,7 +258,7 @@
             ]
         },
         {
-            "name": "attribute",
+            "name": "Attribute",
             "weights": [
                 {
                     "year": 2020,
@@ -280,7 +280,7 @@
             ]
         },
         {
-            "name": "e-r diagram",
+            "name": "E-R diagram",
             "weights": [
                 {
                     "year": 2019,
@@ -289,7 +289,7 @@
             ]
         },
         {
-            "name": "project scheduling",
+            "name": "Project Scheduling",
             "weights": [
                 {
                     "year": 2019,
@@ -298,7 +298,7 @@
             ]
         },
         {
-            "name": "sequence diagram",
+            "name": "Sequence Diagram",
             "weights": [
                 {
                     "year": 2019,

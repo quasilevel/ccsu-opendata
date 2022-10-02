@@ -2,7 +2,7 @@
     "Subject": "Business Economics",
     "topics": [
         {
-            "name": "elasticity of demand",
+            "Name": "Elasticity of Demand",
             "weights": [
                 {
                     "year": 2021,
@@ -15,7 +15,7 @@
             ]
         },
         {
-            "name": "perfect compitition",
+            "Name": "Perfect Competition",
             "weights": [
                 {
                     "year": 2021,
@@ -24,7 +24,7 @@
             ]
         },
         {
-            "name": "profit maximization",
+            "Name": "Profit Maximization",
             "weights": [
                 {
                     "year": 2021,
@@ -33,7 +33,7 @@
             ]
         },
         {
-            "name": "Fiscal Policy",
+            "Name": "Fiscal Policy",
             "weights": [
                 {
                     "year": 2021,
@@ -46,7 +46,7 @@
             ]
         },
         {
-            "name": "Objectives of wTO",
+            "Name": "Objectives of WTO",
             "weights": [
                 {
                     "year": 2021,
@@ -55,7 +55,7 @@
             ]
         },
         {
-            "name": "Scope of Business Economic",
+            "Name": "Scope of Business Economic",
             "weights": [
                 {
                     "year": 2021,
@@ -68,7 +68,7 @@
             ]
         },
         {
-            "name": "Internal Economics",
+            "Name": "Internal Economics",
             "weights": [
                 {
                     "year": 2021,
@@ -77,7 +77,7 @@
             ]
         },
         {
-            "name": "price determination",
+            "Name": "Price Determination",
             "weights": [
                 {
                     "year": 2021,
@@ -86,7 +86,7 @@
             ]
         },
         {
-            "name": "Anomalies in Tax Policy",
+            "Name": "Anomalies in Tax Policy",
             "weights": [
                 {
                     "year": 2021,
@@ -95,7 +95,7 @@
             ]
         },
         {
-            "name": "Sources of Foreign capital",
+            "Name": "Sources of Foreign capital",
             "weights": [
                 {
                     "year": 2021,
@@ -104,7 +104,7 @@
             ]
         },
         {
-            "name": "perfect compitition",
+            "Name": "Perfect Competition",
             "weights": [
                 {
                     "year": 2021,
@@ -117,7 +117,7 @@
             ]
         },
         {
-            "name": "classifictions of market",
+            "Name": "Classifictions of market",
             "weights": [
                 {
                     "year": 2021,
@@ -126,7 +126,7 @@
             ]
         },
         {
-            "name": "Methods of measuring National Income",
+            "Name": "Methods of measuring National Income",
             "weights": [
                 {
                     "year": 2021,
@@ -139,7 +139,7 @@
             ]
         },
         {
-            "name": "Unemployment",
+            "Name": "Unemployment",
             "weights": [
                 {
                     "year": 2020,
@@ -148,7 +148,7 @@
             ]
         },
         {
-            "name": "Law of demand",
+            "Name": "Law of demand",
             "weights": [
                 {
                     "year": 2020,
@@ -157,7 +157,7 @@
             ]
         },
         {
-            "name": "capital budgeting",
+            "Name": "Capital Budgeting",
             "weights": [
                 {
                     "year": 2020,
@@ -166,7 +166,7 @@
             ]
         },
         {
-            "name": "Firm",
+            "Name": "Firm",
             "weights": [
                 {
                     "year": 2020,
@@ -175,7 +175,7 @@
             ]
         },
         {
-            "name": "MNCs",
+            "Name": "MNCs",
             "weights": [
                 {
                     "year": 2020,
@@ -184,7 +184,7 @@
             ]
         },
         {
-            "name": "Trade Cycle",
+            "Name": "Trade Cycle",
             "weights": [
                 {
                     "year": 2020,
@@ -193,7 +193,7 @@
             ]
         },
         {
-            "name": "Globalization",
+            "Name": "Globalization",
             "weights": [
                 {
                     "year": 2020,
@@ -202,7 +202,7 @@
             ]
         },
         {
-            "name": "MonoPoly and Oligopoly",
+            "Name": "Monopoly and Oligopoly",
             "weights": [
                 {
                     "year": 2020,
