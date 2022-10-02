@@ -1,8 +1,8 @@
 {
-    "subject": "knowledge management",
+    "subject": "Knowledge management",
     "topic": [
         {
-            "name": " modeling decision process",
+            "name": " Modeling decision process",
             "weights":[
                 {
                     "year": 2016, 
@@ -23,7 +23,7 @@
             ]
         },
         {
-            "name": "decision support systems",
+            "name": "Decision support systems",
             "weights": [
                 {
                     "year":2016, 

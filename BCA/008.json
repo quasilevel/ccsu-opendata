@@ -1,374 +1,374 @@
 {
-    "subject":"environmental studies",
-    "topics":[
+  "subject": "Environmental studies",
+  "topics": [
+    {
+      "name": "Definition (Environment)",
+      "weights": [
         {
-            "name": "definition(environment)",
-            "weights":[
-                {
-                    "year": 2011,
-                    "weight":20
-                },
-                {
-                    "year": 2013,
-                    "weight":10
-                },
-                {
-                    "year": 2017, 
-                    "weight":5 
-                },
-                {
-                    "year":2019, 
-                    "weight":10
-                },
-                {
-                    "year":2020, 
-                    "weight":5
-                }
-            ]
+          "year": 2011,
+          "weight": 20
         },
         {
-            "name": "scope and importance of environment",
-            "weights":[
-                {
-                    "year":2012, 
-                    "weight":5
-                },
-                {
-                    "year":2015, 
-                    "weight":10
-                },
-                {
-                    "year":2019, 
-                    "weight":20
-                },
-                {
-                    "year":2020, 
-                    "weight":20
-                }
-            ]
+          "year": 2013,
+          "weight": 10
         },
         {
-            "name":"need for public awarness",
-            "weights":[
-                {
-                    "year":2012, 
-                    "weight":10
-                },
-                {
-                    "year":2013, 
-                    "weight": 5
-                }
-            ]
+          "year": 2017,
+          "weight": 5
         },
         {
-            "name": "forest resources",
-            "weights" :[
-                {
-                    "year": 2012, 
-                    "weight":20
-                },
-                {
-                    "year": 2018, 
-                    "weight": 10
-                }
-            ]          
+          "year": 2019,
+          "weight": 10
         },
         {
-            "name": "energy resources",
-            "weights":[
-                {
-                    "year": 2012, 
-                    "weight": 5
-                },
-                {
-                    "year": 2019, 
-                    "weight": 10
-                }
-            ]
-        },
-        {
-            "name": "water resources",
-            "weights":[
-                {
-                    "year": 2011, 
-                    "weight": 20
-                },
-                {
-                    "year": 2016, 
-                    "weight": 5
-                },
-                {
-                    "year": 2020, 
-                    "weight":10
-                }
-            ]
-        },
-        {
-            "name": "structure and function",
-            "weights":[
-                {
-                    "year": 2013, 
-                    "weight": 10
-                },
-                {
-                    "year": 2019, 
-                    "weight": 5
-                },
-                {
-                    "year": 2021, 
-                    "weight": 20
-                }
-            ]
-        },
-        {
-            "name": "definition(bio diversity )",
-            "weights":[
-                {
-                    "year": 2011, 
-                    "weight":20
-                },
-                {
-                    "year":2013, 
-                    "weight": 10
-                },
-                {
-                    "year": 2019, 
-                    "weight":5
-                }
-            ]
-        },
-        {
-            "name":"environmental education",
-            "weights":[
-                {
-                    "year": 2016, 
-                    "weight":20 
-                },
-                {
-                    "year": 2021, 
-                    "weight":45
-                }
-            ]
-        },
-        {
-            "name": "definition, types(environmental pollution)",
-            "weights ": [
-                {
-                    "year":2012, 
-                    "weight": 5
-                },
-                {
-                    "year": 2017, 
-                    "weight":10
-                },
-                {
-                    "year": 2019, 
-                    "weight":20
-                }
-            ]
-        },
-        {
-            "name": "water pollution",
-            "weights ":[
-                {
-                    "year": 2012, 
-                    "weight":20
-                },
-                {
-                    "year": 2012, 
-                    "weight":10
-                },
-                {
-                    "year": 2017, 
-                    "weight":5
-                }
-            ]
-        },
-        {
-            "name": "soil pollution",
-            "weights":[
-                {
-                    "year": 2013, 
-                    "weight": 20
-                },
-                {
-                    "year": 2019, 
-                    "weight": 5
-                },
-                {
-                    "year" : 2021, 
-                    "weight":10
-                }
-            ]
-        },
-        {
-            "name": "radio active pollution",
-            "weights":[
-                {
-                    "year": 2015, 
-                    "weight": 20
-                },
-                {
-                    "year":2019, 
-                    "weight": 5
-                }
-            ]
-        },
-        {
-            "name": "soil erosion",
-            "weights":[
-                {
-                    "year": 2011, 
-                    "weight": 10
-                },
-                {
-                    "year": 2019, 
-                    "weight":20
-                },
-                {
-                    "year":2021, 
-                    "weight": 5
-                }
-            ]
-        },
-        {
-            "name": "green house effect",
-            "weights":[
-                {
-                    "year":2011, 
-                    "weight":5
-                }, 
-                {
-                    "year": 2019, 
-                    "weight":20
-                }
-            ]
-        },
-        {
-            "name": "acid rain", 
-            "weights":[
-                {
-                    "year": 2012, 
-                    "weight":10
-                }, 
-                {
-                    "year": 2015, 
-                    "weight":5
-                },
-                {
-                    "year": 2016, 
-                    "weight":5
-                }, 
-                {
-                    "year": 2019, 
-                    "weight": 20
-                }
-            ]
-        }, 
-        {
-            "name": "ozone ",
-            "weights":[
-                {
-                    "year": 2011, 
-                    "weight":20
-                },
-                {
-                    "year": 2013, 
-                    "weight":5
-                },
-                {
-                    "year": 2015, 
-                    "weight":10
-                }
-            ]
-        },
-        {
-            "name": "rain water harvesting",
-            "weights":[
-                {
-                    "year": 2015,
-                    "weight":20
-                },
-                {
-                    "year": 2021, 
-                    "weight":45
-                }
-            ]
-        },
-        {
-            "name":"conserving wildlife",
-            "weights":[
-                {
-                    "year":2013, 
-                    "weight":10
-                },
-                {
-                    "year":2015, 
-                    "weight":20
-                },
-                {
-                    "year":2019, 
-                    "weight":20
-                },
-                {
-                    "year":2021, 
-                    "weight":45
-                }
-            ]
-        },
-        {
-            "name":"human rights",
-            "weights":[
-                {
-                    "year": 2013, 
-                    "weight":10
-                },
-                {
-                    "year": 2015, 
-                    "weight":20
-                },
-                {
-                    "year": 2016, 
-                    "weight":20
-                },
-                {
-                    "year": 2017, 
-                    "weight":10
-                },
-                {
-                    "year": 2020,
-                    "weight":20
-                },
-                {
-                    "year": 2021, 
-                    "weight":45
-                }
-            ]
-        },
-        {
-            "name": "hiv/aids",
-            "weights":[
-                {
-                    "year": 2013, 
-                    "weight":20
-                },
-                {
-                    "year": 2014, 
-                    "weight":10
-                },
-                {
-                    "year": 2016, 
-                    "weight":10
-                },
-                {
-                    "year": 2019, 
-                    "weight":20
-                },
-                {
-                    "year": 2020, 
-                    "weight":20
-                }
-            ]
+          "year": 2020,
+          "weight": 5
         }
-    ]
+      ]
+    },
+    {
+      "name": "Scope and importance of environment",
+      "weights": [
+        {
+          "year": 2012,
+          "weight": 5
+        },
+        {
+          "year": 2015,
+          "weight": 10
+        },
+        {
+          "year": 2019,
+          "weight": 20
+        },
+        {
+          "year": 2020,
+          "weight": 20
+        }
+      ]
+    },
+    {
+      "name": "Need for public awarness",
+      "weights": [
+        {
+          "year": 2012,
+          "weight": 10
+        },
+        {
+          "year": 2013,
+          "weight": 5
+        }
+      ]
+    },
+    {
+      "name": "Forest resources",
+      "weights": [
+        {
+          "year": 2012,
+          "weight": 20
+        },
+        {
+          "year": 2018,
+          "weight": 10
+        }
+      ]
+    },
+    {
+      "name": "Energy resources",
+      "weights": [
+        {
+          "year": 2012,
+          "weight": 5
+        },
+        {
+          "year": 2019,
+          "weight": 10
+        }
+      ]
+    },
+    {
+      "name": "Water resources",
+      "weights": [
+        {
+          "year": 2011,
+          "weight": 20
+        },
+        {
+          "year": 2016,
+          "weight": 5
+        },
+        {
+          "year": 2020,
+          "weight": 10
+        }
+      ]
+    },
+    {
+      "name": "Structure and function",
+      "weights": [
+        {
+          "year": 2013,
+          "weight": 10
+        },
+        {
+          "year": 2019,
+          "weight": 5
+        },
+        {
+          "year": 2021,
+          "weight": 20
+        }
+      ]
+    },
+    {
+      "name": "Definition(bio diversity )",
+      "weights": [
+        {
+          "year": 2011,
+          "weight": 20
+        },
+        {
+          "year": 2013,
+          "weight": 10
+        },
+        {
+          "year": 2019,
+          "weight": 5
+        }
+      ]
+    },
+    {
+      "name": "Environmental education",
+      "weights": [
+        {
+          "year": 2016,
+          "weight": 20
+        },
+        {
+          "year": 2021,
+          "weight": 45
+        }
+      ]
+    },
+    {
+      "name": "Definition, Types (Environmental pollution)",
+      "weights ": [
+        {
+          "year": 2012,
+          "weight": 5
+        },
+        {
+          "year": 2017,
+          "weight": 10
+        },
+        {
+          "year": 2019,
+          "weight": 20
+        }
+      ]
+    },
+    {
+      "name": "Water pollution",
+      "weights ": [
+        {
+          "year": 2012,
+          "weight": 20
+        },
+        {
+          "year": 2012,
+          "weight": 10
+        },
+        {
+          "year": 2017,
+          "weight": 5
+        }
+      ]
+    },
+    {
+      "name": "Soil pollution",
+      "weights": [
+        {
+          "year": 2013,
+          "weight": 20
+        },
+        {
+          "year": 2019,
+          "weight": 5
+        },
+        {
+          "year": 2021,
+          "weight": 10
+        }
+      ]
+    },
+    {
+      "name": "Radio active pollution",
+      "weights": [
+        {
+          "year": 2015,
+          "weight": 20
+        },
+        {
+          "year": 2019,
+          "weight": 5
+        }
+      ]
+    },
+    {
+      "name": "Soil erosion",
+      "weights": [
+        {
+          "year": 2011,
+          "weight": 10
+        },
+        {
+          "year": 2019,
+          "weight": 20
+        },
+        {
+          "year": 2021,
+          "weight": 5
+        }
+      ]
+    },
+    {
+      "name": "Green house effect",
+      "weights": [
+        {
+          "year": 2011,
+          "weight": 5
+        },
+        {
+          "year": 2019,
+          "weight": 20
+        }
+      ]
+    },
+    {
+      "name": "Acid rain",
+      "weights": [
+        {
+          "year": 2012,
+          "weight": 10
+        },
+        {
+          "year": 2015,
+          "weight": 5
+        },
+        {
+          "year": 2016,
+          "weight": 5
+        },
+        {
+          "year": 2019,
+          "weight": 20
+        }
+      ]
+    },
+    {
+      "name": "Ozone ",
+      "weights": [
+        {
+          "year": 2011,
+          "weight": 20
+        },
+        {
+          "year": 2013,
+          "weight": 5
+        },
+        {
+          "year": 2015,
+          "weight": 10
+        }
+      ]
+    },
+    {
+      "name": "Rain water harvesting",
+      "weights": [
+        {
+          "year": 2015,
+          "weight": 20
+        },
+        {
+          "year": 2021,
+          "weight": 45
+        }
+      ]
+    },
+    {
+      "name": "Conserving wildlife",
+      "weights": [
+        {
+          "year": 2013,
+          "weight": 10
+        },
+        {
+          "year": 2015,
+          "weight": 20
+        },
+        {
+          "year": 2019,
+          "weight": 20
+        },
+        {
+          "year": 2021,
+          "weight": 45
+        }
+      ]
+    },
+    {
+      "name": "Human rights",
+      "weights": [
+        {
+          "year": 2013,
+          "weight": 10
+        },
+        {
+          "year": 2015,
+          "weight": 20
+        },
+        {
+          "year": 2016,
+          "weight": 20
+        },
+        {
+          "year": 2017,
+          "weight": 10
+        },
+        {
+          "year": 2020,
+          "weight": 20
+        },
+        {
+          "year": 2021,
+          "weight": 45
+        }
+      ]
+    },
+    {
+      "name": "Hiv/Aids",
+      "weights": [
+        {
+          "year": 2013,
+          "weight": 20
+        },
+        {
+          "year": 2014,
+          "weight": 10
+        },
+        {
+          "year": 2016,
+          "weight": 10
+        },
+        {
+          "year": 2019,
+          "weight": 20
+        },
+        {
+          "year": 2020,
+          "weight": 20
+        }
+      ]
+    }
+  ]
 }

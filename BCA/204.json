@@ -3,7 +3,7 @@
     "topics": [
         {
             "name": "Suportive Model",
-            "Weights": [
+            "weights": [
                 {
                     "year": 2019,
                     "weight": 3
@@ -12,7 +12,7 @@
         },
         {
             "name": "Nature of Organisational Behavior",
-            "Weights": [
+            "weights": [
                 {
                     "year": 2019,
                     "weight": 3
@@ -21,7 +21,7 @@
         },
         {
             "name": "Function of organisational culture",
-            "Weights": [
+            "weights": [
                 {
                     "year": 2019,
                     "weight": 3
@@ -30,7 +30,7 @@
         },
         {
             "name": "Motivation",
-            "Weights": [
+            "weights": [
                 {
                     "year": 2019,
                     "weight": 3
@@ -39,7 +39,7 @@
         },
         {
             "name": "Symptoms of stress",
-            "Weights": [
+            "weights": [
                 {
                     "year": 2019,
                     "weight": 3
@@ -48,7 +48,7 @@
         },
         {
             "name": "Personality",
-            "Weights": [
+            "weights": [
                 {
                     "year": 2019,
                     "weight": 7.5
@@ -57,7 +57,7 @@
         },
         {
             "name": "Interactionist approach of conflict",
-            "Weights": [
+            "weights": [
                 {
                     "year": 2019,
                     "weight": 7.5
@@ -70,7 +70,7 @@
         },
         {
             "name": "Type A and Type B Personality",
-            "Weights": [
+            "weights": [
                 {
                     "year": 2019,
                     "weight": 7.5
@@ -83,7 +83,7 @@
         },
         {
             "name": "Organisation Behaviour, Importance",
-            "Weights": [
+            "weights": [
                 {
                     "year": 2019,
                     "weight": 15
@@ -96,7 +96,7 @@
         },
         {
             "name": "Employee Grievances",
-            "Weights": [
+            "weights": [
                 {
                     "year": 2019,
                     "weight": 15
@@ -105,7 +105,7 @@
         },
         {
             "name": "Effective Teams",
-            "Weights": [
+            "weights": [
                 {
                     "year": 2019,
                     "weight": 15
@@ -114,7 +114,7 @@
         },
         {
             "name": "Three Levels of analysis in organisation behaviour model",
-            "Weights": [
+            "weights": [
                 {
                     "year": 2019,
                     "weight": 15
@@ -123,7 +123,7 @@
         },
         {
             "name": "Job satisfaction corelated with work motivation",
-            "Weights": [
+            "weights": [
                 {
                     "year": 2019,
                     "weight": 15
@@ -132,7 +132,7 @@
         },
         {
             "name": "Scientific management",
-            "Weights": [
+            "weights": [
                 {
                     "year": 2018,
                     "weight": 3
@@ -141,7 +141,7 @@
         },
         {
             "name": "Job Satisfaction",
-            "Weights": [
+            "weights": [
                 {
                     "year": 2018,
                     "weight": 3
@@ -150,7 +150,7 @@
         },
         {
             "name": "Job Enrichment",
-            "Weights": [
+            "weights": [
                 {
                     "year": 2018,
                     "weight": 3
@@ -159,7 +159,7 @@
         },
         {
             "name": "Recruitment",
-            "Weights": [
+            "weights": [
                 {
                     "year": 2018,
                     "weight": 3
@@ -168,7 +168,7 @@
         },
         {
             "name": "Levels of conflict",
-            "Weights": [
+            "weights": [
                 {
                     "year": 2018,
                     "weight": 3
@@ -177,7 +177,7 @@
         },
         {
             "name": "prevent stress",
-            "Weights": [
+            "weights": [
                 {
                     "year": 2018,
                     "weight": 7.5
@@ -186,7 +186,7 @@
         },
         {
             "name": "Emergance of informal",
-            "Weights": [
+            "weights": [
                 {
                     "year": 2018,
                     "weight": 7.5
@@ -195,7 +195,7 @@
         },
         {
             "name": "impression management",
-            "Weights": [
+            "weights": [
                 {
                     "year": 2018,
                     "weight": 15
@@ -204,7 +204,7 @@
         },
         {
             "name": "functions performed by groups",
-            "Weights": [
+            "weights": [
                 {
                     "year": 2018,
                     "weight": 15
@@ -213,7 +213,7 @@
         },
         {
             "name": "Maslow hierchy",
-            "Weights": [
+            "weights": [
                 {
                     "year": 2018,
                     "weight": 7.5
@@ -222,7 +222,7 @@
         },
         {
             "name": "leadership",
-            "Weights": [
+            "weights": [
                 {
                     "year": 2018,
                     "weight": 7.5
@@ -231,7 +231,7 @@
         },
         {
             "name": "prevent stress",
-            "Weights": [
+            "weights": [
                 {
                     "year": 2018,
                     "weight": 7.5

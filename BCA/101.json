@@ -38,7 +38,7 @@
             ]
         },
         {
-            "name": "vector in 2 dimensional",
+            "name": "Vector in 2D",
             "weights": [
                 {
                     "year": 2018,
@@ -56,7 +56,7 @@
             ]
         },
         {
-            "name": "area of parallelogram (vector)",
+            "name": "Area of parallelogram (Vector)",
             "weights": [
                 {
                     "year": 2018,
@@ -65,7 +65,7 @@
             ]
         },
         {
-            "name": "Caley-Hamilton, characterstic roots",
+            "name": "Caley-Hamilton, Characterstic roots",
             "weights": [
                 {
                     "year": 2018,
@@ -126,7 +126,7 @@
             ]
         },
         {
-            "name": "Evaluate(Integration)",
+            "name": "Evaluate (Integration)",
             "weights": [
                 {
                     "year": 2018,
@@ -160,7 +160,7 @@
             ]
         },
         {
-            "name": "rank of matrix",
+            "name": "Rank of matrix",
             "weights": [
                 {
                     "year": 2019,
@@ -177,7 +177,7 @@
             ]
         },
         {
-            "name": "Show lim exist?",
+            "name": "Show lim exist ?",
             "weights": [
                 {
                     "year": 2019,
@@ -186,7 +186,7 @@
             ]
         },
         {
-            "name": "formula for cross and dot product",
+            "name": "Formula for cross and Dot product",
             "weights": [
                 {
                     "year": 2019,
@@ -233,7 +233,7 @@
             ]
         },
         {
-            "name": "Find Cross and dot product, unit vector",
+            "name": "Find cross and Dot product, Unit vector",
             "weights": [
                 {
                     "year": 2019,
