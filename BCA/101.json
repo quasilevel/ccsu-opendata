@@ -1,0 +1,267 @@
+{
+    "title": "Mathematics",
+    "topics": [
+        {
+            "name": "Hermition matrix",
+            "weights": [
+                {
+                    "year": 2018,
+                    "weight": 3
+                }
+            ]
+        },
+        {
+            "name": "Limit of a function",
+            "weights": [
+                {
+                    "year": 2018,
+                    "weight": 3
+                }
+            ]
+        },
+        {
+            "name": "Find asymptotes",
+            "weights": [
+                {
+                    "year": 2018,
+                    "weight": 3
+                }
+            ]
+        },
+        {
+            "name": "Fundamental theorem of calculus",
+            "weights": [
+                {
+                    "year": 2018,
+                    "weight": 3
+                }
+            ]
+        },
+        {
+            "name": "Vector in 2D",
+            "weights": [
+                {
+                    "year": 2018,
+                    "weight": 3
+                }
+            ]
+        },
+        {
+            "name": "Determine function is continuous",
+            "weights": [
+                {
+                    "year": 2018,
+                    "weight": 7.5
+                }
+            ]
+        },
+        {
+            "name": "Area of parallelogram (Vector)",
+            "weights": [
+                {
+                    "year": 2018,
+                    "weight": 7.5
+                }
+            ]
+        },
+        {
+            "name": "Caley-Hamilton, Characterstic roots",
+            "weights": [
+                {
+                    "year": 2018,
+                    "weight": 15
+                }
+            ]
+        },
+        {
+            "name": "Check continuity",
+            "weights": [
+                {
+                    "year": 2018,
+                    "weight": 15
+                },
+                {
+                    "year": 2019,
+                    "weight": 15
+                },
+                {
+                    "year": 2020,
+                    "weight": 15
+                }
+            ]
+        },
+        {
+            "name": "Trace the curve",
+            "weights": [
+                {
+                    "year": 2018,
+                    "weight": 15
+                },
+                {
+                    "year": 2020,
+                    "weight": 15
+                }
+            ]
+        },
+        {
+            "name": "Maclaurins theorem",
+            "weights": [
+                {
+                    "year": 2018,
+                    "weight": 15
+                },
+                {
+                    "year": 2020,
+                    "weight": 7.5
+                }
+            ]
+        },
+        {
+            "name": "Taylor's theorem",
+            "weights": [
+                {
+                    "year": 2018,
+                    "weight": 15
+                }
+            ]
+        },
+        {
+            "name": "Evaluate (Integration)",
+            "weights": [
+                {
+                    "year": 2018,
+                    "weight": 15
+                },
+                {
+                    "year": 2019,
+                    "weight": 3
+                },
+                {
+                    "year": 2019,
+                    "weight": 7.5
+                },
+                {
+                    "year": 2020,
+                    "weight": 7.5
+                }
+            ]
+        },
+        {
+            "name": "Rolle's Theorem",
+            "weights": [
+                {
+                    "year": 2019,
+                    "weight": 3
+                },
+                {
+                    "year": 2020,
+                    "weight": 3
+                }
+            ]
+        },
+        {
+            "name": "Rank of matrix",
+            "weights": [
+                {
+                    "year": 2019,
+                    "weight": 3
+                },
+                {
+                    "year": 2019,
+                    "weight": 15
+                },
+                {
+                    "year": 2020,
+                    "weight": 3
+                }
+            ]
+        },
+        {
+            "name": "Show lim exist ?",
+            "weights": [
+                {
+                    "year": 2019,
+                    "weight": 3
+                }
+            ]
+        },
+        {
+            "name": "Formula for cross and Dot product",
+            "weights": [
+                {
+                    "year": 2019,
+                    "weight": 3
+                },
+                {
+                    "year": 2020,
+                    "weight": 3
+                }
+            ]
+        },
+        {
+            "name": "Cramer's rule",
+            "weights": [
+                {
+                    "year": 2019,
+                    "weight": 7.5
+                },
+                {
+                    "year": 2020,
+                    "weight": 7.5
+                },
+                {
+                    "year": 2020,
+                    "weight": 15
+                }
+            ]
+        },
+        {
+            "name": "Differentiate",
+            "weights": [
+                {
+                    "year": 2019,
+                    "weight": 7.5
+                },
+                {
+                    "year": 2018,
+                    "weight": 7.5
+                },
+                {
+                    "year": 2020,
+                    "weight": 3
+                }
+            ]
+        },
+        {
+            "name": "Find cross and Dot product, Unit vector",
+            "weights": [
+                {
+                    "year": 2019,
+                    "weight": 15
+                }
+            ]
+        },
+        {
+            "name": "L' Hospital rule",
+            "weights": [
+                {
+                    "year": 2019,
+                    "weight": 15
+                },
+                {
+                    "year": 2020,
+                    "weight": 15
+                }
+            ]
+        },
+        {
+            "name": "Maximum and Minimum values",
+            "weights": [
+                {
+                    "year": 2020,
+                    "weight": 15
+                }
+            ]
+        }
+    ]
+}

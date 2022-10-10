@@ -1,0 +1,460 @@
+{
+    "title": "Introduction to DBMS",
+    "topics": [
+        {
+            "name": "Characteristics of Database approach",
+            "weights": [
+                {
+                    "year": 2013, 
+                    "weight":7.5
+                },
+                {
+                    "year": 2013, 
+                    "weight": 15
+                },
+                {
+                    "year": 2014, 
+                    "weight":3
+                },
+                {
+                    "year": 2016, 
+                    "weight": 3
+                },
+                {
+                    "year": 2017, 
+                    "weight": 3
+                },
+                {
+                    "year": 2017, 
+                    "weight": 7.5
+                },
+                {
+                    "year": 2018, 
+                    "weight": 3
+                },
+                {
+                    "year": 2021, 
+                    
+                    "weight": 45
+                }
+            ]
+        },
+        {
+            "name": "Data Models", 
+            "weights": [
+                {
+                    "year": 2015, 
+                    "weight": 3
+                },
+                {
+                    "year": 2017, 
+                    "weight": 15
+                }
+            ]
+        },
+        {
+            "name": "DBMS architecture and data independence",
+            "weights":[
+                {
+                    "year":2013,
+                     "weight":3 
+                },
+                {
+                    "year":2014, 
+                    "weight": 15
+                },
+                {
+                    "year": 2015, 
+                    "weight":7.5
+                },
+                {
+                    "year": 2015, 
+                    "weight":15
+                },
+                {
+                    "year":2018, 
+                    "weight":3
+                },
+                {
+                    "year":2020, 
+                    "weight":15
+                },
+                {
+                    "year": 2021, 
+                    "weight":45
+                }
+            ]
+        },
+        {
+            "name": "Entity types, Entity set, Attribute and Key(relation, full concept)",
+            "weights": [
+                {
+                    "year":2014, 
+                    "weight":15
+                },
+                {
+                    "year":2015, 
+                    "weight":3
+                },
+                {
+                    "year": 2016, 
+                    "weight":7.5
+                },
+                {
+                    "year":2017, 
+                    "weight":15
+                }
+            ]
+        },
+        {
+            "name": "Enhanced e-r and object modeling",
+            "weights":[
+                {
+                    "year": 2013, 
+                    "weight":7.5
+                },
+                {
+                    "year": 2014, 
+                    "weight":7.5
+                },
+                {
+                    "year": 2015, 
+                    "weight": 15
+                },
+                {
+                    "year":2016, 
+                    "weight":15
+                },
+                {
+                    "year":2017, 
+                    "weight":3
+                },
+                {
+                    "year":2018, 
+                    "weight":15
+                }
+            ]
+        },
+        {
+            "name": "Super classes, Inheritance, Specialization and Generalization ",
+            "weights": [
+                {
+                    "year":2013, 
+                    "weight":7.5
+                },
+                {
+                    "year": 2014, 
+                    "weight":3
+                },
+                {
+                    "year":2014, 
+                    "weight":15
+                },
+                {
+                    "year":2015, 
+                    "weight":15
+                },
+                {
+                    "year":2016, 
+                    "weight":3
+                },
+                {
+                    "year":2016, 
+                    "weight":15
+                },
+                {
+                    "year":2021, 
+                    "weight":45
+                }
+            ]
+        },
+        {
+            "name": "Implementation using b & b++ trees",
+            "weights":[
+                {
+                    "year": 2017, 
+                    "weight":3
+                },
+                {
+                    "year":2017, 
+                    "weight":15
+                },
+                {
+                    "year":2018, 
+                    "weight":15
+                }
+            ]
+        },
+        {
+            "name": "Hashing(function, collision, extendible, dynamic,implementation, performance)",
+            "weights": [
+                {
+
+                    "year": 2013, 
+                    "weight":15
+                },
+                {
+                    "year":2015, 
+                    "weight":3
+                },
+                {
+                    "year": 2018, 
+                    "weight":3
+                },
+                {
+
+                    "year":2021, 
+                    "weight":45
+                }
+            ]
+        },
+        {
+            "name": "Relational(concepts, constraits,alzebra)",
+            "weights":[
+                {
+                    "year": 2013, 
+                    "weight":15
+                },
+                {
+                    "year":2014, 
+                    "weight":3
+                },
+                {
+                    "year": 2014, 
+                    "weight":7.5
+                },
+                {
+                    "year":2014, 
+                    "weight":15
+                },
+                {
+                    "year":2015, 
+                    "weight":3
+                },
+                {
+                    "year":2015, 
+                    "weight":7.5
+                },
+                {
+                    "year":2017, 
+                    "weight":3
+                },
+                {
+                    "year":2017, 
+                    "weight":15
+                },
+                {
+                    "year":2018, 
+                    "weight":3
+                },
+                {
+                    "year":2019, 
+                    "weight":15
+                },
+                {
+                    "year":2020, 
+                    "weight":45
+                }
+            ]
+        },
+        {
+            "name" : "Queries, Programming",
+            "weights":[
+                {
+                    "year": 2013, 
+                    "weight":15
+                },
+                {
+                    "year":2015, 
+                    "weight":3
+                },
+                {
+                    "year":2017, 
+                    "weight":3
+                },
+                {
+                    "year":2018, 
+                    "weight":15
+                },
+                {
+                    "year":2019, 
+                    "weight":3
+                },
+                {
+                    "year":2019, 
+                    "weight":15
+                },
+                {
+                    "year":2020, 
+                    "weight":7.5
+                },
+                {
+                    "year":2020, 
+                    "weight":15
+                },
+                {
+                    "year":2021, 
+                    "weight":45
+                }
+            ]
+        },
+        {
+            "name": "Data base design using eer to relational language",
+            "weights":[
+                {
+                    "year":2013, 
+                    "weight":7.5
+                },
+                {
+                    "year":2014,
+                    "weight":15
+                },
+                {
+                    "year":2015, 
+                    "weight":15
+                },
+                {
+                    "year":2016, 
+                    "weight":15
+                }
+            ]
+        },
+        {
+            "name": "Functional dependencies",
+            "weights":[
+                {
+                    "year":2013, 
+                    "weight":3
+                },
+                {
+                    "year":2014, 
+                    "weight":3
+                },
+                {
+
+                    "year":2015, 
+                    "weight":7.5
+                },
+                {
+                    "year":2018, 
+                    "weight":3
+                },
+                {
+                    "year":2018, 
+                    "weight":15
+                },
+                {
+                    "year":2020, 
+                    "weight":15
+                },
+                {
+                    "year":2021, 
+                    "weight":15
+                }
+            ]
+        },
+        {
+            "name":"Normal form up to 3rd normal form",
+            "weights":[
+                {
+                    "year":2013, 
+                    "weight":15
+                },
+                {
+                    "year":2014, 
+                    "weight":3
+                },
+                {
+                    "year":2014, 
+                    "weight":15
+                },
+                {
+                    "year":2014, 
+                    "weight":15
+                },
+                {
+                    "year": 2015, 
+                    "weight":3
+                },
+                {
+                    "year":2015, 
+                    "weight":15
+                },
+                {
+                    "year":2016, 
+                    "weight":3
+                },
+                {
+                    "year":2016, 
+                    "weight":7.5
+                },
+                {
+                    "year":2016, 
+                    
+                    "weight":15
+                },
+                {
+                    "year":2019, 
+                    "weight":7.5
+                },
+                {
+                    "year":2019, 
+                    "weight":15
+                },
+                {
+                    "year":2020, 
+                    "weight":15
+                },
+                {
+                    "year":2021, 
+                    "weight":45
+                }
+            ]
+        },
+        {
+            "name": "Concurrency control",
+            "weights":[
+                {
+                    "year":2013, 
+                    "weight":15
+                },
+                {
+                    "year":2014, 
+                    "weight":15
+                },
+                {
+                    "year":2015, 
+                    "weight":15
+                },
+                {
+                    "year":2016, 
+                    "weight":7.5
+                },
+                {
+                    "year":2017, 
+                    "weight":15
+                },
+                {
+                    "year":2018, 
+                    "weight":15
+                },
+                {
+                    "year": 2020, 
+                    "weight":15
+                },
+                {
+                    "year":2020, 
+                    "weight":45
+                },
+                {
+                    "year":2021, 
+                    "weight":7.5
+                },
+                {
+                    "year":2021, 
+                    "weight":45
+                }
+            ]
+        }
+    ]
+}

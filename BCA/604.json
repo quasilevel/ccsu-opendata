@@ -1,190 +1,309 @@
 {
-  "title": "Knowledge mnagement",
-  "topics": [
-     {
-        "name": "Knowledge",
-         "weights": [
-           {
-             "year": 21, "weight": 3
-            },
-            {
-             "year": 21, "weight": 7.5
-            },
-            {
-             "year": 20, "weight": 22.5
-            },
-            {
-             "year": 19, "weight": 7.5
-            },
-            {
-             "year": 18, "weight": 3
-            },
-            {
-             "year": 18, "weight": 15
-            },
-            {
-             "year": 17, "weight": 3
-            }            
-          ]
+    "title": "Knowledge Management",
+    "topicS": [
+        {
+            "name": " Modeling decision process",
+            "weights":[
+                {
+                    "year": 2016, 
+                    "weight":3
+                },
+                {
+                    "year":2017,
+                     "weight":3
+                },
+                {
+                    "year":2019, 
+                    "weight":3
+                },
+                {
+                    "year":2021, 
+                    "weight":15
+                }
+            ]
         },
- {
-        "name": "Data mart",
-         "weights": [
-           {
-             "year": 21, "weight": 3
-            },
-            {
-             "year": 20, "weight": 3
-            }
-          ]
+        {
+            "name": "Decision support systems",
+            "weights": [
+                {
+                    "year":2016, 
+                    "weight":3
+                },
+                {
+                    "year":2017, 
+                    "weight":3
+                },
+                {
+                    "year":2018, 
+                    "weight":3
+                },
+                {
+                    "year":2018, 
+                    "weight":15
+                },
+                {
+                    "year":2021,
+                     "weight":15
+                },
+                {
+                    "year":2021, 
+                    "weight":45
+                }
+            ]
         },
-{
-        "name": "Data warehouse",
-         "weights": [
-           {
-             "year": 21, "weight": 15
-            },
-            {
-             "year": 19, "weight": 22.5
-            },
-            {
-             "year": 19, "weight": 3
-            },
-            {
-             "year": 19, "weight": 7.5
-            },
-            {
-             "year": 17, "weight": 3
-            }
-          ]
+        {
+            "name": "Group decision support", 
+            "weights": [
+                {
+                    "year": 2019, 
+                    "weight":15
+                },
+                {
+                    "year":2020, 
+                    "weight":15
+                },
+                {
+                    "year":2021, 
+                    "weight":7.5
+                },
+                {
+                    "year":2021, 
+                    "weight":45
+                }
+            ]
         },
-  {
-        "name": "Group decision",
-         "weights": [
-           {
-             "year": 21, "weight": 3
-            },
-            {
-             "year": 21, "weight": 15
-            },
+        {
+            "name": "Groupware Technologies",
+            "weights":[
+                {
+                    "year": 2019, 
+                    "weight":3
+                },
+                {
+                    "year":2021,
+                     "weight":7.5
+                }
+            ]
+        },
+        {
+            "name" : "Business expert system and AI",
+            "weights":[
+                {
+                    "year":2016, 
+                    "weight":3
+                },
+                {
 
-           {
-             "year": 20, "weight": 3
-            },
-            {
-             "year": 20, "weight": 15
-            },
-            {
-             "year": 19, "weight": 15
-            },
-            {
-             "year": 18, "weight": 15
-            }
-          ]
+                    "year":2016, 
+                    "weight":7.5
+                },
+                {
+                    "year": 2016, 
+                    "weight":15
+                },
+                {
+                    "year":2017, 
+                    "weight":3
+                },
+                {
+                    "year":2018, 
+                    "weight":15
+                },
+                {
+                    "year":2019, 
+                    "weight":3
+                },
+                {
+                    "year":2020, 
+                    "weight":7.5
+                },
+                {
+                    "year":2020, 
+                    "weight":45
+                },
+                {
+                    "year":2021, 
+                    "weight":45
+                }
+            ] 
         },
- {
-        "name": "Decision support system",
-         "weights": [
-           {
-             "year": 21, "weight": 7.5
-            },
-            {
-             "year": 18, "weight": 3
-            },
-            {
-             "year": 17, "weight": 3
-            }
-          ]
+        {
+            "name":"Olto & Olap",
+            "weights":[
+                {
+                    "year":2018, 
+                    "weight":15
+                },
+                {
+                    "year":2020, 
+                    "weight":3
+                },
+                {
+                    "year":2020, 
+                    "weight":15
+                }
+            ]
         },
-{
-        "name": "Data mining",
-         "weights": [
-           {
-             "year": 21, "weight": 7.5
-            },
-            {
-             "year": 21, "weight": 15
-            },
-            {
-             "year": 19, "weight": 3
-            },
-            {
-             "year": 19, "weight": 15
-            },
-            {
-             "year": 18, "weight": 7.5
-            },
-            {
-             "year": 18, "weight": 7.5
-            },
-            {
-             "year": 17, "weight": 15
-            }
-          ]
+        {
+            "name":"Data warehousing(architecture + tools)",
+            "weights":[
+                {
+                    "year": 2019, 
+                    "weight":7.5
+                },
+                {
+                    "year":2019, 
+                    "weight":15
+                },
+                {
+                    "year":2020, 
+                    "weight":45
+                },
+                {
+                    "year":2020, 
+                    "weight":15
+                },
+                {
+                    "year":2021, 
+                    "weight":7.5
+                },
+                {
+                    "year":2021, 
+                    "weight":45
+                }
+            ]
         },
- {
-        "name": "OLAP",
-         "weights": [
-           {
-             "year": 20, "weight": 3
-            },
-            {
-             "year": 20, "weight": 15
-            },
-            {
-             "year": 18, "weight": 7.5
-            }
-          ]
+        {
+            "name":"Data marts",
+            "weights":[
+                {
+                    "year":2016, 
+                    "weight":7.5
+                },
+                {
+                    "year":2020, 
+                    "weight":7.5
+                },
+                {
+                    "year":2021, 
+                    "weight":7.5
+                }
+            ]
         },
- {
-        "name": "Analysis",
-         "weights": [
-           {
-             "year": 20, "weight": 3
-            },
-            {
-             "year": 20, "weight": 3
-            },
-            {
-             "year": 20, "weight": 15
-            }
-          ]
+        {
+            "name": "Data mining and knowledge discovery, techniques",
+            "weights":[
+                {
+                    "year":2016, 
+                    "weight":3
+                },
+                {
+                    "year":2016, 
+                    "weight":3
+                },
+                {
+                    "year":2016, 
+                    "weight":7.5
+                },
+                {
+                    "year":2017, 
+                    "weight":7.5
+                },
+                {
+                    "year":2017, 
+                    "weight":15
+                },
+                {
+                    "year":2017, 
+                    "weight":15
+                },
+                {
+                    "year":2018, 
+                    "weight":7.5
+                },
+                {
+                    "year":2018, 
+                    "weight":15
+                },
+                {
+                    "year":2019, 
+                    "weight":3
+                },
+                {
+                    "year":2019, 
+                    "weight":15
+                },
+                {
+                    "year": 2021, 
+                    "weight":45
+                }
+            ]
         },
- {
-        "name": "KM system",
-         "weights": [
-           {
-             "year": 20, "weight": 15
-            },
-            {
-             "year": 18, "weight": 7.5
-            },
-            {
-             "year": 18, "weight": 7.5
-            },
-            {
-             "year": 17, "weight": 22.5
-            }
-          ]
+        {
+            "name": "Concept and structure km systems",
+            "weights":[
+                {
+                    "year":2016, 
+                    "weight":3
+                },
+                {
+                    "year":2017, 
+                    "weight":3
+                },
+                {
+                    "year":2017, 
+                    "weight":7.5
+                },
+                {
+                    "year":2018, 
+                    "weight":3
+                },
+                {
+                    "year":2019, 
+                    "weight":15
+                },
+                {
+                    "year":2020, 
+                    "weight":15
+                },
+                {
+                    "year":2021, 
+                    "weight":45
+                }
+            ]
         },
-{
-        "name": "Business analysis",
-         "weights": [
-           {
-             "year": 20, "weight": 22.5
-            },
-            {
-             "year": 19, "weight": 3
-            },
-            {
-             "year": 19, "weight": 3
-            },
-            {
-             "year": 18, "weight": 7.5
-            
-           }
-          ]
-         }
-        ]
-      }
-      
+        {
+            "name":"Techniques of knowledge management appreciation & limitation",
+            "weights":[
+                {
+                    "year": 2017, 
+                    "weight":15
+                },
+                {
+                    "year":2018, 
+                    "weight": 3
+                },
+                {
+                    "year":2018, 
+                    "weight":7.5
+                },
+                {
+                    "year":2018, 
+                    "weight":7.5
+                },
+                {
+                    "year": 2018, 
+                    "weight":15
+                },
+                {
+                    "year":2020, 
+                    "weight":15
+                },
+                {
+                    "year":2021, 
+                    "weight":45
+                }
+            ]
+        }
+    ]
+}

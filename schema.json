@@ -11,7 +11,11 @@
       "items": {
         "type": "object",
         "properties": {
-          "List": {
+          "name": {
+            "type": "string",
+            "description": "Name of the topic"
+          },
+          "weights": {
             "type": "array",
             "description": "Year wise weightage of the topic",
             "items": {
@@ -33,16 +37,12 @@
                 "weight"
               ]
             }
-          },
-          "name": {
-            "type": "string",
-            "description": "Name of the title"
           }
         },
         "additionalProperties": false,
         "required": [
           "name",
-          "List"
+          "weights"
         ]
       }
     }

@@ -1,0 +1,214 @@
+{
+    "title": "Business Economics",
+    "topics": [
+        {
+            "Name": "Elasticity of Demand",
+            "weights": [
+                {
+                    "year": 2021,
+                    "weight": 3
+                },
+                {
+                    "year": 2020,
+                    "weight": 7.5
+                }
+            ]
+        },
+        {
+            "Name": "Perfect Competition",
+            "weights": [
+                {
+                    "year": 2021,
+                    "weight": 3
+                }
+            ]
+        },
+        {
+            "Name": "Profit Maximization",
+            "weights": [
+                {
+                    "year": 2021,
+                    "weight": 3
+                }
+            ]
+        },
+        {
+            "Name": "Fiscal Policy",
+            "weights": [
+                {
+                    "year": 2021,
+                    "weight": 3
+                },
+                {
+                    "year": 2020,
+                    "weight": 15
+                }
+            ]
+        },
+        {
+            "Name": "Objectives of WTO",
+            "weights": [
+                {
+                    "year": 2021,
+                    "weight": 3
+                }
+            ]
+        },
+        {
+            "Name": "Scope of Business Economic",
+            "weights": [
+                {
+                    "year": 2021,
+                    "weight": 7.5
+                },
+                {
+                    "year": 2020,
+                    "weight": 7.5
+                }
+            ]
+        },
+        {
+            "Name": "Internal Economics",
+            "weights": [
+                {
+                    "year": 2021,
+                    "weight": 7.5
+                }
+            ]
+        },
+        {
+            "Name": "Price Determination",
+            "weights": [
+                {
+                    "year": 2021,
+                    "weight": 7.5
+                }
+            ]
+        },
+        {
+            "Name": "Anomalies in Tax Policy",
+            "weights": [
+                {
+                    "year": 2021,
+                    "weight": 15
+                }
+            ]
+        },
+        {
+            "Name": "Sources of Foreign capital",
+            "weights": [
+                {
+                    "year": 2021,
+                    "weight": 15
+                }
+            ]
+        },
+        {
+            "Name": "Perfect Competition",
+            "weights": [
+                {
+                    "year": 2021,
+                    "weight": 15
+                },
+                {
+                    "year": 2020,
+                    "weight": 15
+                }
+            ]
+        },
+        {
+            "Name": "Classifictions of market",
+            "weights": [
+                {
+                    "year": 2021,
+                    "weight": 15
+                }
+            ]
+        },
+        {
+            "Name": "Methods of measuring National Income",
+            "weights": [
+                {
+                    "year": 2021,
+                    "weight": 15
+                },
+                {
+                    "year": 2020,
+                    "weight": 15
+                }
+            ]
+        },
+        {
+            "Name": "Unemployment",
+            "weights": [
+                {
+                    "year": 2020,
+                    "weight": 3
+                }
+            ]
+        },
+        {
+            "Name": "Law of demand",
+            "weights": [
+                {
+                    "year": 2020,
+                    "weight": 3
+                }
+            ]
+        },
+        {
+            "Name": "Capital Budgeting",
+            "weights": [
+                {
+                    "year": 2020,
+                    "weight": 3
+                }
+            ]
+        },
+        {
+            "Name": "Firm",
+            "weights": [
+                {
+                    "year": 2020,
+                    "weight": 3
+                }
+            ]
+        },
+        {
+            "Name": "MNCs",
+            "weights": [
+                {
+                    "year": 2020,
+                    "weight": 3
+                }
+            ]
+        },
+        {
+            "Name": "Trade Cycle",
+            "weights": [
+                {
+                    "year": 2020,
+                    "weight": 7.5
+                }
+            ]
+        },
+        {
+            "Name": "Globalization",
+            "weights": [
+                {
+                    "year": 2020,
+                    "weight": 15
+                }
+            ]
+        },
+        {
+            "Name": "Monopoly and Oligopoly",
+            "weights": [
+                {
+                    "year": 2020,
+                    "weight": 3
+                }
+            ]
+        }
+    ]
+}
