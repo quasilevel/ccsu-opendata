@@ -1,5 +1,5 @@
 {
-  "subject": "Environmental studies",
+  "title": "Environmental studies",
   "topics": [
     {
       "name": "Definition (Environment)",
@@ -152,7 +152,7 @@
     },
     {
       "name": "Definition, Types (Environmental pollution)",
-      "weights ": [
+      "weights": [
         {
           "year": 2012,
           "weight": 5
@@ -169,7 +169,7 @@
     },
     {
       "name": "Water pollution",
-      "weights ": [
+      "weights": [
         {
           "year": 2012,
           "weight": 20
