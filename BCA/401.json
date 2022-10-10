@@ -1,179 +1,179 @@
 {
-    "subject":"computer graphics and computer application",
-    "toipc":[
+  "title": "computer graphics and computer application",
+  "topics": [
+    {
+      "name": "introduction to graphics",
+      "weights": [
         {
-            "name": "introduction to graphics",
-            "weights": [
-                {
-                    "year":2016,
-                    "weight":3
-                },
-                {
-                    "year":2017,
-                    "weight":3
-                },
-                {
-                    "year":2018,
-                    "weight":3
-                },
-                {
-                    "year":2019,
-                    "weight":3
-                },
-                {
-                    "year":2019,
-                    "weight":7.5
-                }
-            ]
+          "year": 2016,
+          "weight": 3
         },
         {
-            "name": "clipping",
-            "weights":[
-                {
-                    "year":2016,
-                    "weight":3
-                },
-                {
-                    "year":2016,
-                    "weight":7.5
-                },
-                {
-                    "year":2016,
-                    "weight":7.5
-                },
-                {
-                    "year":2017,
-                    "weight":7.5
-                },
-                {
-                    "year":2017,
-                    "weight":15
-                },
-                {
-                    "year":2019,
-                    "weight":7.5
-                }
-            ]
+          "year": 2017,
+          "weight": 3
         },
         {
-            "name": "geometrical transformation",
-            "weights":[
-                {
-                    "year":2016,
-                    "weight":7.5
-                },
-                {
-                    "year":2016,
-                    "weight":15
-                },
-                {
-                    "year":2017,
-                    "weight":3
-                },
-                {
-                    "year":2017,
-                    "weight":3
-                },
-                {
-                    "year":2017,
-                    "weight":15
-                },
-                {
-                    "year":2017,
-                    "weight":15
-                },
-                {
-                    "year":2018,
-                    "weight":15
-                },
-                {
-                    "year":2018,
-                    "weight":15
-                },
-                {
-                    "year":2019,
-                    "weight":15
-                }
-            ]
+          "year": 2018,
+          "weight": 3
         },
         {
-            "name":"representing curves and surfaces",
-            "weights":[
-                {
-                    "year":2016,
-                    "weight":3
-                },
-                {
-                    "year":2017,
-                    "weight":3
-                },
-                {
-                    "year":2017,
-                    "weight":15
-                },
-                {
-                    "year":2018,
-                    "weight":3
-                },
-                {
-                    "year":2019,
-                    "weight":15
-                }
-            ]
+          "year": 2019,
+          "weight": 3
         },
         {
-            "name": "multimedia (definition, highway)",
-            "weights":[
-                {
-                    "year":2016,
-                    "weight":15
-                },
-                {
-                    "year":2016,
-                    "weight":15
-                },
-                {
-                    "year":2018,
-                    "weight":3
-                },
-                {
-                    "year":2018,
-                    "weight":15
-                },
-                {
-                    "year":2019,
-                    "weight":3
-                }
-            ]
-       },
-       {
-           "name":"computer animation (design , types, function)",
-           "weights":[
-               {
-                   "year":2016,
-                   "weight": 3
-               },
-               {
-                   "year":2017,
-                   "weight":3
-               },
-               {
-                   "year":2017,
-                   "weight":7.5
-               },
-               {
-                    "year":2017,
-                    "weight":15
-               },
-               {
-                   "year":2018,
-                   "weight":15
-               },
-               {
-                   "year":2019,
-                   "weight":7.5
-               }
-           ]
-       }
-    ]
+          "year": 2019,
+          "weight": 7.5
+        }
+      ]
+    },
+    {
+      "name": "clipping",
+      "weights": [
+        {
+          "year": 2016,
+          "weight": 3
+        },
+        {
+          "year": 2016,
+          "weight": 7.5
+        },
+        {
+          "year": 2016,
+          "weight": 7.5
+        },
+        {
+          "year": 2017,
+          "weight": 7.5
+        },
+        {
+          "year": 2017,
+          "weight": 15
+        },
+        {
+          "year": 2019,
+          "weight": 7.5
+        }
+      ]
+    },
+    {
+      "name": "geometrical transformation",
+      "weights": [
+        {
+          "year": 2016,
+          "weight": 7.5
+        },
+        {
+          "year": 2016,
+          "weight": 15
+        },
+        {
+          "year": 2017,
+          "weight": 3
+        },
+        {
+          "year": 2017,
+          "weight": 3
+        },
+        {
+          "year": 2017,
+          "weight": 15
+        },
+        {
+          "year": 2017,
+          "weight": 15
+        },
+        {
+          "year": 2018,
+          "weight": 15
+        },
+        {
+          "year": 2018,
+          "weight": 15
+        },
+        {
+          "year": 2019,
+          "weight": 15
+        }
+      ]
+    },
+    {
+      "name": "representing curves and surfaces",
+      "weights": [
+        {
+          "year": 2016,
+          "weight": 3
+        },
+        {
+          "year": 2017,
+          "weight": 3
+        },
+        {
+          "year": 2017,
+          "weight": 15
+        },
+        {
+          "year": 2018,
+          "weight": 3
+        },
+        {
+          "year": 2019,
+          "weight": 15
+        }
+      ]
+    },
+    {
+      "name": "multimedia (definition, highway)",
+      "weights": [
+        {
+          "year": 2016,
+          "weight": 15
+        },
+        {
+          "year": 2016,
+          "weight": 15
+        },
+        {
+          "year": 2018,
+          "weight": 3
+        },
+        {
+          "year": 2018,
+          "weight": 15
+        },
+        {
+          "year": 2019,
+          "weight": 3
+        }
+      ]
+    },
+    {
+      "name": "computer animation (design , types, function)",
+      "weights": [
+        {
+          "year": 2016,
+          "weight": 3
+        },
+        {
+          "year": 2017,
+          "weight": 3
+        },
+        {
+          "year": 2017,
+          "weight": 7.5
+        },
+        {
+          "year": 2017,
+          "weight": 15
+        },
+        {
+          "year": 2018,
+          "weight": 15
+        },
+        {
+          "year": 2019,
+          "weight": 7.5
+        }
+      ]
+    }
+  ]
 }
