@@ -1,453 +1,451 @@
 {
-    "Subject":"computer fundamentals And office automation",
-    "Topic" :[
+  "Subject": "Computer fundamentals And Office automation",
+  "topics": [
+    {
+      "name": "Data organisation",
+      "weights": [
         {
-            "name" : "data organisation",
-            "weights" : [
-                {
-                    "year":2013, 
-                    "weight":3
-                },
-                {
-                    "year":2013, 
-                    "weight":7.5
-                },
-                {
-                    "year":2011, 
-                    "weight":15
-                },
-                {
-                    "year":2015, 
-                    "weight":7.5
-                },
-                {
-                    "year":2018, 
-                    "weight":3
-                },
-                {
-                    "year":2020, 
-                    "weight":15
-                }
-            ]
+          "year": 2013,
+          "weight": 3
         },
         {
-            "name": "i/o devices",
-            "weights": [
-                {
-                    "year":2012, 
-                    "weight": 3
-                },
-                {
-                    "year":2012, 
-                    "weight":7.5
-                },
-                {
-                    "year":2015, 
-                    "weight":7.5
-                },
-                {
-                    "year":2018, 
-                    "weight":15
-                },
-                {
-                    "year":2020, 
-                    "weight":15
-                },
-                {
-                    "year":2021, 
-                    "weight" :45
-                }
-
-            ]
+          "year": 2013,
+          "weight": 7.5
         },
         {
-            "name": "types of computers",
-            "weights" :[
-                {
-                    "year":2011, 
-                    "weight":7.5
-                },
-                {
-                    "year":2018, 
-                    "weight":15
-                },
-                {
-                    "year":2019, 
-                    "weight":7.5
-                }
-            ]
+          "year": 2011,
+          "weight": 15
         },
         {
-            "name":"introduction to number system",
-            "weights": [
-                {
-                    "year":2011, 
-                    "weight": 3 
-                },
-                {
-                    "year":2012, 
-                    "weight": 7.5
-                },
-                {
-                    "year":2013, 
-                    "weight": 7.5
-                },
-                {
-                    "year":2016, 
-                    "weight":7.5
-                },
-                {
-                    "year":2017, 
-                    "weight":7.5
-                },
-                {
-                    "year":2020, 
-                    "weight":7.5
-                }
-            ]
+          "year": 2015,
+          "weight": 7.5
         },
         {
-            "name": "drives",
-            "weights":[
-                {
-                    "year":2011, 
-                    "weight":7.5
-                },
-                {
-                    "year":2013, 
-                    "weight":7.5
-                },
-                {
-                    "year":2016, 
-                    "weight":7.5
-                },
-                {
-                    "year":2019, 
-                    "weight":7.5
-                } 
-            ]
+          "year": 2018,
+          "weight": 3
         },
         {
-            "name": "types of memory",
-            "weights":[
-                {
-                    "year":2012, 
-                    "weight":7.5
-                },
-                {
-                    "year":2013, 
-                    "weight":7.5
-                },
-                {
-                    "year":2017, 
-                    "weight":15
-                },
-                {
-                    "year":2021, 
-                    "weight":15
-                }
-            ]
-        },
-        {
-            "name": "block daigram of computer",
-            "weights":[
-                {
-                    "year":2013, 
-                    "weight":15
-                },
-                {
-                    "year":2017, 
-                    "weight":15
-                },
-                {
-                    "year":2019, 
-                    "weight":15
-                },
-                {
-                    "year":2020, 
-                    "weight":45
-                },
-                {
-                    "year":2021, 
-                    "weight":45
-                }
-            ]
-        },
-        {
-              "name": "types of programming language",
-            "weights":[
-                {
-                    "year":2011, 
-                    "weight":3
-                },
-                {
-                    "year":2015,
-                    "weight":7.5
-                },
-                {
-                    "year":2017, 
-                    "weight":15
-                },
-                {
-                    "year":2019, 
-                    "weight":7.5
-                }
-            ]
-        },
-        {
-            "name":"algorithm(defition,characteristics,advantage,disadvantage,example)",
-            "weights":[
-                {
-                    "year":2012, 
-                    "weight":15
-                },
-                {
-                    "year":2013, 
-                    "weight":15
-                },
-                {
-                    "year":2015, 
-                    "weight":15
-                },
-                {
-                    "year":2019, 
-                    "weight":15
-                },
-                {
-                    "year":2020, 
-                    "weight":45
-                },
-                {
-                    "year":2021, 
-                    "weight":45
-                }
-            ]
-        },
-        {
-            "name" :"flowchart(defition,characteristics,advantage,disadvantage,example)",
-            "weights":[
-                {
-                    "year":2011,
-                    "weight":15
-                },
-                {
-                    "year":2013,
-                    "weight":15
-                },
-                {
-                    "year":2015,
-                    "weight":15
-                },
-                {
-                    "year":2017,
-                    "weight":15
-                }
-            ]
-        },
-        {
-            "name" : "Dos-(history,files)",
-
-            "weights":[
-                {
-                    "year":2011,
-                    "weight":3
-                },
-                {
-                    "year":2013,
-                    "weight":7.5
-                },
-                {
-                    "year":2015,
-                    "weight":7.5
-                },
-                {
-                    "year":2017,
-                    "weight":7.5
-                }
-            ]
-        },
-        {
-            "name": "internal and external commands",
-            "weights":[
-                {
-                    "year":2013,
-                    "weight" : 7.5
-                },
-                {
-                    "year":2015,
-                    "weight":15
-                },
-                {
-                    "year":2019,
-                    "weight":7.5
-                },
-                {
-                    "year":2021,
-                    "weight":7.5
-                }
-            ]
-        },
-        {
-            "name": "batch files",
-            "weights":[
-                {
-                    "year":2013,
-                    "weight" :7.5
-                },
-                {
-                    "year":2015,
-                    "weight":7.5
-                },
-                {
-                    "year":2019,
-                    "weight":3
-                }
-            ]
-        },
-        {
-            "name":"types of os",
-            "weights":[
-                {
-                    "year":2011, 
-                    "weight":7.5
-                },
-                {
-                    "year":2019, 
-                    "weight":7.5
-                }
-            ]
-        },
-        {
-            "name":"operating system",
-            "weights":[
-                {
-                    "year":2012, 
-                    "weight":7.5
-                },
-                {
-                    "year":2012, 
-                    "weight":7.5
-                },
-                {
-                    "year":2015, 
-                    "weight":7.5
-                },
-                {
-                    "year":2019, 
-                    "weight":7.5
-                }
-            ]
-        },    
-        {
-            "name": "window applications",
-            "weights":[
-                {
-                    "year":2011, 
-                    "weight":15
-                },
-                {
-                    "year":2013, 
-                    "weight":15
-                },
-                {
-                    "year":2017, 
-                    "weight":7.5
-                },
-                {
-                    "year":2019, 
-                    "weight":7.5
-                },
-                {
-                    "year":2021, 
-                    "weight":15
-                }
-            ]
-        },
-        {
-            "name" : "taskbar",
-            "weights":[
-                {
-                    "year":2011, 
-                    "weight":7.5
-                },
-                {
-                    "year":2019, 
-                    "weight":3
-                }
-            ]
-        },
-        {
-            "name" : "window accessories",
-            "weights":[
-                {
-                    "year": 2013, 
-                    "weight":15
-                },
-                {
-                    "year":2019, 
-                    "weight": 7.5
-                }
-            ]
-        },
-        {
-            "name": "basic concepts",
-            "weights":[
-                {
-                    "year": 2017, 
-                    "weight":7.5
-                },
-                {
-                    "year":2020, 
-                    "weight":15
-                },
-                {
-                    "year":2021, 
-                    "weight":45
-                }
-            ]
-        },
-        {
-            "name": "desktop publishing",
-            "weights":[
-                {
-                    "year":2015, 
-                    "weight":15
-                },
-                {
-                    "year":2019, 
-                    "weight":15
-                }
-            ]
-        },
-        {
-            "name": "ms excel",
-            "weights":[
-                {
-                    "year":2012, 
-                    "weight":15
-                },
-                {
-                    "year":2019, 
-                    "weight":3
-                }
-            ]
-        },
-        {
-            "name": "ms powerpoint",
-            "weights":[
-                {
-                    "year": 2011, 
-                    "weight":7.5
-                },
-                {
-                    "year": 2019, 
-                    "weight":7.5
-                },
-                {
-                    "year": 2021, 
-                    "weight": 45
-                }
-            ]
+          "year": 2020,
+          "weight": 15
         }
-    ]
+      ]
+    },
+    {
+      "name": "I/O Devices",
+      "weights": [
+        {
+          "year": 2012,
+          "weight": 3
+        },
+        {
+          "year": 2012,
+          "weight": 7.5
+        },
+        {
+          "year": 2015,
+          "weight": 7.5
+        },
+        {
+          "year": 2018,
+          "weight": 15
+        },
+        {
+          "year": 2020,
+          "weight": 15
+        },
+        {
+          "year": 2021,
+          "weight": 45
+        }
+      ]
+    },
+    {
+      "name": "Types of computers",
+      "weights": [
+        {
+          "year": 2011,
+          "weight": 7.5
+        },
+        {
+          "year": 2018,
+          "weight": 15
+        },
+        {
+          "year": 2019,
+          "weight": 7.5
+        }
+      ]
+    },
+    {
+      "name": "Introduction to number system",
+      "weights": [
+        {
+          "year": 2011,
+          "weight": 3
+        },
+        {
+          "year": 2012,
+          "weight": 7.5
+        },
+        {
+          "year": 2013,
+          "weight": 7.5
+        },
+        {
+          "year": 2016,
+          "weight": 7.5
+        },
+        {
+          "year": 2017,
+          "weight": 7.5
+        },
+        {
+          "year": 2020,
+          "weight": 7.5
+        }
+      ]
+    },
+    {
+      "name": "Drives",
+      "weights": [
+        {
+          "year": 2011,
+          "weight": 7.5
+        },
+        {
+          "year": 2013,
+          "weight": 7.5
+        },
+        {
+          "year": 2016,
+          "weight": 7.5
+        },
+        {
+          "year": 2019,
+          "weight": 7.5
+        }
+      ]
+    },
+    {
+      "name": "Types of memory",
+      "weights": [
+        {
+          "year": 2012,
+          "weight": 7.5
+        },
+        {
+          "year": 2013,
+          "weight": 7.5
+        },
+        {
+          "year": 2017,
+          "weight": 15
+        },
+        {
+          "year": 2021,
+          "weight": 15
+        }
+      ]
+    },
+    {
+      "name": "Block daigram of computer",
+      "weights": [
+        {
+          "year": 2013,
+          "weight": 15
+        },
+        {
+          "year": 2017,
+          "weight": 15
+        },
+        {
+          "year": 2019,
+          "weight": 15
+        },
+        {
+          "year": 2020,
+          "weight": 45
+        },
+        {
+          "year": 2021,
+          "weight": 45
+        }
+      ]
+    },
+    {
+      "name": "Types of programming language",
+      "weights": [
+        {
+          "year": 2011,
+          "weight": 3
+        },
+        {
+          "year": 2015,
+          "weight": 7.5
+        },
+        {
+          "year": 2017,
+          "weight": 15
+        },
+        {
+          "year": 2019,
+          "weight": 7.5
+        }
+      ]
+    },
+    {
+      "name": "Algorithm (Defition,Characteristics,Advantage,Disadvantage,Example)",
+      "weights": [
+        {
+          "year": 2012,
+          "weight": 15
+        },
+        {
+          "year": 2013,
+          "weight": 15
+        },
+        {
+          "year": 2015,
+          "weight": 15
+        },
+        {
+          "year": 2019,
+          "weight": 15
+        },
+        {
+          "year": 2020,
+          "weight": 45
+        },
+        {
+          "year": 2021,
+          "weight": 45
+        }
+      ]
+    },
+    {
+      "name": "Flowchart(Defition,Characteristics,Advantage,Disadvantage,Example)",
+      "weights": [
+        {
+          "year": 2011,
+          "weight": 15
+        },
+        {
+          "year": 2013,
+          "weight": 15
+        },
+        {
+          "year": 2015,
+          "weight": 15
+        },
+        {
+          "year": 2017,
+          "weight": 15
+        }
+      ]
+    },
+    {
+      "name": "Dos-(History,Files)",
+      "weights": [
+        {
+          "year": 2011,
+          "weight": 3
+        },
+        {
+          "year": 2013,
+          "weight": 7.5
+        },
+        {
+          "year": 2015,
+          "weight": 7.5
+        },
+        {
+          "year": 2017,
+          "weight": 7.5
+        }
+      ]
+    },
+    {
+      "name": "Internal and External commands",
+      "weights": [
+        {
+          "year": 2013,
+          "weight": 7.5
+        },
+        {
+          "year": 2015,
+          "weight": 15
+        },
+        {
+          "year": 2019,
+          "weight": 7.5
+        },
+        {
+          "year": 2021,
+          "weight": 7.5
+        }
+      ]
+    },
+    {
+      "name": "Batch files",
+      "weights": [
+        {
+          "year": 2013,
+          "weight": 7.5
+        },
+        {
+          "year": 2015,
+          "weight": 7.5
+        },
+        {
+          "year": 2019,
+          "weight": 3
+        }
+      ]
+    },
+    {
+      "name": "Types of OS",
+      "weights": [
+        {
+          "year": 2011,
+          "weight": 7.5
+        },
+        {
+          "year": 2019,
+          "weight": 7.5
+        }
+      ]
+    },
+    {
+      "name": "Operating system",
+      "weights": [
+        {
+          "year": 2012,
+          "weight": 7.5
+        },
+        {
+          "year": 2012,
+          "weight": 7.5
+        },
+        {
+          "year": 2015,
+          "weight": 7.5
+        },
+        {
+          "year": 2019,
+          "weight": 7.5
+        }
+      ]
+    },
+    {
+      "name": "Window applications",
+      "weights": [
+        {
+          "year": 2011,
+          "weight": 15
+        },
+        {
+          "year": 2013,
+          "weight": 15
+        },
+        {
+          "year": 2017,
+          "weight": 7.5
+        },
+        {
+          "year": 2019,
+          "weight": 7.5
+        },
+        {
+          "year": 2021,
+          "weight": 15
+        }
+      ]
+    },
+    {
+      "name": "Taskbar",
+      "weights": [
+        {
+          "year": 2011,
+          "weight": 7.5
+        },
+        {
+          "year": 2019,
+          "weight": 3
+        }
+      ]
+    },
+    {
+      "name": "Window accessories",
+      "weights": [
+        {
+          "year": 2013,
+          "weight": 15
+        },
+        {
+          "year": 2019,
+          "weight": 7.5
+        }
+      ]
+    },
+    {
+      "name": "Basic concepts",
+      "weights": [
+        {
+          "year": 2017,
+          "weight": 7.5
+        },
+        {
+          "year": 2020,
+          "weight": 15
+        },
+        {
+          "year": 2021,
+          "weight": 45
+        }
+      ]
+    },
+    {
+      "name": "Desktop publishing",
+      "weights": [
+        {
+          "year": 2015,
+          "weight": 15
+        },
+        {
+          "year": 2019,
+          "weight": 15
+        }
+      ]
+    },
+    {
+      "name": "MS Excel",
+      "weights": [
+        {
+          "year": 2012,
+          "weight": 15
+        },
+        {
+          "year": 2019,
+          "weight": 3
+        }
+      ]
+    },
+    {
+      "name": "MS Powerpoint",
+      "weights": [
+        {
+          "year": 2011,
+          "weight": 7.5
+        },
+        {
+          "year": 2019,
+          "weight": 7.5
+        },
+        {
+          "year": 2021,
+          "weight": 45
+        }
+      ]
+    }
+  ]
 }

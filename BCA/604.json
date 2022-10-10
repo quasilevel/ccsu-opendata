@@ -1,8 +1,8 @@
 {
-    "subject": "knowledge management",
-    "topic": [
+    "subject": "Knowledge Management",
+    "topicS": [
         {
-            "name": " modeling decision process",
+            "name": " Modeling decision process",
             "weights":[
                 {
                     "year": 2016, 
@@ -23,7 +23,7 @@
             ]
         },
         {
-            "name": "decision support systems",
+            "name": "Decision support systems",
             "weights": [
                 {
                     "year":2016, 
@@ -52,7 +52,7 @@
             ]
         },
         {
-            "name": "group decision support", 
+            "name": "Group decision support", 
             "weights": [
                 {
                     "year": 2019, 
@@ -73,7 +73,7 @@
             ]
         },
         {
-            "name": "groupware technologies",
+            "name": "Groupware Technologies",
             "weights":[
                 {
                     "year": 2019, 
@@ -86,7 +86,7 @@
             ]
         },
         {
-            "name" : "business expert system and AI",
+            "name" : "Business expert system and AI",
             "weights":[
                 {
                     "year":2016, 
@@ -128,7 +128,7 @@
             ] 
         },
         {
-            "name":"olto & olap",
+            "name":"Olto & Olap",
             "weights":[
                 {
                     "year":2018, 
@@ -145,7 +145,7 @@
             ]
         },
         {
-            "name":"data warehousing(architecture + tools)",
+            "name":"Data warehousing(architecture + tools)",
             "weights":[
                 {
                     "year": 2019, 
@@ -174,7 +174,7 @@
             ]
         },
         {
-            "name":"data marts",
+            "name":"Data marts",
             "weights":[
                 {
                     "year":2016, 
@@ -191,7 +191,7 @@
             ]
         },
         {
-            "name": "data mining and knowledge discovery, techniques",
+            "name": "Data mining and knowledge discovery, techniques",
             "weights":[
                 {
                     "year":2016, 
@@ -240,7 +240,7 @@
             ]
         },
         {
-            "name": "concept and structure km systems",
+            "name": "Concept and structure km systems",
             "weights":[
                 {
                     "year":2016, 
@@ -273,7 +273,7 @@
             ]
         },
         {
-            "name":"techniques of knowledge management appreciation & limitation",
+            "name":"Techniques of knowledge management appreciation & limitation",
             "weights":[
                 {
                     "year": 2017, 

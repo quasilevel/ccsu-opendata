@@ -2,7 +2,7 @@
     "Subject": "Business Economics",
     "topics": [
         {
-            "Name": "elasticity of demand",
+            "Name": "Elasticity of Demand",
             "weights": [
                 {
                     "year": 2021,
@@ -15,7 +15,7 @@
             ]
         },
         {
-            "Name": "perfect compitition",
+            "Name": "Perfect Competition",
             "weights": [
                 {
                     "year": 2021,
@@ -24,7 +24,7 @@
             ]
         },
         {
-            "Name": "profit maximization",
+            "Name": "Profit Maximization",
             "weights": [
                 {
                     "year": 2021,
@@ -46,7 +46,7 @@
             ]
         },
         {
-            "Name": "Objectives of wTO",
+            "Name": "Objectives of WTO",
             "weights": [
                 {
                     "year": 2021,
@@ -77,7 +77,7 @@
             ]
         },
         {
-            "Name": "price determination",
+            "Name": "Price Determination",
             "weights": [
                 {
                     "year": 2021,
@@ -104,7 +104,7 @@
             ]
         },
         {
-            "Name": "perfect compitition",
+            "Name": "Perfect Competition",
             "weights": [
                 {
                     "year": 2021,
@@ -117,7 +117,7 @@
             ]
         },
         {
-            "Name": "classifictions of market",
+            "Name": "Classifictions of market",
             "weights": [
                 {
                     "year": 2021,
@@ -157,7 +157,7 @@
             ]
         },
         {
-            "Name": "capital budgeting",
+            "Name": "Capital Budgeting",
             "weights": [
                 {
                     "year": 2020,
@@ -202,7 +202,7 @@
             ]
         },
         {
-            "Name": "MonoPoly and Oligopoly",
+            "Name": "Monopoly and Oligopoly",
             "weights": [
                 {
                     "year": 2020,
