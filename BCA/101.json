@@ -1,8 +1,8 @@
 {
-    "title": "Mathematics",
+    "title": "mathematics",
     "topics": [
         {
-            "name": "Hermition matrix",
+            "name": "hermition matrix",
             "weights": [
                 {
                     "year": 2018,
@@ -11,7 +11,7 @@
             ]
         },
         {
-            "name": "Limit of a function",
+            "name": "limit of a function",
             "weights": [
                 {
                     "year": 2018,
@@ -20,7 +20,7 @@
             ]
         },
         {
-            "name": "Find asymptotes",
+            "name": "find asymptotes",
             "weights": [
                 {
                     "year": 2018,
@@ -29,7 +29,7 @@
             ]
         },
         {
-            "name": "Fundamental theorem of calculus",
+            "name": "fundamental theorem of calculus",
             "weights": [
                 {
                     "year": 2018,
@@ -38,7 +38,7 @@
             ]
         },
         {
-            "name": "Vector in 2D",
+            "name": "vector in 2D",
             "weights": [
                 {
                     "year": 2018,
@@ -47,16 +47,7 @@
             ]
         },
         {
-            "name": "Determine function is continuous",
-            "weights": [
-                {
-                    "year": 2018,
-                    "weight": 7.5
-                }
-            ]
-        },
-        {
-            "name": "Area of parallelogram (Vector)",
+            "name": "determine function is continuous",
             "weights": [
                 {
                     "year": 2018,
@@ -65,7 +56,16 @@
             ]
         },
         {
-            "name": "Caley-Hamilton, Characterstic roots",
+            "name": "area of parallelogram (vector)",
+            "weights": [
+                {
+                    "year": 2018,
+                    "weight": 7.5
+                }
+            ]
+        },
+        {
+            "name": "caley-hamilton, characterstic roots",
             "weights": [
                 {
                     "year": 2018,
@@ -74,7 +74,7 @@
             ]
         },
         {
-            "name": "Check continuity",
+            "name": "check continuity",
             "weights": [
                 {
                     "year": 2018,
@@ -91,7 +91,7 @@
             ]
         },
         {
-            "name": "Trace the curve",
+            "name": "trace the curve",
             "weights": [
                 {
                     "year": 2018,
@@ -104,7 +104,7 @@
             ]
         },
         {
-            "name": "Maclaurins theorem",
+            "name": "maclaurins theorem",
             "weights": [
                 {
                     "year": 2018,
@@ -117,7 +117,7 @@
             ]
         },
         {
-            "name": "Taylor's theorem",
+            "name": "taylor's theorem",
             "weights": [
                 {
                     "year": 2018,
@@ -126,7 +126,7 @@
             ]
         },
         {
-            "name": "Evaluate (Integration)",
+            "name": "evaluate (integration)",
             "weights": [
                 {
                     "year": 2018,
@@ -147,7 +147,7 @@
             ]
         },
         {
-            "name": "Rolle's Theorem",
+            "name": "rolle's theorem",
             "weights": [
                 {
                     "year": 2019,
@@ -160,7 +160,7 @@
             ]
         },
         {
-            "name": "Rank of matrix",
+            "name": "rank of matrix",
             "weights": [
                 {
                     "year": 2019,
@@ -177,7 +177,7 @@
             ]
         },
         {
-            "name": "Show lim exist ?",
+            "name": "show lim exist ?",
             "weights": [
                 {
                     "year": 2019,
@@ -186,7 +186,7 @@
             ]
         },
         {
-            "name": "Formula for cross and Dot product",
+            "name": "formula for cross and dot product",
             "weights": [
                 {
                     "year": 2019,
@@ -199,7 +199,7 @@
             ]
         },
         {
-            "name": "Cramer's rule",
+            "name": "cramer's rule",
             "weights": [
                 {
                     "year": 2019,
@@ -216,7 +216,7 @@
             ]
         },
         {
-            "name": "Differentiate",
+            "name": "differentiate",
             "weights": [
                 {
                     "year": 2019,
@@ -233,7 +233,7 @@
             ]
         },
         {
-            "name": "Find cross and Dot product, Unit vector",
+            "name": "find cross and dot product, unit vector",
             "weights": [
                 {
                     "year": 2019,
@@ -242,7 +242,7 @@
             ]
         },
         {
-            "name": "L' Hospital rule",
+            "name": "L' hospital rule",
             "weights": [
                 {
                     "year": 2019,
@@ -255,7 +255,7 @@
             ]
         },
         {
-            "name": "Maximum and Minimum values",
+            "name": "maximum and minimum values",
             "weights": [
                 {
                     "year": 2020,
