@@ -1,20 +1,24 @@
 {
-  "title": "Programing principle nd algorithm",
+  "title": "programing principle nd algorithm",
   "topics": [
      {
         "name": "function calling",
          "weights": [
            {
-             "year": 16, "weight": 3
+             "year": 16, 
+             "weight": 3
             },
             {
-             "year": 19, "weight": 7.5
+             "year": 17, 
+             "weight": 7.5
             },
             {
-             "year": 19, "weight": 7.5
+             "year": 18, 
+             "weight":5
             },
             {
-             "year": 19, "weight": 7.5
+             "year": 19, 
+             "weight": 7.5
             }
           ]
         },
@@ -22,86 +26,101 @@
         "name": "even odd number",
          "weights": [
            {
-             "year": 16, "weight":7.5
+             "year": 16, 
+             "weight":7.5
             },
             {
-             "year": 16, "weight": 15
+             "year": 16, 
+             "weight": 15
             },
             {
-             "year": 17, "weight": 15
+             "year": 17, 
+             "weight": 15
             }
           ]
         },
  {
-        "name": "Flowchart",
+        "name": "flowchart",
          "weights": [
            {
-             "year": 16, "weight": 7.5
+             "year": 16, 
+             "weight": 7.5
             },
             {
-             "year": 17, "weight": 3
+             "year": 17, 
+             "weight": 3
             },
             {
-             "year": 17, "weight": 3
-            },
-            {
-             "year": 17, "weight": 7.5
+             "year": 17, 
+             "weight": 7.5
             }
           ]
         },
  {
-        "name": "Recursion",
+        "name": "recursion",
          "weights": [
            {
-             "year": 16, "weight": 7.5
+             "year": 16, 
+             "weight": 7.5
             },
             {
-             "year": 16, "weight": 15
+             "year": 16, 
+             "weight": 15
             },
             {
-             "year": 17, "weight": 15
+             "year": 17, 
+             "weight": 15
             },
             {
-             "year": 20, "weight": 3
+             "year": 20, 
+             "weight": 3
             }
           ]
         },
  {
-        "name": "Functions",
+        "name": "functions",
          "weights": [
            {
-             "year": 17, "weight": 15
+             "year": 17, 
+             "weight": 15
             },
             {
-             "year": 18, "weight": 15
+             "year": 18, 
+             "weight": 15
             },
             {
-             "year": 19, "weight": 7.5
+             "year": 19, 
+             "weight": 7.5
             }
           ]
         },
  {
-        "name": "Algorithm",
+        "name": "algorithm",
          "weights": [
            {
-             "year": 17, "weight": 3
+             "year": 17, 
+             "weight": 3
             },
             {
-             "year": 18, "weight": 3
+             "year": 18, 
+             "weight": 3
             },
             {
-             "year": 18, "weight": 7.5
+             "year": 18,
+             "weight": 7.5
             },
             {
-             "year": 18, "weight": 15
+             "year": 18, 
+             "weight": 15
             }
           ]
         },
  {
-        "name": "Tokens",
+        "name": "tokens",
          "weights": [
            {
-             "year": 18, "weight": 3
+             "year": 18, 
+             "weight": 3
                
             }
           ]
