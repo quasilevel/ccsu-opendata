@@ -1,8 +1,8 @@
 {
-  "title": "Computer fundamentals And Office automation",
+  "title": "computer fundamentals And office automation",
   "topics": [
     {
-      "name": "Data organisation",
+      "name": "data organisation",
       "weights": [
         {
           "year": 2013,
@@ -31,7 +31,7 @@
       ]
     },
     {
-      "name": "I/O Devices",
+      "name": "i/o devices",
       "weights": [
         {
           "year": 2012,
@@ -55,12 +55,12 @@
         },
         {
           "year": 2021,
-          "weight": 45
+          "weight": 22.5
         }
       ]
     },
     {
-      "name": "Types of computers",
+      "name": "types of computers",
       "weights": [
         {
           "year": 2011,
@@ -77,7 +77,7 @@
       ]
     },
     {
-      "name": "Introduction to number system",
+      "name": "introduction to number system",
       "weights": [
         {
           "year": 2011,
@@ -106,7 +106,7 @@
       ]
     },
     {
-      "name": "Drives",
+      "name": "drives",
       "weights": [
         {
           "year": 2011,
@@ -127,7 +127,7 @@
       ]
     },
     {
-      "name": "Types of memory",
+      "name": "types of memory",
       "weights": [
         {
           "year": 2012,
@@ -148,7 +148,7 @@
       ]
     },
     {
-      "name": "Block daigram of computer",
+      "name": "block daigram of computer",
       "weights": [
         {
           "year": 2013,
@@ -164,16 +164,16 @@
         },
         {
           "year": 2020,
-          "weight": 45
+          "weight": 22.5
         },
         {
           "year": 2021,
-          "weight": 45
+          "weight": 22.5
         }
       ]
     },
     {
-      "name": "Types of programming language",
+      "name": "types of programming language",
       "weights": [
         {
           "year": 2011,
@@ -194,7 +194,7 @@
       ]
     },
     {
-      "name": "Algorithm (Defition,Characteristics,Advantage,Disadvantage,Example)",
+      "name": "algorithm (defition,characteristics,advantage,disadvantage,example)",
       "weights": [
         {
           "year": 2012,
@@ -214,16 +214,16 @@
         },
         {
           "year": 2020,
-          "weight": 45
+          "weight": 22.5
         },
         {
           "year": 2021,
-          "weight": 45
+          "weight": 22.5
         }
       ]
     },
     {
-      "name": "Flowchart(Defition,Characteristics,Advantage,Disadvantage,Example)",
+      "name": "flowchart(defition,characteristics,advantage,disadvantage,example)",
       "weights": [
         {
           "year": 2011,
@@ -244,7 +244,7 @@
       ]
     },
     {
-      "name": "Dos-(History,Files)",
+      "name": "dos-(history,files)",
       "weights": [
         {
           "year": 2011,
@@ -265,7 +265,7 @@
       ]
     },
     {
-      "name": "Internal and External commands",
+      "name": "internal and external commands",
       "weights": [
         {
           "year": 2013,
@@ -286,7 +286,7 @@
       ]
     },
     {
-      "name": "Batch files",
+      "name": "batch files",
       "weights": [
         {
           "year": 2013,
@@ -303,7 +303,7 @@
       ]
     },
     {
-      "name": "Types of OS",
+      "name": "types of os",
       "weights": [
         {
           "year": 2011,
@@ -316,7 +316,7 @@
       ]
     },
     {
-      "name": "Operating system",
+      "name": "operating system",
       "weights": [
         {
           "year": 2012,
@@ -337,7 +337,7 @@
       ]
     },
     {
-      "name": "Window applications",
+      "name": "window applications",
       "weights": [
         {
           "year": 2011,
@@ -362,7 +362,7 @@
       ]
     },
     {
-      "name": "Taskbar",
+      "name": "taskbar",
       "weights": [
         {
           "year": 2011,
@@ -375,7 +375,7 @@
       ]
     },
     {
-      "name": "Window accessories",
+      "name": "window accessories",
       "weights": [
         {
           "year": 2013,
@@ -388,7 +388,7 @@
       ]
     },
     {
-      "name": "Basic concepts",
+      "name": "basic concepts",
       "weights": [
         {
           "year": 2017,
@@ -400,12 +400,12 @@
         },
         {
           "year": 2021,
-          "weight": 45
+          "weight": 22.5
         }
       ]
     },
     {
-      "name": "Desktop publishing",
+      "name": "desktop publishing",
       "weights": [
         {
           "year": 2015,
@@ -418,7 +418,7 @@
       ]
     },
     {
-      "name": "MS Excel",
+      "name": "ms excel",
       "weights": [
         {
           "year": 2012,
@@ -431,7 +431,7 @@
       ]
     },
     {
-      "name": "MS Powerpoint",
+      "name": "ms powerpoint",
       "weights": [
         {
           "year": 2011,
@@ -443,7 +443,7 @@
         },
         {
           "year": 2021,
-          "weight": 45
+          "weight": 22.5
         }
       ]
     }
