@@ -1,98 +1,118 @@
 {
-  "title": "Mathematics-II",
+  "title": "mathematics-II",
   "topics": [
      {
-        "name": "Sets",
+        "name": "sets",
          "weights": [
            {
-             "year": 19, "weight": 3
+             "year": 19, 
+             "weight": 3
             },
             {
-             "year": 19, "weight": 15
+             "year": 19, 
+             "weight": 15
             },
             {
-             "year": 18, "weight": 3
+             "year": 18, 
+             "weight": 3
             },
             {
-             "year": 17, "weight": 3
+             "year": 17, 
+             "weight": 3
             },
             {
-             "year": 17, "weight": 15
+             "year": 17, 
+             "weight": 15
             }
           ]
         },
      {
-        "name": "Lattice",
+        "name": "lattice",
          "weights": [
            {
-             "year": 19, "weight": 15
+             "year": 19, 
+             "weight": 15
             },
             {
-             "year": 18, "weight": 3
+             "year": 18, 
+             "weight": 3
             },
             {
-             "year": 17, "weight": 3
+             "year": 17, 
+             "weight": 3
             },
             {
-             "year": 17, "weight": 15
+             "year": 17, 
+             "weight": 15
             }
           ]
         },
  {
-        "name": "Maxima and Minima",
+        "name": "maxima and minima",
          "weights": [
            {
-             "year": 19, "weight": 15
+             "year": 19, 
+             "weight": 15
             }
           ]
         },
  {
-        "name": "Itegration",
+        "name": "itegration",
          "weights": [
            {
-             "year": 19, "weight": 3
+             "year": 19, 
+             "weight": 3
             },
             {
-             "year": 19, "weight": 7.5
+             "year": 19, 
+             "weight": 7.5
             },
             {
-             "year": 19, "weight": 15
+             "year": 19, 
+             "weight": 15
             },{
-             "year": 18, "weight": 3
+             "year": 18, 
+             "weight": 3
             },
             {
-             "year": 18, "weight": 3
+             "year": 18, 
+             "weight": 3
             },
             {
-             "year": 18, "weight": 15
-            },
-           {
-             "year": 18, "weight": 15
+             "year": 18, 
+             "weight": 15
             },
             {
-             "year": 17, "weight": 7.5
+             "year": 17, 
+             "weight": 7.5
             },
             {
-             "year": 17, "weight": 15
+             "year": 17, 
+             "weight": 15
             }
           ]
         },
  {
-        "name": "Coordinate geometry",
+        "name": "coordinate geometry",
          "weights": [
            {
-             "year": 19, "weight": 7.5
+             "year": 19, 
+             "weight": 7.5
             },
             {
-             "year": 19, "weight": 15
+             "year": 19, 
+             "weight": 15
             },
             {
-             "year": 18, "weight": 15
+             "year": 18,
+             "weight": 15
             },{
-             "year": 17, "weight": 3
+             "year": 17, 
+             "weight": 3
             },
             {
-             "year": 17, "weight": 15
+             "year": 17, 
+             "weight": 15
               
             }
           ]
