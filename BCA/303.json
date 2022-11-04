@@ -1,105 +1,129 @@
 {
-  "title": "Computer Architecture & Assembly language",
+  "title": "computer architecture & assembly language",
   "topics": [
      {
-        "name": "Input/Output processor",
+        "name": "input/output processor",
          "weights": [
            {
-             "year": 20, "weight": 3
+             "year": 20, 
+             "weight": 3
             },
             {
-             "year": 20, "weight": 7.5
+             "year": 20, 
+             "weight": 7.5
             },
             {
-             "year": 19, "weight": 3
+             "year": 19, 
+             "weight": 3
             },
             {
-             "year": 18, "weight": 3
+             "year": 18, 
+             "weight": 3
             },
             {
-             "year": 18, "weight": 15
+             "year": 18, 
+             "weight": 15
             }
           ]
         },
  {
-        "name": "Algorithm",
+        "name": "algorithm",
          "weights": [
            {
-             "year": 20, "weight": 3
+             "year": 20, 
+             "weight": 3
             },
             {
-             "year": 19, "weight": 7.5
+             "year": 19, 
+             "weight": 7.5
             }
           ]
         },
      {
-        "name": "Register",
+        "name": "register",
          "weights": [
            {
-             "year": 20, "weight": 3
+             "year": 20, 
+             "weight": 3
             },
             {
-             "year": 20, "weight": 7.5
+             "year": 20, 
+             "weight": 7.5
             },
             {
-             "year": 20, "weight": 15
+             "year": 20, 
+             "weight": 15
             },
             {
-             "year": 18, "weight": 3
+             "year": 18, 
+             "weight": 3
             }
           ]
         },
      {
-        "name": "DMA",
+        "name": "dma",
          "weights": [
            {
-             "year": 20, "weight": 7.5
+             "year": 20,
+             "weight": 7.5
             },
             {
-             "year": 19, "weight": 15
+             "year": 19,
+             "weight": 15
             },
             {
-             "year": 18, "weight": 3
+             "year": 18, 
+             "weight": 3
             }
           ]
         },
     {
-        "name": "Microprocessors",
+        "name": "microprocessors",
          "weights": [
            {
-             "year": 20, "weight": 15
+             "year": 20,
+             "weight": 15
             },
             {
-             "year": 19, "weight": 3
+             "year": 19, 
+             "weight": 3
             },
             {
-             "year": 19, "weight": 3
+             "year": 19, 
+             "weight": 3
             },
             {
-             "year": 18, "weight": 15
+             "year": 18,
+             "weight": 15
             }
           ]
         },
 {
-        "name": "CPU",
+        "name": "cpu",
          "weights": [
            {
-             "year": 18, "weight": 15
+             "year": 18, 
+             "weight": 15
             },
             {
-             "year": 18, "weight": 7.5
+             "year": 18, 
+             "weight": 7.5
             },
             {
-             "year": 19, "weight": 3
+             "year": 19, 
+             "weight": 3
             },
             {
-             "year": 19, "weight": 7.5
+             "year": 19, 
+             "weight": 7.5
             },
             {
-             "year": 20, "weight": 15
+             "year": 20, 
+             "weight": 15
             },
             {
-             "year": 20, "weight": 3
+             "year": 20, 
+             "weight": 3
             
            }
           ]
