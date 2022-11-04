@@ -1,8 +1,8 @@
 {
-    "title": "Introduction to DBMS",
+    "title": "introduction to dbms",
     "topics": [
         {
-            "name": "Characteristics of Database approach",
+            "name": "characteristics of database approach",
             "weights": [
                 {
                     "year": 2013, 
@@ -34,13 +34,12 @@
                 },
                 {
                     "year": 2021, 
-                    
-                    "weight": 45
+                    "weight":22.5
                 }
             ]
         },
         {
-            "name": "Data Models", 
+            "name": "data models", 
             "weights": [
                 {
                     "year": 2015, 
@@ -53,7 +52,7 @@
             ]
         },
         {
-            "name": "DBMS architecture and data independence",
+            "name": "dbms architecture and data independence",
             "weights":[
                 {
                     "year":2013,
@@ -81,12 +80,12 @@
                 },
                 {
                     "year": 2021, 
-                    "weight":45
+                    "weight":22.5
                 }
             ]
         },
         {
-            "name": "Entity types, Entity set, Attribute and Key(relation, full concept)",
+            "name": "entity types, entity set, attribute and key(relation, full concept)",
             "weights": [
                 {
                     "year":2014, 
@@ -107,7 +106,7 @@
             ]
         },
         {
-            "name": "Enhanced e-r and object modeling",
+            "name": "enhanced e-r and object modeling",
             "weights":[
                 {
                     "year": 2013, 
@@ -136,7 +135,7 @@
             ]
         },
         {
-            "name": "Super classes, Inheritance, Specialization and Generalization ",
+            "name": "super classes, inheritance, specialization and generalization ",
             "weights": [
                 {
                     "year":2013, 
@@ -164,12 +163,12 @@
                 },
                 {
                     "year":2021, 
-                    "weight":45
+                    "weight":22.5
                 }
             ]
         },
         {
-            "name": "Implementation using b & b++ trees",
+            "name": "implementation using b & b++ trees",
             "weights":[
                 {
                     "year": 2017, 
@@ -186,10 +185,9 @@
             ]
         },
         {
-            "name": "Hashing(function, collision, extendible, dynamic,implementation, performance)",
+            "name": "hashing(function, collision, extendible, dynamic,implementation, performance)",
             "weights": [
                 {
-
                     "year": 2013, 
                     "weight":15
                 },
@@ -202,14 +200,13 @@
                     "weight":3
                 },
                 {
-
                     "year":2021, 
-                    "weight":45
+                    "weight":22.5
                 }
             ]
         },
         {
-            "name": "Relational(concepts, constraits,alzebra)",
+            "name": "relational(concepts, constraits,alzebra)",
             "weights":[
                 {
                     "year": 2013, 
@@ -253,12 +250,12 @@
                 },
                 {
                     "year":2020, 
-                    "weight":45
+                    "weight":22.5
                 }
             ]
         },
         {
-            "name" : "Queries, Programming",
+            "name" : "queries, programming",
             "weights":[
                 {
                     "year": 2013, 
@@ -294,12 +291,12 @@
                 },
                 {
                     "year":2021, 
-                    "weight":45
+                    "weight":22.5
                 }
             ]
         },
         {
-            "name": "Data base design using eer to relational language",
+            "name": "data base design using eer to relational language",
             "weights":[
                 {
                     "year":2013, 
@@ -320,7 +317,7 @@
             ]
         },
         {
-            "name": "Functional dependencies",
+            "name": "functional dependencies",
             "weights":[
                 {
                     "year":2013, 
@@ -354,7 +351,7 @@
             ]
         },
         {
-            "name":"Normal form up to 3rd normal form",
+            "name":"normal form up to 3rd normal form",
             "weights":[
                 {
                     "year":2013, 
@@ -407,7 +404,7 @@
                 },
                 {
                     "year":2021, 
-                    "weight":45
+                    "weight":22.5
                 }
             ]
         },
@@ -444,7 +441,7 @@
                 },
                 {
                     "year":2020, 
-                    "weight":45
+                    "weight":22.5
                 },
                 {
                     "year":2021, 
@@ -452,7 +449,7 @@
                 },
                 {
                     "year":2021, 
-                    "weight":45
+                    "weight":22.5
                 }
             ]
         }
