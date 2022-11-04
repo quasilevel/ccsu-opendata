@@ -1,8 +1,8 @@
 {
-    "title": "Mathematics",
+    "title": "mathematics",
     "topics": [
         {
-            "name": "Order and Degree",
+            "name": "order and degree",
             "weights": [
                 {
                     "year": 2019,
@@ -11,7 +11,7 @@
             ]
         },
         {
-            "name": "Leibnitz test",
+            "name": "leibnitz test",
             "weights": [
                 {
                     "year": 2019,
@@ -20,7 +20,7 @@
             ]
         },
         {
-            "name": "Cauchy's root test",
+            "name": "cauchy's root test",
             "weights": [
                 {
                     "year": 2019,
@@ -29,7 +29,7 @@
             ]
         },
         {
-            "name": "Modulas Amplitude form",
+            "name": "modulas amplitude form",
             "weights": [
                 {
                     "year": 2019,
@@ -38,7 +38,7 @@
             ]
         },
         {
-            "name": "Directional Derivative",
+            "name": "directional derivative",
             "weights": [
                 {
                     "year": 2019,
@@ -47,7 +47,7 @@
             ]
         },
         {
-            "name": "Fourier Series",
+            "name": "fourier series",
             "weights": [
                 {
                     "year": 2019,
@@ -56,7 +56,7 @@
             ]
         },
         {
-            "name": "Convergence",
+            "name": "convergence",
             "weights": [
                 {
                     "year": 2018,
@@ -69,7 +69,7 @@
             ]
         },
         {
-            "name": "Directional Derivative",
+            "name": "directional derivative",
             "weights": [
                 {
                     "year": 2018,
@@ -82,7 +82,7 @@
             ]
         },
         {
-            "name": "Curl Grad",
+            "name": "curl grad",
             "weights": [
                 {
                     "year": 2018,
@@ -91,7 +91,7 @@
             ]
         },
         {
-            "name": "Differentiation",
+            "name": "differentiation",
             "weights": [
                 {
                     "year": 2018,
@@ -100,7 +100,7 @@
             ]
         },
         {
-            "name": "Curl Grad",
+            "name": "curl grad",
             "weights": [
                 {
                     "year": 2018,
