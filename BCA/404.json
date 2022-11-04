@@ -1,8 +1,8 @@
 {
-    "title": "Organization Tecniques",
+    "title": "organization tecniques",
     "topics": [
         {
-            "name": "Linear Programming Problem",
+            "name": "linear programming problem",
             "weights": [
                 {
                     "year": 2019,
@@ -23,7 +23,7 @@
             ]
         },
         {
-            "name": "Inventory Model",
+            "name": "inventory model",
             "weights": [
                 {
                     "year": 2019,
@@ -32,7 +32,7 @@
             ]
         },
         {
-            "name": "Present value",
+            "name": "present value",
             "weights": [
                 {
                     "year": 2019,
@@ -49,7 +49,7 @@
             ]
         },
         {
-            "name": "Discount rate",
+            "name": "discount rate",
             "weights": [
                 {
                     "year": 2019,
@@ -66,7 +66,7 @@
             ]
         },
         {
-            "name": "Sequencing problem",
+            "name": "sequencing problem",
             "weights": [
                 {
                     "year": 2019,
@@ -79,7 +79,7 @@
             ]
         },
         {
-            "name": "Queue length, Waiting time, Traffic intensity",
+            "name": "queue length, waiting time, traffic intensity",
             "weights": [
                 {
                     "year": 2019,
@@ -92,7 +92,7 @@
             ]
         },
         {
-            "name": "Sequence of fine jobs that will minimize the elapsed time t",
+            "name": "sequence of fine jobs that will minimize the elapsed time t",
             "weights": [
                 {
                     "year": 2019,
@@ -113,7 +113,7 @@
             ]
         },
         {
-            "name": "LPP",
+            "name": "lpp",
             "weights": [
                 {
                     "year": 2019,
@@ -142,7 +142,7 @@
             ]
         },
         {
-            "name": "Transportation Problem",
+            "name": "transportation Problem",
             "weights": [
                 {
                     "year": 2019,
@@ -163,7 +163,7 @@
             ]
         },
         {
-            "name": "Determine the sequence for fine job that will minimize the elapsed time",
+            "name": "determine the sequence for fine job that will minimize the elapsed time",
             "weights": [
                 {
                     "year": 2019,
@@ -176,7 +176,7 @@
             ]
         },
         {
-            "name": "Money value",
+            "name": "money value",
             "weights": [
                 {
                     "year": 2018,
@@ -189,7 +189,7 @@
             ]
         },
         {
-            "name": "Busy period",
+            "name": "busy period",
             "weights": [
                 {
                     "year": 2018,
@@ -198,7 +198,7 @@
             ]
         },
         {
-            "name": "Idle period",
+            "name": "idle period",
             "weights": [
                 {
                     "year": 2018,
@@ -207,7 +207,7 @@
             ]
         },
         {
-            "name": "Travelling sales man problem",
+            "name": "travelling sales man problem",
             "weights": [
                 {
                     "year": 2018,
@@ -216,7 +216,7 @@
             ]
         },
         {
-            "name": "Holding cost",
+            "name": "holding cost",
             "weights": [
                 {
                     "year": 2018,
@@ -225,7 +225,7 @@
             ]
         },
         {
-            "name": "Storage cost",
+            "name": "storage cost",
             "weights": [
                 {
                     "year": 2018,
@@ -238,7 +238,7 @@
             ]
         },
         {
-            "name": "Assignment problem",
+            "name": "assignment problem",
             "weights": [
                 {
                     "year": 2018,
@@ -255,7 +255,7 @@
             ]
         },
         {
-            "name": "Storage cost",
+            "name": "storage cost",
             "weights": [
                 {
                     "year": 2018,
@@ -264,7 +264,7 @@
             ]
         },
         {
-            "name": "Find cost pattern",
+            "name": "find cost pattern",
             "weights": [
                 {
                     "year": 2018,
@@ -273,7 +273,7 @@
             ]
         },
         {
-            "name": "Average Waiting time",
+            "name": "average waiting time",
             "weights": [
                 {
                     "year": 2018,
@@ -286,7 +286,7 @@
             ]
         },
         {
-            "name": "Quantity graph",
+            "name": "quantity graph",
             "weights": [
                 {
                     "year": 2016,
@@ -295,7 +295,7 @@
             ]
         },
         {
-            "name": "Replacement policies",
+            "name": "replacement policies",
             "weights": [
                 {
                     "year": 2016,
@@ -304,7 +304,7 @@
             ]
         },
         {
-            "name": "Wilson eqq formula",
+            "name": "wilson eqq formula",
             "weights": [
                 {
                     "year": 2016,
