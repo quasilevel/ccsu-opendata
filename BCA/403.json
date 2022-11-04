@@ -1,8 +1,8 @@
 {
-    "title": "Software Engineering",
+    "title": "software engineering",
     "topicS" : [
         {
-            "name": "Definition and Paradigms",
+            "name": "definition and paradigms",
             "weights": [
                 {
                     "year": 2016, 
@@ -19,7 +19,7 @@
             ]
         },
         {
-            "name": "Analyzing a problem",
+            "name": "analyzing a problem",
             "weights":[
                 {
                     "year": 2017, 
@@ -28,7 +28,7 @@
             ]
         },
         {
-            "name":  "Application of fundamental design concept for data",
+            "name":  "application of fundamental design concept for data",
             "weights":[
                 {
                     "year": 2016, 
@@ -49,7 +49,7 @@
             ]
         },
         {
-            "name": "Object Oriented design paradigm",
+            "name": "object oriented design paradigm",
             "weights":[
                 {
                     "year": 2017, 
@@ -62,7 +62,7 @@
             ]
         },
         {
-            "name":"Implementation issues and programming support environment",
+            "name":"implementation issues and programming support environment",
             "weights":[
                 {
                     "year": 2017, 
@@ -79,7 +79,7 @@
             ]
         },
         {
-            "name":"Coding the procedural design",
+            "name":"coding the procedural design",
             "weights":[
                 {
                     "year": 2016, 
@@ -104,7 +104,7 @@
             ]
         },
         {
-            "name":"Maintenance as part of software evaluation",
+            "name":"maintenance as part of software evaluation",
             "weights":[
                 {
                     "year":2016, 
@@ -125,7 +125,7 @@
             ]
         },
         {
-            "name":"Types of Maintenance (Perceptive, Adoptive, Corrective)",
+            "name":"types of maintenance (perceptive, adoptive, corrective)",
             "weights":[
                 {
                     "year":2016, 
@@ -163,7 +163,7 @@
             ]
         },
         {
-            "name":"Designing and Techniques",
+            "name":"designing and techniques",
             "weights":[
                 {
                     "year":2016, 
@@ -191,12 +191,12 @@
                 }, 
                 {
                     "year": 2020, 
-                    "weight": 45
+                    "weight": 22.5
                 }
             ]
         },
         {
-            "name": "Configuration Management",
+            "name": "configuration management",
             "weights":[
                 {
                     "year": 2016, 
@@ -217,7 +217,7 @@
             ]
         },
         {
-            "name": "Platform/ Case tools",
+            "name": "platform/ case tools",
             "weights":[
                 {
                     "year": 2016, 
@@ -257,7 +257,7 @@
                 },
                 {
                     "year":2020, 
-                    "weight":45
+                    "weight":22.5
                 }
             ]
         }
