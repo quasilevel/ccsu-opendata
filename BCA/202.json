@@ -2,100 +2,121 @@
   "title": "c-programming",
   "topics": [
      {
-        "name": "Array",
+        "name": "array",
          "weights": [
            {
-             "year": 17, "weight": 15
+             "year": 17, 
+             "weight": 15
             },
             {
-             "year": 17, "weight": 3
+             "year": 17, 
+             "weight": 3
             },
             {
-             "year": 18, "weight": 15
+             "year": 18, 
+             "weight": 15
             },
             {
-             "year": 18, "weight": 7.5
+             "year": 18, 
+             "weight": 7.5
             },
             {
-             "year": 18, "weight": 3
+             "year": 18, 
+             "weight": 3
             },
             {
-             "year": 19, "weight": 15
+             "year": 19, 
+             "weight": 15
             },
             {
-             "year": 19, "weight": 3
+             "year": 19, 
+             "weight": 3
             }
           ]
         },
  {
-        "name": "Matrix and transpose",
+        "name": "matrix and transpose",
          "weights": [
            {
-             "year": 19, "weight":7.5
+             "year": 19, 
+             "weight":7.5
             },
              {
-             "year": 19, "weight": 15
+             "year": 19, 
+             "weight": 15
             }
           ]
         },
  {
-        "name": "Memory",
+        "name": "memory",
          "weights": [
            {
-             "year": 18, "weight":7.5
+             "year": 18, 
+             "weight":7.5
             },
              {
-             "year": 19, "weight": 15
+             "year": 19, 
+             "weight": 15
             }
           ]
         },
  {
-        "name": "Functions",
+        "name": "functions",
          "weights": [
            {
-             "year": 17, "weight": 7.5
+             "year": 17, 
+             "weight": 7.5
             },
             {
-             "year": 18, "weight": 3
+             "year": 18, 
+             "weight": 3
             },
             {
-             "year": 18, "weight": 7.5
+             "year": 18, 
+             "weight": 7.5
             },
              {
-             "year": 19, "weight": 15
+             "year": 19, 
+             "weight": 15
             }
           ]
         },
 {
-        "name": "BIT operator",
+        "name": "bit operator",
          "weights": [
            {
-             "year": 18, "weight":7.5
+             "year": 18, 
+             "weight":7.5
             },
              {
-             "year": 19, "weight": 15
+             "year": 19, 
+             "weight": 15
             }
           ]
         },
 {
-        "name": "Pointer",
+        "name": "pointer",
          "weights": [
            {
-             "year": 17, "weight": 15
+             "year": 17, 
+             "weight": 15
             },
             {
-             "year": 17, "weight": 15
+             "year": 17, 
+             "weight": 15
             },
              {
-             "year": 18, "weight": 15
+             "year": 18, 
+             "weight": 15
             },
             {
-             "year": 18, "weight": 3
+             "year": 18, 
+             "weight": 3
             },
              {
-             "year": 19, "weight": 3
-            
-           }
+             "year": 19, 
+             "weight": 3
+             }
           ]
          }
         ]
