@@ -1,8 +1,8 @@
 {
-    "title": "Data Structure using C and C++",
+    "title": "data structure using C and C++",
     "topics": [
         {
-            "name": "Single and Multidemensional array",
+            "name": "single and multidemensional array",
             "weights": [
                 {
                     "year": 2013, 
@@ -38,12 +38,12 @@
                 },
                 {
                     "year":2021, 
-                    "weight": 45
+                    "weight": 22.5
                 }
             ]            
         },
         {
-            "name": "Sparse array",
+            "name": "sparse array",
             "weights": [
                 {
                     "year": 2015, 
@@ -80,7 +80,7 @@
             ]
         },
         {
-            "name" : "Introductiion, Application, Primitive operation on Stack",
+            "name" : "introductiion, application, primitive operation on stack",
             "weights":[
                 {
                     "year": 2015, 
@@ -113,7 +113,7 @@
             ]
         },
         {
-            "name": "Infix, Postfix, Prefix",
+            "name": "infix, postfix, prefix",
             "weights":[
                 {
                     "year": 2016, 
@@ -138,7 +138,7 @@
             ]
         },
         {
-            "name": "D queue",
+            "name": "d queue",
             "weights":[
                 {
                     "year":2013, 
@@ -179,7 +179,7 @@
             ]
         },
         {
-            "name": "Priority queues",
+            "name": "priority queues",
             "weights":[
                 {
                     "year":2014, 
@@ -196,7 +196,7 @@
             ]
         },
         {
-            "name": "Linked lists(all operations)",
+            "name": "linked lists(all operations)",
             "weights":[
                 {
                     "year": 2013, 
@@ -248,12 +248,12 @@
                 },
                 {
                     "year":2021, 
-                    "weight":45
+                    "weight":22.5
                 }
             ] 
         },
         {
-            "name" :"Header",
+            "name" :"header",
             "weights":[
                 {
                     "year":2015, 
@@ -270,7 +270,7 @@
             ]
         },
         {
-            "name": "Binary, Binary search tree",
+            "name": "binary, binary search tree",
             "weights":[
                 {
                     "year":2013, 
@@ -334,12 +334,12 @@
                 },
                 {
                     "year":2021,
-                    "weight":45
+                    "weight":15
                 }
             ] 
         },
         {
-            "name": "B-trees(full concept)",
+            "name": "b-trees(full concept)",
             "weights":[
                 {
                     "year":2014, 
@@ -371,7 +371,7 @@
                 },
                 {
                     "year":2020, 
-                    "weight":45
+                    "weight":15
                 },
                 {
                     "year":2021, 
@@ -380,7 +380,7 @@
             ]
         },
         {
-            "name": "Sorting techniques",
+            "name": "sorting techniques",
             "weights":[
                 {
                     "year" :2011, 
@@ -393,7 +393,7 @@
             ]
         },
         {
-            "name": "Heap sort",
+            "name": "heap sort",
             "weights":[
                 {
                     "year": 2014, 
@@ -413,7 +413,7 @@
                 },
                 {
                     "year":2020, 
-                    "weight":45
+                    "weight":15
                 },
                 {
                     "year": 2021, 
@@ -422,7 +422,7 @@
             ]
         },
         {
-            "name": "Merge sort", 
+            "name": "merge sort", 
             "weights": [
                 {
                     "year":2016, 
@@ -438,12 +438,12 @@
                 },
                 {
                     "year":2021, 
-                    "weight":45
+                    "weight":15
                 }
             ]
         },
         {
-            "name": "Searching techniques",
+            "name": "searching techniques",
             "weights":[
                 {
                     "year": 2011, 
@@ -516,7 +516,7 @@
                 },
                 {
                     "year":2021, 
-                    "weight":45
+                    "weight":15
                 }
             ]
         }
