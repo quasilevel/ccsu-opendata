@@ -1,43 +1,53 @@
 {
-  "title": "Business communiction",
+  "title": "business communiction",
   "topics": [
      {
-        "name": "News letter and reports",
+        "name": "news letter and reports",
          "weights": [
            {
-             "year": 18, "weight": 3
+             "year": 2018,
+             "weight": 3
             },
             {
-             "year": 18, "weight": 15
+             "year": 2018,
+             "weight": 15
             },
             {
-             "year": 19, "weight": 3
+             "year": 2019,
+             "weight": 3
             },
             {
-             "year": 19, "weight": 15
+             "year": 2019, 
+             "weight": 15
             },
              {
-             "year": 20, "weight": 15
+             "year": 20220, 
+             "weight": 15
             },
             {
-             "year": 20, "weight": 15
+             "year": 2020, 
+             "weight": 15
             },
             {
-             "year": 21, "weight": 22.5
+             "year": 2021, 
+             "weight": 15
             }
           ]
         },
 {
-        "name": "Information techology in communication",
+        "name": "information techology in communication",
          "weights": [
            {
-             "year": 18, "weight": 3
+             "year": 2018,
+             "weight": 3
             },
             {
-             "year": 20, "weight": 7.5
+             "year": 2020,
+             "weight": 7.5
             },
             {
-             "year": 21, "weight": 15
+             "year": 2021, 
+             "weight": 15
             }
           ]
         },
@@ -46,33 +56,41 @@
         "name": "communication",
          "weights": [
            {
-             "year": 18, "weight": 3
+             "year": 2018, 
+             "weight": 3
             },
             {
-             "year": 18, "weight": 7.5
+             "year": 2018, 
+             "weight": 7.5
             },
             {
-             "year": 18, "weight": 15
+             "year": 2018, 
+             "weight": 15
             },
             {
-             "year": 19, "weight": 7.5
+             "year": 2019, 
+             "weight": 7.5
             },
              {
-             "year": 20, "weight": 15
+             "year": 2020, 
+             "weight": 15
             },
             {
-             "year": 21, "weight": 7.5
+             "year": 2021, 
+             "weight": 7.5
             }
           ]
         },
 {
-        "name": "Barriers in communication",
+        "name": "barriers in communication",
          "weights": [
            {
-             "year": 19, "weight": 3
+             "year": 2019, 
+             "weight": 3
             },
             {
-             "year": 21, "weight": 7.5
+             "year": 2021, 
+             "weight": 7.5
               
             }
           ]

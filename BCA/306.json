@@ -1,99 +1,121 @@
 {
-  "title": "Object oriented progrmming using C++",
+  "title": "object oriented progrmming using C++",
   "topics": [
      {
-        "name": "Encpsultion",
+        "name": "encpsultion",
          "weights": [
             {
-             "year": 20, "weight": 3
+             "year": 2020,
+             "weight": 3
             }
           ]
         },
 {
-        "name": "Object oriented programming",
+        "name": "object oriented programming",
          "weights": [
            {
-             "year": 20, "weight":3
+             "year": 2020,
+             "weight":3
             },
            {
-             "year": 19, "weight":15
+             "year": 2019,
+             "weight":15
             },
              {
-             "year": 18, "weight": 15
+             "year": 2018,
+             "weight": 15
             }
           ]
         },
 {
-        "name": "Clases and objects",
+        "name": "clases and objects",
          "weights": [
            {
-             "year": 20, "weight": 3
+             "year": 2020,
+             "weight": 3
             },
             {
-             "year": 20, "weight": 3
+             "year": 2020,
+             "weight": 3
             },
              {
-             "year": 20, "weight": 7.5
+             "year": 2020,
+             "weight": 7.5
             },
             {
-             "year": 19, "weight": 3
+             "year": 2019,
+             "weight": 3
             },
             {
-             "year": 19, "weight": 7.5
+             "year": 2019,
+             "weight": 7.5
             },
             {
-             "year": 18, "weight": 3
+             "year": 2018,
+             "weight": 3
             },
              {
-             "year": 18, "weight": 7.5
+             "year": 2018,
+             "weight": 7.5
             }
           ]
         },
 {
-        "name": "Polymorphism",
+        "name": "polymorphism",
          "weights": [
            {
-             "year": 20, "weight": 3
+             "year": 2020,
+             "weight": 3
             },
             {
-             "year": 20, "weight": 7.5
+             "year": 2020,
+             "weight": 7.5
             },
              {
-             "year": 19, "weight": 15
+             "year": 2019,
+             "weight": 15
             },
              {
-             "year": 18, "weight": 7.5
+             "year": 2018,
+             "weight": 7.5
             }
           ]
         },
 {
-        "name": "Inheritance",
+        "name": "inheritance",
          "weights": [
            {
-             "year": 20, "weight": 7.5
+             "year": 2020,
+             "weight": 7.5
             },
             {
-             "year": 19, "weight": 3
+             "year": 2019,
+             "weight": 3
             },
              {
-             "year": 18, "weight": 3
+             "year": 2018,
+             "weight": 3
             }
           ]
         },
 {
-        "name": "Function",
+        "name": "function",
          "weights": [
            {
-             "year": 20, "weight": 7.5
+             "year": 2020,
+             "weight": 7.5
             },
             {
-             "year": 20, "weight": 15
+             "year": 2020,
+             "weight": 15
             },
              {
-             "year": 19, "weight": 3
+             "year": 2019,
+             "weight": 3
             },
              {
-             "year": 19, "weight": 7.5
+             "year": 2019,
+             "weight": 7.5
             
            }
           ]

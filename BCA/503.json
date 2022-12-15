@@ -1,143 +1,178 @@
 {
-  "title": "Computer Networks",
+  "title": "computer networks",
   "topics": [
      {
-        "name": "Digital transmission",
+        "name": "digital transmission",
          "weights": [
            {
-             "year": 21, "weight": 7.5
+             "year": 2021,
+             "weight": 7.5
             },
             {
-             "year": 20, "weight": 15
+             "year": 2020,
+             "weight": 15
             },
             {
-             "year": 18, "weight": 15
+             "year": 2018,
+             "weight": 15
             },
             {
-             "year": 17, "weight": 3
+             "year": 2017,
+             "weight": 3
             }
           ]
         },
  {
-        "name": "Transmission media",
+        "name": "transmission media",
          "weights": [
            {
-             "year": 21, "weight": 15
+             "year": 2021,
+             "weight": 15
             },
             {
-             "year": 20, "weight": 7.5
+             "year": 2020,
+             "weight": 7.5
             },
             {
-             "year": 20, "weight": 15
+             "year": 2020,
+             "weight": 15
             },
             {
-             "year": 18, "weight": 7.5
+             "year": 2018,
+             "weight": 7.5
             },
             {
-             "year": 18, "weight": 15
+             "year": 2018,
+             "weight": 15
             }
           ]
         },
 {
-        "name": "OSI",
+        "name": "osi",
          "weights": [
            {
-             "year": 21, "weight": 15
+             "year": 2021,
+             "weight": 15
             },
             {
-             "year": 21, "weight": 22.5
+             "year": 2021,
+             "weight": 22.5
             },
             {
-             "year": 20, "weight": 3
+             "year": 2020,
+             "weight": 3
             },
             {
-             "year": 19, "weight": 7.5
+             "year": 2019, 
+             "weight": 7.5
             },
 {
-             "year": 19, "weight": 15
+             "year": 2019, 
+             "weight": 15
             },
             {
-             "year": 18, "weight": 15
+             "year": 2018,
+             "weight": 15
             },
             {
-             "year": 17, "weight": 15
+             "year": 2017,
+             "weight": 15
             },
             {
-             "year": 18, "weight": 3
+             "year": 2018,
+             "weight": 3
             }
           ]
         },
   {
-        "name": "Routing",
+        "name": "routing",
          "weights": [
            {
-             "year": 21, "weight": 22.5
+             "year": 2021,
+             "weight": 22.5
             },
             {
-             "year": 21, "weight": 22.5
+             "year": 2021,
+             "weight": 22.5
             },
             {
-             "year": 20, "weight": 3
+             "year": 2020,
+             "weight": 3
             },
             {
-             "year": 17, "weight": 3
+             "year": 2017,
+             "weight": 3
             }
           ]
         },
  {
-        "name": "Point to point control",
+        "name": "point to point control",
          "weights": [
            {
-             "year": 21, "weight": 22.5
+             "year": 2021,
+             "weight": 22.5
             },
             {
-             "year": 20, "weight": 15
+             "year": 2020,
+             "weight": 15
             },
             {
-             "year": 20, "weight": 15
+             "year": 2020,
+             "weight": 15
             }
           ]
         },
 {
-        "name": "Telephony",
+        "name": "telephony",
          "weights": [
            {
-             "year": 20, "weight": 15
+             "year": 2020,
+             "weight": 15
             },
             {
-             "year": 19, "weight": 3
+             "year": 2019, 
+             "weight": 3
             },
             {
-             "year": 19, "weight": 7.5
+             "year": 2019, 
+             "weight": 7.5
             },
             {
-             "year": 18, "weight": 3
+             "year": 2018,
+             "weight": 3
             },
             {
-             "year": 18, "weight": 7.5
+             "year": 2018,
+             "weight": 7.5
             }
           ]
         },
 {
-        "name": "Devices",
+        "name": "devices",
          "weights": [
            {
-             "year": 20, "weight": 3
+             "year": 2020,
+             "weight": 3
             },
             {
-             "year": 19, "weight": 3
+             "year": 2019, 
+             "weight": 3
             },
             {
-             "year": 19, "weight": 7.5
+             "year": 2019, 
+             "weight": 7.5
             },
             {
-             "year": 18, "weight": 15
+             "year": 2018,
+             "weight": 15
             },
             {
-             "year": 18, "weight": 15
+             "year": 2018,
+             "weight": 15
             },
             {
-             "year": 17, "weight": 3
+             "year": 2017,
+             "weight": 3
             
            }
           ]
