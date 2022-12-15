@@ -1,0 +1,126 @@
+{
+  "title": "c-programming",
+  "topics": [
+     {
+        "name": "array",
+         "weights": [
+           {
+             "year": 2017, 
+             "weight": 15
+            },
+            {
+             "year": 2017, 
+             "weight": 3
+            },
+            {
+             "year": 2018, 
+             "weight": 15
+            },
+            {
+             "year": 2018,
+             "weight": 7.5
+            },
+            {
+             "year": 2018,
+             "weight": 3
+            },
+            {
+             "year": 2019, 
+             "weight": 15
+            },
+            {
+             "year": 2019, 
+             "weight": 3
+            }
+          ]
+        },
+ {
+        "name": "matrix and transpose",
+         "weights": [
+           {
+             "year": 2019, 
+             "weight":7.5
+            },
+             {
+             "year": 2019, 
+             "weight": 15
+            }
+          ]
+        },
+ {
+        "name": "memory",
+         "weights": [
+           {
+             "year": 2018,
+             "weight":7.5
+            },
+             {
+             "year": 2019, 
+             "weight": 15
+            }
+          ]
+        },
+ {
+        "name": "functions",
+         "weights": [
+           {
+             "year": 2017,
+             "weight": 7.5
+            },
+            {
+             "year": 2018,
+             "weight": 3
+            },
+            {
+             "year": 2018,
+             "weight": 7.5
+            },
+             {
+             "year": 2019, 
+             "weight": 15
+            }
+          ]
+        },
+{
+        "name": "bit operator",
+         "weights": [
+           {
+             "year": 2018,
+             "weight":7.5
+            },
+             {
+             "year": 2019, 
+             "weight": 15
+            }
+          ]
+        },
+{
+        "name": "pointer",
+         "weights": [
+           {
+             "year": 2017, 
+             "weight": 15
+            },
+            {
+             "year": 2017,
+             "weight": 15
+            },
+             {
+             "year": 2018,
+             "weight": 15
+            },
+            {
+             "year": 2018,
+             "weight": 3
+            },
+             {
+             "year": 2019, 
+             "weight": 3
+            
+           }
+          ]
+         }
+        ]
+      }
+      
+       
