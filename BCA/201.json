@@ -1,0 +1,103 @@
+{
+  "title": "Mathematics-II",
+  "topics": [
+     {
+        "name": "Sets",
+         "weights": [
+           {
+             "year": 19, "weight": 3
+            },
+            {
+             "year": 19, "weight": 15
+            },
+            {
+             "year": 18, "weight": 3
+            },
+            {
+             "year": 17, "weight": 3
+            },
+            {
+             "year": 17, "weight": 15
+            }
+          ]
+        },
+     {
+        "name": "Lattice",
+         "weights": [
+           {
+             "year": 19, "weight": 15
+            },
+            {
+             "year": 18, "weight": 3
+            },
+            {
+             "year": 17, "weight": 3
+            },
+            {
+             "year": 17, "weight": 15
+            }
+          ]
+        },
+ {
+        "name": "Maxima and Minima",
+         "weights": [
+           {
+             "year": 19, "weight": 15
+            }
+          ]
+        },
+ {
+        "name": "Itegration",
+         "weights": [
+           {
+             "year": 19, "weight": 3
+            },
+            {
+             "year": 19, "weight": 7.5
+            },
+            {
+             "year": 19, "weight": 15
+            },{
+             "year": 18, "weight": 3
+            },
+            {
+             "year": 18, "weight": 3
+            },
+            {
+             "year": 18, "weight": 15
+            },
+           {
+             "year": 18, "weight": 15
+            },
+            {
+             "year": 17, "weight": 7.5
+            },
+            {
+             "year": 17, "weight": 15
+            }
+          ]
+        },
+ {
+        "name": "Coordinate geometry",
+         "weights": [
+           {
+             "year": 19, "weight": 7.5
+            },
+            {
+             "year": 19, "weight": 15
+            },
+            {
+             "year": 18, "weight": 15
+            },{
+             "year": 17, "weight": 3
+            },
+            {
+             "year": 17, "weight": 15
+              
+            }
+          ]
+        }
+      ]
+    }
+    
+           

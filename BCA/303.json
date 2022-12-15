@@ -1,0 +1,111 @@
+{
+  "title": "Computer Architecture & Assembly language",
+  "topics": [
+     {
+        "name": "Input/Output processor",
+         "weights": [
+           {
+             "year": 20, "weight": 3
+            },
+            {
+             "year": 20, "weight": 7.5
+            },
+            {
+             "year": 19, "weight": 3
+            },
+            {
+             "year": 18, "weight": 3
+            },
+            {
+             "year": 18, "weight": 15
+            }
+          ]
+        },
+ {
+        "name": "Algorithm",
+         "weights": [
+           {
+             "year": 20, "weight": 3
+            },
+            {
+             "year": 19, "weight": 7.5
+            }
+          ]
+        },
+     {
+        "name": "Register",
+         "weights": [
+           {
+             "year": 20, "weight": 3
+            },
+            {
+             "year": 20, "weight": 7.5
+            },
+            {
+             "year": 20, "weight": 15
+            },
+            {
+             "year": 18, "weight": 3
+            }
+          ]
+        },
+     {
+        "name": "DMA",
+         "weights": [
+           {
+             "year": 20, "weight": 7.5
+            },
+            {
+             "year": 19, "weight": 15
+            },
+            {
+             "year": 18, "weight": 3
+            }
+          ]
+        },
+    {
+        "name": "Microprocessors",
+         "weights": [
+           {
+             "year": 20, "weight": 15
+            },
+            {
+             "year": 19, "weight": 3
+            },
+            {
+             "year": 19, "weight": 3
+            },
+            {
+             "year": 18, "weight": 15
+            }
+          ]
+        },
+{
+        "name": "CPU",
+         "weights": [
+           {
+             "year": 18, "weight": 15
+            },
+            {
+             "year": 18, "weight": 7.5
+            },
+            {
+             "year": 19, "weight": 3
+            },
+            {
+             "year": 19, "weight": 7.5
+            },
+            {
+             "year": 20, "weight": 15
+            },
+            {
+             "year": 20, "weight": 3
+            
+           }
+          ]
+         }
+        ]
+      }
+      
+
+
