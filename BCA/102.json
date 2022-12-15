@@ -5,16 +5,20 @@
         "name": "function calling",
          "weights": [
            {
-             "year": 16, "weight": 3
+             "year": 2016, 
+             "weight": 3
             },
             {
-             "year": 19, "weight": 7.5
+             "year": 2019,
+             "weight": 7.5
             },
             {
-             "year": 19, "weight": 7.5
+             "year": 2019,
+             "weight": 7.5
             },
             {
-             "year": 19, "weight": 7.5
+             "year": 2019, 
+             "weight": 7.5
             }
           ]
         },
@@ -22,13 +26,16 @@
         "name": "even odd number",
          "weights": [
            {
-             "year": 16, "weight":7.5
+             "year": 2016, 
+             "weight":7.5
             },
             {
-             "year": 16, "weight": 15
+             "year": 2016, 
+             "weight": 15
             },
             {
-             "year": 17, "weight": 15
+             "year": 2017, 
+             "weight": 15
             }
           ]
         },
@@ -36,16 +43,20 @@
         "name": "Flowchart",
          "weights": [
            {
-             "year": 16, "weight": 7.5
+             "year": 2016, 
+             "weight": 7.5
             },
             {
-             "year": 17, "weight": 3
+             "year": 2017,
+             "weight": 3
             },
             {
-             "year": 17, "weight": 3
+             "year": 2017, 
+             "weight": 3
             },
             {
-             "year": 17, "weight": 7.5
+             "year": 2017, 
+             "weight": 7.5
             }
           ]
         },
@@ -53,16 +64,20 @@
         "name": "Recursion",
          "weights": [
            {
-             "year": 16, "weight": 7.5
+             "year": 2016, 
+             "weight": 7.5
             },
             {
-             "year": 16, "weight": 15
+             "year": 2016, 
+             "weight": 15
             },
             {
-             "year": 17, "weight": 15
+             "year": 2017, 
+             "weight": 15
             },
             {
-             "year": 20, "weight": 3
+             "year": 2020, 
+             "weight": 3
             }
           ]
         },
@@ -70,13 +85,16 @@
         "name": "Functions",
          "weights": [
            {
-             "year": 17, "weight": 15
+             "year": 2017,
+             "weight": 15
             },
             {
-             "year": 18, "weight": 15
+             "year": 2018, 
+             "weight": 15
             },
             {
-             "year": 19, "weight": 7.5
+             "year": 2019, 
+             "weight": 7.5
             }
           ]
         },
@@ -84,16 +102,20 @@
         "name": "Algorithm",
          "weights": [
            {
-             "year": 17, "weight": 3
+             "year": 2017, 
+             "weight": 3
             },
             {
-             "year": 18, "weight": 3
+             "year": 2018, 
+             "weight": 3
             },
             {
-             "year": 18, "weight": 7.5
+             "year": 2018,
+             "weight": 7.5
             },
             {
-             "year": 18, "weight": 15
+             "year": 2018, 
+             "weight": 15
             }
           ]
         },
@@ -101,10 +123,10 @@
         "name": "Tokens",
          "weights": [
            {
-             "year": 18, "weight": 3
-               
-            }
+             "year": 2018, 
+             "weight": 3
+           }
           ]
-        }
+  }
   ]
 }
