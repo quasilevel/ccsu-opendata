@@ -1,0 +1,134 @@
+{
+  "title": "Computer Architecture & Assembly language",
+  "topics": [
+     {
+        "name": "Input/Output processor",
+         "weights": [
+           {
+             "year": 2020,
+             "weight": 3
+            },
+            {
+             "year": 2020,
+             "weight": 7.5
+            },
+            {
+             "year": 2019,
+             "weight": 3
+            },
+            {
+             "year": 2018,
+             "weight": 3
+            },
+            {
+             "year": 2018,
+             "weight": 15
+            }
+          ]
+        },
+ {
+        "name": "Algorithm",
+         "weights": [
+           {
+             "year": 2020,
+             "weight": 3
+            },
+            {
+             "year": 2019,
+             "weight": 7.5
+            }
+          ]
+        },
+     {
+        "name": "Register",
+         "weights": [
+           {
+             "year": 2020,
+             "weight": 3
+            },
+            {
+             "year": 2020,
+             "weight": 7.5
+            },
+            {
+             "year": 2020,
+             "weight": 15
+            },
+            {
+             "year": 2018,
+             "weight": 3
+            }
+          ]
+        },
+     {
+        "name": "DMA",
+         "weights": [
+           {
+             "year": 2020,
+             "weight": 7.5
+            },
+            {
+             "year": 2019,
+             "weight": 15
+            },
+            {
+             "year": 2018,
+             "weight": 3
+            }
+          ]
+        },
+    {
+        "name": "Microprocessors",
+         "weights": [
+           {
+             "year": 2020,
+             "weight": 15
+            },
+            {
+             "year": 2019,
+             "weight": 3
+            },
+            {
+             "year": 2019,
+             "weight": 3
+            },
+            {
+             "year": 2018,
+             "weight": 15
+            }
+          ]
+        },
+{
+        "name": "CPU",
+         "weights": [
+           {
+             "year": 2018,
+             "weight": 15
+            },
+            {
+             "year": 2018,
+             "weight": 7.5
+            },
+            {
+             "year": 2019,
+             "weight": 3
+            },
+            {
+             "year": 2019,
+             "weight": 7.5
+            },
+            {
+             "year": 2020,
+             "weight": 15
+            },
+            {
+             "year": 2020,
+             "weight": 3
+            
+           }
+          ]
+         }
+        ]
+      }
+      
+

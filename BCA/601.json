@@ -1,0 +1,409 @@
+{
+    "title": "Computer Network Security",
+    "topics": [
+        {
+            "name": "Kerberos",
+            "weights": [
+                {
+                    "year": 2021,
+                    "weight": 3
+                },
+                {
+                    "year": 2020,
+                    "weight": 7.5
+                },
+                {
+                    "year": 2019,
+                    "weight": 15
+                },
+                {
+                    "year": 2018,
+                    "weight": 15
+                }
+            ]
+        },
+        {
+            "name": "Role of digital signature",
+            "weights": [
+                {
+                    "year": 2021,
+                    "weight": 3
+                }
+            ]
+        },
+        {
+            "name": "Firewall",
+            "weights": [
+                {
+                    "year": 2021,
+                    "weight": 3
+                },
+                {
+                    "year": 2020,
+                    "weight": 7.5
+                },
+                {
+                    "year": 2019,
+                    "weight": 3
+                },
+                {
+                    "year": 2018,
+                    "weight": 7.5
+                }
+            ]
+        },
+        {
+            "name": "Authentication",
+            "weights": [
+                {
+                    "year": 2021,
+                    "weight": 3
+                },
+                {
+                    "year": 2020,
+                    "weight": 7.5
+                },
+                {
+                    "year": 2019,
+                    "weight": 15
+                }
+            ]
+        },
+        {
+            "name": "Ip. See",
+            "weights": [
+                {
+                    "year": 2021,
+                    "weight": 3
+                }
+            ]
+        },
+        {
+            "name": "Secure socket layer",
+            "weights": [
+                {
+                    "year": 2021,
+                    "weight": 7.5
+                },
+                {
+                    "year": 2020,
+                    "weight": 3
+                },
+                {
+                    "year": 2018,
+                    "weight": 7.5
+                }
+            ]
+        },
+        {
+            "name": "RSA algorithm",
+            "weights": [
+                {
+                    "year": 2021,
+                    "weight": 7.5
+                },
+                {
+                    "year": 2020,
+                    "weight": 7.5
+                }
+            ]
+        },
+        {
+            "name": "Secret key vs Public key",
+            "weights": [
+                {
+                    "year": 2021,
+                    "weight": 7.5
+                },
+                {
+                    "year": 2019,
+                    "weight": 3
+                },
+                {
+                    "year": 2018,
+                    "weight": 3
+                }
+            ]
+        },
+        {
+            "name": "S/mine",
+            "weights": [
+                {
+                    "year": 2021,
+                    "weight": 15
+                },
+                {
+                    "year": 2019,
+                    "weight": 15
+                }
+            ]
+        },
+        {
+            "name": "Virus",
+            "weights": [
+                {
+                    "year": 2021,
+                    "weight": 15
+                },
+                {
+                    "year": 2020,
+                    "weight": 3
+                }
+            ]
+        },
+        {
+            "name": "X.509",
+            "weights": [
+                {
+                    "year": 2021,
+                    "weight": 15
+                },
+                {
+                    "year": 2020,
+                    "weight": 3
+                },
+                {
+                    "year": 2019,
+                    "weight": 7.5
+                }
+            ]
+        },
+        {
+            "name": "PGP",
+            "weights": [
+                {
+                    "year": 2021,
+                    "weight": 3
+                }
+            ]
+        },
+        {
+            "name": "Key Management",
+            "weights": [
+                {
+                    "year": 2021,
+                    "weight": 3
+                }
+            ]
+        },
+        {
+            "name": "Internetwork Security",
+            "weights": [
+                {
+                    "year": 2021,
+                    "weight": 3
+                },
+                {
+                    "year": 2020,
+                    "weight": 3
+                }
+            ]
+        },
+        {
+            "name": "Ip sec",
+            "weights": [
+                {
+                    "year": 2020,
+                    "weight": 3
+                },
+                {
+                    "year": 2018,
+                    "weight": 7.5
+                }
+            ]
+        },
+        {
+            "name": "Key Distribution",
+            "weights": [
+                {
+                    "year": 2020,
+                    "weight": 3
+                }
+            ]
+        },
+        {
+            "name": "Digital Signature",
+            "weights": [
+                {
+                    "year": 2020,
+                    "weight": 3
+                },
+                {
+                    "year": 2018,
+                    "weight": 15
+                }
+            ]
+        },
+        {
+            "name": "Intrusion Detection",
+            "weights": [
+                {
+                    "year": 2020,
+                    "weight": 7.5
+                }
+            ]
+        },
+        {
+            "name": "Cryptanalysis",
+            "weights": [
+                {
+                    "year": 2020,
+                    "weight": 7.5
+                },
+                {
+                    "year": 2018,
+                    "weight": 3
+                }
+            ]
+        },
+        {
+            "name": "Cryptography",
+            "weights": [
+                {
+                    "year": 2020,
+                    "weight": 7.5
+                },
+                {
+                    "year": 2020,
+                    "weight": 3
+                },
+                {
+                    "year": 2019,
+                    "weight": 15
+                },
+                {
+                    "year": 2018,
+                    "weight": 3
+                }
+            ]
+        },
+        {
+            "name": "Electronic Transaction",
+            "weights": [
+                {
+                    "year": 2021,
+                    "weight": 7.5
+                }
+            ]
+        },
+        {
+            "name": "Network Security",
+            "weights": [
+                {
+                    "year": 2021,
+                    "weight": 15
+                },
+                {
+                    "year": 2019,
+                    "weight": 3
+                },
+                {
+                    "year": 2018,
+                    "weight": 3
+                }
+            ]
+        },
+        {
+            "name": "Encryption and Decryption",
+            "weights": [
+                {
+                    "year": 2019,
+                    "weight": 3
+                },
+                {
+                    "year": 2018,
+                    "weight": 3
+                },
+                {
+                    "year": 2018,
+                    "weight": 15
+                }
+            ]
+        },
+        {
+            "name": "Key Encryption",
+            "weights": [
+                {
+                    "year": 2019,
+                    "weight": 3
+                }
+            ]
+        },
+        {
+            "name": "Block cipher and Stream cipher",
+            "weights": [
+                {
+                    "year": 2019,
+                    "weight": 7.5
+                }
+            ]
+        },
+        {
+            "name": "SSL Protocol",
+            "weights": [
+                {
+                    "year": 2019,
+                    "weight": 7.5
+                }
+            ]
+        },
+        {
+            "name": "Repudiation",
+            "weights": [
+                {
+                    "year": 2019,
+                    "weight": 3
+                }
+            ]
+        },
+        {
+            "name": "Intrusion detection",
+            "weights": [
+                {
+                    "year": 2019,
+                    "weight": 3
+                }
+            ]
+        },
+        {
+            "name": "VPN",
+            "weights": [
+                {
+                    "year": 2019,
+                    "weight": 3
+                },
+                {
+                    "year": 2018,
+                    "weight": 7.5
+                }
+            ]
+        },
+        {
+            "name": "Digital certificate",
+            "weights": [
+                {
+                    "year": 2019,
+                    "weight": 3
+                }
+            ]
+        },
+        {
+            "name": "HTTP and HTTPS",
+            "weights": [
+                {
+                    "year": 2018,
+                    "weight": 3
+                }
+            ]
+        },
+        {
+            "name": "Substitution and Transposition cipher",
+            "weights": [
+                {
+                    "year": 2018,
+                    "weight": 7.5
+                }
+            ]
+        }
+    ]
+}

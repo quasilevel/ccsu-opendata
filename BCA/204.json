@@ -1,0 +1,242 @@
+{
+    "title": "Organisation Behavior",
+    "topics": [
+        {
+            "name": "Suportive Model",
+            "weights": [
+                {
+                    "year": 2019,
+                    "weight": 3
+                }
+            ]
+        },
+        {
+            "name": "Nature of Organisational Behavior",
+            "weights": [
+                {
+                    "year": 2019,
+                    "weight": 3
+                }
+            ]
+        },
+        {
+            "name": "Function of organisational culture",
+            "weights": [
+                {
+                    "year": 2019,
+                    "weight": 3
+                }
+            ]
+        },
+        {
+            "name": "Motivation",
+            "weights": [
+                {
+                    "year": 2019,
+                    "weight": 3
+                }
+            ]
+        },
+        {
+            "name": "Symptoms of stress",
+            "weights": [
+                {
+                    "year": 2019,
+                    "weight": 3
+                }
+            ]
+        },
+        {
+            "name": "Personality",
+            "weights": [
+                {
+                    "year": 2019,
+                    "weight": 7.5
+                }
+            ]
+        },
+        {
+            "name": "Interactionist approach of conflict",
+            "weights": [
+                {
+                    "year": 2019,
+                    "weight": 7.5
+                },
+                {
+                    "year":2018,
+                    "weight":15
+                }
+            ]
+        },
+        {
+            "name": "Type A and Type B Personality",
+            "weights": [
+                {
+                    "year": 2019,
+                    "weight": 7.5
+                },
+                {
+                    "year": 2018,
+                    "weight": 7.5
+                }
+            ]
+        },
+        {
+            "name": "Organisation Behaviour, Importance",
+            "weights": [
+                {
+                    "year": 2019,
+                    "weight": 15
+                },
+                {
+                    "year":2018,
+                    "weight":15
+                }
+            ]
+        },
+        {
+            "name": "Employee Grievances",
+            "weights": [
+                {
+                    "year": 2019,
+                    "weight": 15
+                }
+            ]
+        },
+        {
+            "name": "Effective Teams",
+            "weights": [
+                {
+                    "year": 2019,
+                    "weight": 15
+                }
+            ]
+        },
+        {
+            "name": "Three Levels of analysis in organisation behaviour model",
+            "weights": [
+                {
+                    "year": 2019,
+                    "weight": 15
+                }
+            ]
+        },
+        {
+            "name": "Job satisfaction corelated with work motivation",
+            "weights": [
+                {
+                    "year": 2019,
+                    "weight": 15
+                }
+            ]
+        },
+        {
+            "name": "Scientific management",
+            "weights": [
+                {
+                    "year": 2018,
+                    "weight": 3
+                }
+            ]
+        },
+        {
+            "name": "Job Satisfaction",
+            "weights": [
+                {
+                    "year": 2018,
+                    "weight": 3
+                }
+            ]
+        },
+        {
+            "name": "Job Enrichment",
+            "weights": [
+                {
+                    "year": 2018,
+                    "weight": 3
+                }
+            ]
+        },
+        {
+            "name": "Recruitment",
+            "weights": [
+                {
+                    "year": 2018,
+                    "weight": 3
+                }
+            ]
+        },
+        {
+            "name": "Levels of conflict",
+            "weights": [
+                {
+                    "year": 2018,
+                    "weight": 3
+                }
+            ]
+        },
+        {
+            "name": "prevent stress",
+            "weights": [
+                {
+                    "year": 2018,
+                    "weight": 7.5
+                }
+            ]
+        },
+        {
+            "name": "Emergance of informal",
+            "weights": [
+                {
+                    "year": 2018,
+                    "weight": 7.5
+                }
+            ]
+        },
+        {
+            "name": "impression management",
+            "weights": [
+                {
+                    "year": 2018,
+                    "weight": 15
+                }
+            ]
+        },
+        {
+            "name": "functions performed by groups",
+            "weights": [
+                {
+                    "year": 2018,
+                    "weight": 15
+                }
+            ]
+        },
+        {
+            "name": "Maslow hierchy",
+            "weights": [
+                {
+                    "year": 2018,
+                    "weight": 7.5
+                }
+            ]
+        },
+        {
+            "name": "leadership",
+            "weights": [
+                {
+                    "year": 2018,
+                    "weight": 7.5
+                }
+            ]
+        },
+        {
+            "name": "prevent stress",
+            "weights": [
+                {
+                    "year": 2018,
+                    "weight": 7.5
+                }
+            ]
+        }
+    ]
+}

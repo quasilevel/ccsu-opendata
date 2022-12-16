@@ -1,0 +1,125 @@
+{
+  "title": "object oriented progrmming using C++",
+  "topics": [
+     {
+        "name": "encpsultion",
+         "weights": [
+            {
+             "year": 2020,
+             "weight": 3
+            }
+          ]
+        },
+{
+        "name": "object oriented programming",
+         "weights": [
+           {
+             "year": 2020,
+             "weight":3
+            },
+           {
+             "year": 2019,
+             "weight":15
+            },
+             {
+             "year": 2018,
+             "weight": 15
+            }
+          ]
+        },
+{
+        "name": "clases and objects",
+         "weights": [
+           {
+             "year": 2020,
+             "weight": 3
+            },
+            {
+             "year": 2020,
+             "weight": 3
+            },
+             {
+             "year": 2020,
+             "weight": 7.5
+            },
+            {
+             "year": 2019,
+             "weight": 3
+            },
+            {
+             "year": 2019,
+             "weight": 7.5
+            },
+            {
+             "year": 2018,
+             "weight": 3
+            },
+             {
+             "year": 2018,
+             "weight": 7.5
+            }
+          ]
+        },
+{
+        "name": "polymorphism",
+         "weights": [
+           {
+             "year": 2020,
+             "weight": 3
+            },
+            {
+             "year": 2020,
+             "weight": 7.5
+            },
+             {
+             "year": 2019,
+             "weight": 15
+            },
+             {
+             "year": 2018,
+             "weight": 7.5
+            }
+          ]
+        },
+{
+        "name": "inheritance",
+         "weights": [
+           {
+             "year": 2020,
+             "weight": 7.5
+            },
+            {
+             "year": 2019,
+             "weight": 3
+            },
+             {
+             "year": 2018,
+             "weight": 3
+            }
+          ]
+        },
+{
+        "name": "function",
+         "weights": [
+           {
+             "year": 2020,
+             "weight": 7.5
+            },
+            {
+             "year": 2020,
+             "weight": 15
+            },
+             {
+             "year": 2019,
+             "weight": 3
+            },
+             {
+             "year": 2019,
+             "weight": 7.5
+            
+           }
+          ]
+         }
+        ]
+      }
+      

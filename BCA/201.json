@@ -1,0 +1,127 @@
+{
+  "title": "mathematics-II",
+  "topics": [
+     {
+        "name": "sets",
+         "weights": [
+           {
+             "year": 2019, 
+             "weight": 3
+            },
+            {
+             "year": 2019, 
+             "weight": 15
+            },
+            {
+             "year": 2018, 
+             "weight": 3
+            },
+            {
+             "year": 2017, 
+             "weight": 3
+            },
+            {
+             "year": 2017, 
+             "weight": 15
+            }
+          ]
+        },
+     {
+        "name": "lattice",
+         "weights": [
+           {
+             "year": 2019,
+              "weight": 15
+            },
+            {
+             "year": 2018,
+             "weight": 3
+            },
+            {
+             "year": 2017,
+             "weight": 3
+            },
+            {
+             "year": 2017,
+             "weight": 15
+            }
+          ]
+        },
+ {
+        "name": "maxima and minima",
+         "weights": [
+           {
+             "year": 2019, 
+             "weight": 15
+            }
+          ]
+        },
+ {
+        "name": "itegration",
+         "weights": [
+           {
+             "year": 2019,
+              "weight": 3
+            },
+            {
+             "year": 2019,
+             "weight": 7.5
+            },
+            {
+             "year": 2019,
+             "weight": 15
+            },{
+             "year": 2018,
+             "weight": 3
+            },
+            {
+             "year": 2018,
+             "weight": 3
+            },
+            {
+             "year": 2018,
+             "weight": 15
+            },
+           {
+             "year": 2018,
+             "weight": 15
+            },
+            {
+             "year": 2017,
+             "weight": 7.5
+            },
+            {
+             "year": 2017,
+             "weight": 15
+            }
+          ]
+        },
+ {
+        "name": "coordinate geometry",
+         "weights": [
+           {
+             "year": 2019,
+             "weight": 7.5
+            },
+            {
+             "year": 2019,
+             "weight": 15
+            },
+            {
+             "year": 2018,
+              "weight": 15
+            },
+            {
+             "year": 2017,
+              "weight": 3
+            },
+            {
+             "year": 2017,
+             "weight": 15  
+            }
+          ]
+        }
+      ]
+    }
+    
+           

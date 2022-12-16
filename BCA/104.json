@@ -1,0 +1,501 @@
+{
+	"title": "Principles of Management",
+	"topics": [
+		{
+			"name": "Centralization and Decentralization",
+			"weights": [
+				{
+					"year": 2016,
+					"weight": 3
+				}
+			]
+		},
+		{
+			"name": "Barriers of effective communication",
+			"weights": [
+				{
+					"year": 2016,
+					"weight": 3
+				}
+			]
+		},
+		{
+			"name": "Organizational change",
+			"weights": [
+				{
+					"year": 2016,
+					"weight": 3
+				}
+			]
+		},
+		{
+			"name": "Business Strategies",
+			"weights": [
+				{
+					"year": 2016,
+					"weight": 3
+				}
+			]
+		},
+		{
+			"name": "Leadership styles",
+			"weights": [
+				{
+					"year": 2016,
+					"weight": 3
+				}
+			]
+		},
+		{
+			"name": "Management by objective",
+			"weights": [
+				{
+					"year": 2016,
+					"weight": 7.5
+				},
+				{
+					"year": 2017,
+					"weight": 3
+				},
+				{
+					"year": 2020,
+					"weight": 3
+				}
+			]
+		},
+		{
+			"name": "Role of controlling",
+			"weights": [
+				{
+					"year": 2016,
+					"weight": 7.5
+				}
+			]
+		},
+		{
+			"name": "Skills of Manager on the basis of levels",
+			"weights": [
+				{
+					"year": 2016,
+					"weight": 7.5
+				},
+				{
+					"year": 2018,
+					"weight": 3
+				},
+				{
+					"year": 2020,
+					"weight": 7.5
+				}
+			]
+		},
+		{
+			"name": "Hierchy of needs(Theory)",
+			"weights": [
+				{
+					"year": 2016,
+					"weight": 15
+				}
+			]
+		},
+		{
+			"name": "Delegation of authority",
+			"weights": [
+				{
+					"year": 2016,
+					"weight": 15
+				}
+			]
+		},
+		{
+			"name": "Strategy",
+			"weights": [
+				{
+					"year": 2016,
+					"weight": 15
+				},
+				{
+					"year": 2017,
+					"weight": 15
+				},
+				{
+					"year": 2018,
+					"weight": 7.5
+				},
+				{
+					"year": 2020,
+					"weight": 15
+				}
+			]
+		},
+		{
+			"name": "Importance of coordination",
+			"weights": [
+				{
+					"year": 2016,
+					"weight": 15
+				}
+			]
+		},
+		{
+			"name": "Organisation & models",
+			"weights": [
+				{
+					"year": 2016,
+					"weight": 15
+				}
+			]
+		},
+		{
+			"name": "TQM",
+			"weights": [
+				{
+					"year": 2017,
+					"weight": 3
+				}
+			]
+		},
+		{
+			"name": "Qualities of Leader",
+			"weights": [
+				{
+					"year": 2017,
+					"weight": 3
+				}
+			]
+		},
+		{
+			"name": "Features of motivation",
+			"weights": [
+				{
+					"year": 2017,
+					"weight": 3
+				}
+			]
+		},
+		{
+			"name": "Types of Plan",
+			"weights": [
+				{
+					"year": 2017,
+					"weight": 3
+				}
+			]
+		},
+		{
+			"name": "Hawthorn Experiments",
+			"weights": [
+				{
+					"year": 2017,
+					"weight": 7.5
+				}
+			]
+		},
+		{
+			"name": "Span of control",
+			"weights": [
+				{
+					"year": 2017,
+					"weight": 7.5
+				}
+			]
+		},
+		{
+			"name": "Factors affecting decision making",
+			"weights": [
+				{
+					"year": 2017,
+					"weight": 7.5
+				}
+			]
+		},
+		{
+			"name": "Ethics and social responsibility",
+			"weights": [
+				{
+					"year": 2017,
+					"weight": 15
+				},
+				{
+					"year": 2018,
+					"weight": 3
+				},
+				{
+					"year": 2020,
+					"weight": 15
+				}
+			]
+		},
+		{
+			"name": "Planning without control is meaningless",
+			"weights": [
+				{
+					"year": 2017,
+					"weight": 15
+				},
+				{
+					"year": 2020,
+					"weight": 15
+				}
+			]
+		},
+		{
+			"name": "Levels of Management",
+			"weights": [
+				{
+					"year": 2017,
+					"weight": 15
+				}
+			]
+		},
+		{
+			"name": "Alternative of change of techniques in organisation",
+			"weights": [
+				{
+					"year": 2017,
+					"weight": 15
+				}
+			]
+		},
+		{
+			"name": "Organisation Chart",
+			"weights": [
+				{
+					"year": 2018,
+					"weight": 3
+				}
+			]
+		},
+		{
+			"name": "Mangement of Change",
+			"weights": [
+				{
+					"year": 2018,
+					"weight": 3
+				}
+			]
+		},
+		{
+			"name": "Steps of controlling",
+			"weights": [
+				{
+					"year": 2018,
+					"weight": 3
+				}
+			]
+		},
+		{
+			"name": "Stress Management",
+			"weights": [
+				{
+					"year": 2018,
+					"weight": 7.5
+				},
+				{
+					"year": 2020,
+					"weight": 7.5
+				}
+			]
+		},
+		{
+			"name": "Diff btw Authority and Responsibility",
+			"weights": [
+				{
+					"year": 2018,
+					"weight": 7.5
+				},
+				{
+					"year": 2020,
+					"weight": 7.5
+				}
+			]
+		},
+		{
+			"name": "Leadership, Styles of Leadership",
+			"weights": [
+				{
+					"year": 2018,
+					"weight": 15
+				},
+				{
+					"year": 2020,
+					"weight": 3
+				}	
+			]
+		},
+		{
+			"name": "Mordern Management",
+			"weights": [
+				{
+					"year": 2018,
+					"weight": 15
+				},
+				{
+					"year": 2019,
+					"weight": 15
+				},
+				{
+					"year": 2020,
+					"weight": 15
+				}
+			]
+		},
+		{
+			"name": "Causes of resistence of change",
+			"weights": [
+				{
+					"year": 2018,
+					"weight": 15
+				}
+			]
+		},
+		{
+			"name": "Total Quality Management",
+			"weights": [
+				{
+					"year": 2018,
+					"weight": 15
+				}
+			]
+		},
+		{
+			"name": "Strategy Process",
+			"weights": [
+				{
+					"year": 2018,
+					"weight": 15
+				}
+			]
+		},
+		{
+			"name": "Mangement is a process",
+			"weights": [
+				{
+					"year": 2019,
+					"weight": 3
+				}
+			]
+		},
+		{
+			"name": "Gang Plank",
+			"weights": [
+				{
+					"year": 2019,
+					"weight": 3
+				}
+			]
+		},
+		{
+			"name": "Managerial grid",
+			"weights": [
+				{
+					"year": 2019,
+					"weight": 3
+				}
+			]
+		},
+		{
+			"name": "Diff btw Coordination and Cooperation",
+			"weights": [
+				{
+					"year": 2019,
+					"weight": 3
+				}
+			]
+		},
+		{
+			"name": "Linking Pin",
+			"weights": [
+				{
+					"year": 2019,
+					"weight": 3
+				}
+			]
+		},
+		{
+			"name": "Esprit de Corps",
+			"weights": [
+				{
+					"year": 2019,
+					"weight": 7.5
+				}
+			]
+		},
+		{
+			"name": "Scientific Management",
+			"weights": [
+				{
+					"year": 2019,
+					"weight": 7.5
+				}
+			]
+		},
+		{
+			"name": "Line Organisation",
+			"weights": [
+				{
+					"year": 2019,
+					"weight": 7.5
+				}
+			]
+		},
+		{
+			"name": "Mangerial Role",
+			"weights": [
+				{
+					"year": 2019,
+					"weight": 15
+				},
+				{
+					"year": 2020,
+					"weight": 15
+				}
+			]
+		},
+		{
+			"name": "Policies, Strategic Plannig, Bounded Rationality",
+			"weights": [
+				{
+					"year": 2019,
+					"weight": 15
+				}
+			]
+		},
+		{
+			"name": "Diff btw unity of command and Direction",
+			"weights": [
+				{
+					"year": 2019,
+					"weight": 15
+				}
+			]
+		},
+		{
+			"name": "Features of Motivation",
+			"weights": [
+				{
+					"year": 2019,
+					"weight": 3
+				}
+			]
+		},
+		{
+			"name": "Types of plan",
+			"weights": [
+				{
+					"year": 2020,
+					"weight": 3
+				}
+			]
+		},
+		{
+			"name": "Steps of controlling",
+			"weights": [
+				{
+					"year": 2020,
+					"weight": 3
+				}
+			]
+		}																															
+	]
+}

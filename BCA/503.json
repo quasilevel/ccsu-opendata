@@ -1,0 +1,182 @@
+{
+  "title": "computer networks",
+  "topics": [
+     {
+        "name": "digital transmission",
+         "weights": [
+           {
+             "year": 2021,
+             "weight": 7.5
+            },
+            {
+             "year": 2020,
+             "weight": 15
+            },
+            {
+             "year": 2018,
+             "weight": 15
+            },
+            {
+             "year": 2017,
+             "weight": 3
+            }
+          ]
+        },
+ {
+        "name": "transmission media",
+         "weights": [
+           {
+             "year": 2021,
+             "weight": 15
+            },
+            {
+             "year": 2020,
+             "weight": 7.5
+            },
+            {
+             "year": 2020,
+             "weight": 15
+            },
+            {
+             "year": 2018,
+             "weight": 7.5
+            },
+            {
+             "year": 2018,
+             "weight": 15
+            }
+          ]
+        },
+{
+        "name": "osi",
+         "weights": [
+           {
+             "year": 2021,
+             "weight": 15
+            },
+            {
+             "year": 2021,
+             "weight": 22.5
+            },
+            {
+             "year": 2020,
+             "weight": 3
+            },
+            {
+             "year": 2019, 
+             "weight": 7.5
+            },
+{
+             "year": 2019, 
+             "weight": 15
+            },
+            {
+             "year": 2018,
+             "weight": 15
+            },
+            {
+             "year": 2017,
+             "weight": 15
+            },
+            {
+             "year": 2018,
+             "weight": 3
+            }
+          ]
+        },
+  {
+        "name": "routing",
+         "weights": [
+           {
+             "year": 2021,
+             "weight": 22.5
+            },
+            {
+             "year": 2021,
+             "weight": 22.5
+            },
+            {
+             "year": 2020,
+             "weight": 3
+            },
+            {
+             "year": 2017,
+             "weight": 3
+            }
+          ]
+        },
+ {
+        "name": "point to point control",
+         "weights": [
+           {
+             "year": 2021,
+             "weight": 22.5
+            },
+            {
+             "year": 2020,
+             "weight": 15
+            },
+            {
+             "year": 2020,
+             "weight": 15
+            }
+          ]
+        },
+{
+        "name": "telephony",
+         "weights": [
+           {
+             "year": 2020,
+             "weight": 15
+            },
+            {
+             "year": 2019, 
+             "weight": 3
+            },
+            {
+             "year": 2019, 
+             "weight": 7.5
+            },
+            {
+             "year": 2018,
+             "weight": 3
+            },
+            {
+             "year": 2018,
+             "weight": 7.5
+            }
+          ]
+        },
+{
+        "name": "devices",
+         "weights": [
+           {
+             "year": 2020,
+             "weight": 3
+            },
+            {
+             "year": 2019, 
+             "weight": 3
+            },
+            {
+             "year": 2019, 
+             "weight": 7.5
+            },
+            {
+             "year": 2018,
+             "weight": 15
+            },
+            {
+             "year": 2018,
+             "weight": 15
+            },
+            {
+             "year": 2017,
+             "weight": 3
+            
+           }
+          ]
+         }
+        ]
+      }
+      
