@@ -252,7 +252,7 @@
         },
         {
             "name": "Picard's Menthod",
-            "weight":[
+            "weights": [
                 {
                     "year": 2021,
                     "weight": 15
