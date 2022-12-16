@@ -1,0 +1,468 @@
+{
+    "title": "E-Commerce",
+    "topics": [
+        {
+            "name": "The Scope of Electronic Commerce",
+            "weights": [
+                {
+                    "year": 2017,
+                    "weight": 3
+                }
+            ]
+        },
+        {
+            "name": " Definition of Electronic Commerce",
+            "weights":[
+                {
+                    "year": 2021,
+                    "weight": 7.5
+                },
+                {
+                    "year": 2019,
+                    "weight": 3
+                }
+            ]
+        },
+        {
+            "name": " Electronic Data Interchange",
+            "weights": [
+                {
+                    "year": 2018,
+                    "weight": 3
+                }
+            ]
+        },
+        {
+            "name": " Internet Commerce",
+            "weights": [
+                {
+                    "year": 2021,
+                    "weight": 15
+                },
+                {
+                    "year": 2019,
+                    "weight": 15
+                }
+            ]
+        },
+        {
+            "name": "E-Commerce in Perspective",
+            "weights": [
+                {
+                    "year": 2020,
+                    "weight": 22.5
+                }
+            ]
+        },
+        {
+            "name": "Supply Chains",
+            "weights": [
+                {
+                    "year": 2021,
+                    "weight": 7.5
+                },
+                {
+                    "year": 2019,
+                    "weight": 3
+                },
+                {
+                    "year": 2017,
+                    "weight": 3
+                }
+            ]
+        },
+        {
+            "name": " Porter's Model",
+            "weights": [
+                {
+                    "year": 2018,
+                    "weight": 3
+                }
+            ]
+        },
+        {
+            "name": " First Mover Advantage Sustainable Competitive Advantage",
+            "weights":[
+                {
+                    "year": 2020,
+                    "weight": 15
+                },
+                {
+                    "year": 2018,
+                    "weight": 7.5
+                }
+            ]
+        },
+        {
+            "name": "Business Strategy",
+            "weights": [
+                {
+                    "year": 2020,
+                    "weight": 22.5
+                }
+            ]
+        },
+        {
+            "name": " Strategic Implications of IT",
+            "weights": [
+                {
+                    "year": 2018,
+                    "weight": 15
+                }
+            ]
+        },
+        {
+            "name": " Business Capability",
+            "weights": [
+                {
+                    "year": 2019,
+                    "weight": 15
+                }
+            ]
+        },
+        {
+            "name": " E-Commerce Implementation",
+            "weights": [
+                {
+                    "year":2020,
+                    "weight": 15
+                }
+            ]
+        },
+        {
+            "name": "E-Commerce Evaluation",
+            "weights": [
+                {
+                    "year": 2020,
+                    "weight": 3.75
+                }
+            ]
+        },
+        {
+            "name": "Characteristics of B2B EC",
+            "weights": [
+                {
+                    "year": 2020,
+                    "weight": 3.75
+                }
+            ]
+        },
+        {
+            "name": "Models of B2B Ec",
+            "weights": [
+                {
+                    "year": 2021,
+                    "weight": 7.5
+                },
+                {
+                    "year": 2019,
+                    "weight": 15
+                },
+                {
+                    "year": 2018,
+                    "weight": 3
+                }
+            ]
+        },
+        {
+            "name": "Just in Time Delivery",
+            "weights": [
+                {
+                    "year": 2017,
+                    "weight": 7.5
+                }
+            ]
+        },
+        {
+            "name": "Intergration with Back-end Information System",
+            "weights": [
+                {
+                    "year": 2017,
+                    "weight": 15
+                }
+            ]
+        },
+        {
+            "name": "Electronic marketing in B2B",
+            "weights": [
+                {
+                    "year": 2019,
+                    "weight": 15
+                },
+                {
+                    "year": 2017,
+                    "weight": 15
+                }
+            ]
+        },
+        {
+            "name": "Electronic Data Interchange (EDI)",
+            "weights": [
+                {
+                    "year": 2021,
+                    "weight": 22.5
+                },
+                {
+                    "year": 2020,
+                    "weight": 22.5
+                }
+            ]
+        },
+        {
+            "name": "EDI & Business",
+            "weights": [
+                {
+                    "year": 2018,
+                    "weight": 15
+                }
+            ]
+        },
+        {
+            "name": "Architecture of the Internet",
+            "weights": [
+                {
+                    "year": 2017,
+                    "weight": 15
+                }
+            ]
+        },
+        {
+            "name": "Intranet and Extranet",
+            "weights": [
+                {
+                    "year": 2019,
+                    "weight": 3
+                },
+                {
+                    "year": 2018,
+                    "weight": 3
+                },
+                {
+                    "year": 2017,
+                    "weight": 15
+                }
+            ]
+        },
+        {
+            "name": "Applications of Intranets",
+            "weights": [
+                {
+                    "year": 2017,
+                    "weight": 7.5
+                }
+            ]
+        },
+        {
+            "name": "The Extranets",
+            "weights": [
+                {
+                    "year": 2021,
+                    "weight": 22.5
+                }
+            ]
+        },
+        {
+            "name": "Electronic Payments & Protocols",
+            "weights": [
+                {
+                    "year": 2021,
+                    "weight": 15
+                },
+                {
+                    "year": 2020,
+                    "weight": 3.75
+                }
+            ]
+        },
+        {
+            "name": "Security Schemes in Electronic payment systems",
+            "weights": [
+                {
+                    "year": 2021,
+                    "weight": 30
+                },
+                {
+                    "year": 2019,
+                    "weight": 15
+                },
+                {
+                    "year": 2018,
+                    "weight": 3
+                }
+            ]
+        },
+        {
+            "name": "Electronic Fund transfer and Debit cards on the Internet",
+            "weights": [
+                {
+                    "year": 2019,
+                    "weight": 15
+                },
+                {
+                    "year": 2018,
+                    "weight": 7.5
+                }
+            ]
+        },
+        {
+            "name": "Stored - value Cards and E- Cash",
+            "weights": [
+                {
+                    "year": 2021,
+                    "weight": 22.5
+                },
+                {
+                    "year": 2020,
+                    "weight": 22.5
+                },
+                {
+                    "year": 2017,
+                    "weight": 15
+                }
+            ]
+        },
+        {
+            "name": "Electronic Check Systems",
+            "weights": [
+                {
+                    "year": 2020,
+                    "weight": 22.5
+                }
+            ]
+        },
+        {
+            "name": "Ethical & Other Public Policy Issues",
+            "weights": [
+                {
+                    "year": 2021,
+                    "weight": 22.5
+                }
+            ]
+        },
+        {
+            "name": "Protecting Privacy",
+            "weights": [
+                {
+                    "year": 2019,
+                    "weight": 15
+                },
+                {
+                    "year": 2017,
+                    "weight": 15
+                }
+            ]
+        },
+        {
+            "name": "Protecting Intellectual Property",
+            "weights": [
+                {
+                    "year": 2019,
+                    "weight": 7.5 
+                },
+                {
+                    "year": 2017,
+                    "weight": 7.5
+                }
+            ]
+        },
+        {
+            "name": "Free speech",
+            "weights": [
+                {
+                    "year": 2020,
+                    "weight": 22.5
+                },
+                {
+                    "year": 2018,
+                    "weight": 15
+                }
+            ]
+        },
+        {
+            "name": "It takes more than Technology",
+            "weights": [
+                {
+                    "year": 2021,
+                    "weight": 22.5
+                }
+            ]
+        },
+        {
+            "name": "A Network Of Networks",
+            "weights": [
+                {
+                    "year": 2021,
+                    "weight": 22.5
+                },
+                {
+                    "year": 2020,
+                    "weight": 15
+                },
+                {
+                    "year": 2018,
+                    "weight": 15
+                }
+            ]
+        },
+        {
+            "name": "Web- Based client/ Server",
+            "weights": [
+                {
+                    "year": 2020,
+                    "weight": 3.75
+                },
+                {
+                    "year": 2019,
+                    "weight": 3.75
+                },
+                {
+                    "year": 2017,
+                    "weight": 3
+                }
+            ]
+        },
+        {
+            "name": "Internet Security",
+            "weights": [
+                {
+                    "year": 2021,
+                    "weight": 15
+                },
+                {
+                    "year": 2020,
+                    "weight": 26.25
+                },
+                {
+                    "year": 2019,
+                    "weight": 3.75
+                },
+                {
+                    "year": 2018,
+                    "weight": 7.5
+                },
+                {
+                    "year": 2017,
+                    "weight": 3
+                }
+            ]
+        },
+        {
+            "name": "Chatting on the Web",
+            "weights": [
+                {
+                    "year": 2018,
+                    "weight": 15
+                }
+            ]
+        },
+        {
+            "name": "Multimedia delivery",
+            "weights": [
+                {
+                    "year": 2021,
+                    "weight": 7.5
+                }
+            ]
+        }
+    ]
+}

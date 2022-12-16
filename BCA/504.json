@@ -1,0 +1,296 @@
+{
+    "title": "Numerical Methods",
+    "topics": 
+    [
+        {
+            "name": "Bisection Method",
+            "weights": [
+                {
+                    "year": 2021,
+                    "weight": 7.5 
+                },
+                {
+                    "year": 2020,
+                    "weight": 3
+                },
+                {
+                    "year": 2018,
+                    "weight": 15
+                }
+                
+            
+            ]
+        },
+        {
+            "name": "False position method",
+            "weights": [
+                {
+                    "year": 2021,
+                    "weight": 22.5
+                },
+                {
+                    "year": 2018,
+                    "weight": 7.5
+                }
+            ]
+        },
+        {
+            "name": "Newton Raphson's method",
+            "weights": [
+                {
+                    "year": 2020,
+                    "weight": 15
+                },
+                {
+                    "year": 2019,
+                    "weight": 10.5
+                }
+            ]
+                
+            
+        },
+        {
+            "name": "Newton's Rate of Covergance",
+            "weights": [
+                {
+                    "year": 2020,
+                    "weight": 15
+                }
+            ]
+        },
+        {
+            "name": "The operator E",
+            "weights": [
+                {
+                    "year": 2020,
+                    "weight": 3
+                },
+                {
+                    "year":2019,
+                    "weight": 3
+                }
+            ]
+        },
+        {
+            "name": "Newton's forward and backward differences",
+            "weights":[
+                {
+                    "year": 2021,
+                    "weight": 15
+                },
+                {
+                    "year": 2020,
+                    "weight": 7.5
+                },
+                {
+                    "year": 2019,
+                    "weight": 7.5
+                },
+                {
+                    "year": 2018,
+                    "weight": 10.5
+                }
+                
+            ]
+        },
+        {
+            "name": "Newton's dividend diferences formulae",
+            "weights":[
+                {
+                    "year": 2021,
+                    "weight": 22.5
+                },
+                {
+                    "year":2019,
+                    "weight": 10.5
+                },
+                {
+                    "year": 2018,
+                    "weight": 3
+                }
+            ]
+
+        },
+        {
+            "name": "Lagranges interpolation formula for unequal intervals",
+            "weights": [
+                {
+                    "year": 2020,
+                    "weight": 15
+                },
+                {
+                    "year": 2019,
+                    "weight": 15
+                }
+            ]
+        },
+        {
+            "name": "Gauss's interpolation formula",
+            "weights": [
+                {
+                    "year": 2021,
+                    "weight": 22.5
+                }
+            ]
+        },
+        {
+            "name": "Starling formula",
+            "weights": [
+                {
+                    "year": 2018,
+                    "weight": 22.5
+                }
+            ]
+        },
+        {
+            "name": "Bessel's formula",
+            "weights": [
+                {
+                    "year": 2018,
+                    "weight": 7.5
+                }
+            ]
+        },
+        {
+            "name": "maxima and minima of tabulated function",
+            "weights": [
+                {
+                    "year": 2020,
+                    "weight": 15
+                }
+            ]
+        },
+        {
+            "name": "trapezoidal rule",
+            "weights": [
+                {
+                    "year": 2021,
+                    "weight": 7.5
+                },
+                {
+                    "year": 2020,
+                    "weight": 15
+                },
+                {
+                    "year": 2019,
+                    "weight": 15
+                }
+            ]
+        },
+        {
+            "name": "Simpson's one third rule",
+            "weights": [
+                {
+                    "year": 2021,
+                    "weight": 22.5
+                },
+                {
+                    "year":2020,
+                    "weight": 15
+                },
+                {
+                    "year": 2019,
+                    "weight": 15
+                }
+            ]
+        },
+        {
+            "name": "Simpson's three eight rule",
+            "weights": [
+                {
+                    "year": 2020,
+                    "weight": 3
+                },
+                {
+                    "year": 2019,
+                    "weight": 3
+                },
+                {
+                    "year": 2018,
+                    "weight": 15
+                }
+            ]
+        },
+        {
+            "name": "Gauss's elimintaion method and Gauss's Siedel iterative method",
+            "weights": [
+                {
+                    "year": 2021,
+                    "weight": 30
+                },
+                {
+                    "year": 2020,
+                    "weight": 18
+                },
+                {
+                    "year": 2019,
+                    "weight": 15
+                },
+                {
+                    "year": 2018,
+                    "weight": 10.5
+                }
+            ]
+        },
+        {
+            "name": "Euler's method",
+            "weights": [
+                {
+                    "year": 2021,
+                    "weight": 7.5
+                },
+                {
+                    "year": 2020,
+                    "weight": 3
+                },
+                {
+                    "year": 2019,
+                    "weight": 7.5
+                }
+            ]
+            
+        },
+        {
+            "name": "Picard's Menthod",
+            "weights": [
+                {
+                    "year": 2021,
+                    "weight": 15
+                },
+                {
+                    "year": 2020,
+                    "weight": 7.5
+                },
+                {
+                    "year": 2019,
+                    "weight": 3
+                },
+                {
+                    "year": 2018,
+                    "weight": 3
+                }
+            ]
+        },
+        {
+            "name": "Fourth-order Ranga-Kutta method",
+            "weights":[
+                {
+                    "year": 2021,
+                    "weight":22.5
+                },
+                {
+                    "year": 2020,
+                    "weight": 15
+                },
+                {
+                    "year":2019,
+                    "weight": 18
+                },
+                {
+                    "year": 2018,
+                    "weight": 15
+                }
+            ]
+        }
+    ]
+}
