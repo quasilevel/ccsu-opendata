@@ -1,0 +1,267 @@
+{
+    "title": "Java Programming and Dynamic Webpage Design",
+    "topics": [
+        {
+            "name": "Data types",
+            "weights": [
+                {
+                    "year": 2020,
+                    "weight": 3
+                }
+            ]
+        },
+        {
+            "name": "classes(inheritance,package,exception handling)",
+            "weights": [
+                {
+                    "year": 2021,
+                    "weight": 45
+                },
+                {
+                    "year": 2020,
+                    "weight": 25.5
+                },
+                {
+                    "year": 2019,
+                    "weight": 25.5
+                },
+                {
+                    "year": 2018,
+                    "weight": 22.5
+                },
+                {
+                    "year": 2017,
+                    "weight": 22.5
+                }
+            ]
+        },
+        {
+            "name": "Multithreaded programming,Encapsulation",
+            "weights": [
+                {
+                    "year": 2021,
+                    "weight": 22.5
+                },
+                {
+                    "year": 2020,
+                    "weight": 7.5
+                },
+                {
+                    "year": 2019,
+                    "weight": 7.5
+                },
+                {
+                    "year": 2018,
+                    "weight": 3
+                },
+                {
+                    "year": 2017,
+                    "weight": 18
+                }
+            
+            ]
+        },
+        {
+            "name": "Java  application and java applet ",
+            "weights": [
+                {
+                    "year":2021,
+                    "weight": 45
+                },
+                {
+                    "year": 2020,
+                    "weight": 18
+                },
+                {
+                    "year": 2019,
+                    "weight": 10.5
+                },
+                {
+                    "year": 2018,
+                    "weight": 3
+                },
+                {
+                    "year": 2017,
+                    "weight": 18
+                }
+            ]
+        },
+        {
+            "name": "Features of Java",
+            "weights": [
+                {
+                    "year": 2018,
+                    "weight": 3
+                }
+            ]
+        },
+        {
+            "name": "AWT controls(Buttons,Labels,Combo box,list and other listners, menu bars)",
+            "weights": [
+                {
+                    "year": 2019,
+                    "weight": 15
+                },
+                {
+                    "year": 2018,
+                    "weight": 15
+                }
+            ]
+        },
+        {
+            "name": "Layout manager",
+            "weights": [
+                {
+                    "year": 2019,
+                    "weight": 18
+                }
+            ]
+        },
+        {
+            "name": "String handling (only main function)",
+            "weights": [
+                {
+                    "year": 2020,
+                    "weight": 3
+                },
+                {
+                    "year":2017,
+                    "weight": 15
+                }
+            ]
+        },
+        {
+            "name": "Drivers",
+            "weights": [
+                {
+                    "year": 2018,
+                    "weight": 3
+                }
+            ]
+        },
+        {
+            "name": "Establishing connection",
+            "weights": [
+                {
+                    "year": 2019,
+                    "weight": 18
+                },
+                {
+                    "year": 2017,
+                    "weight": 15
+                }
+            ]
+        },
+        {
+            "name":"Text stylling,types",
+            "weights": [
+                {
+                    "year": 2021,
+                    "weight": 7.5
+                },
+                {
+                    "year": 2020,
+                    "weight": 15
+                },
+                {
+                    "year": 2018,
+                    "weight": 7.5
+                },
+                {
+                    "year": 2017,
+                    "weight": 7.5
+                },
+            ]
+        },
+        {
+            "name": "Tags",
+            "weights": [
+                {
+                    "year":2017,
+                    "weight": 15
+                }
+            ]
+         },
+         {
+            "name": "HTTP Servelet Basics,cycle",
+            "weights": [
+                {
+                    "year": 2021,
+                    "weight": 22.5
+                },
+                {
+                    "year": 2021,
+                    "weight": 15
+                },
+                {
+                    "year": 2019,
+                    "weight": 18
+                },
+                {
+                    "year": 2018,
+                    "weight": 15
+                },
+                {
+                    "year": 2017,
+                    "weight": 18
+                }
+            ]
+         },
+         {
+            "name": "Retrieving information",
+            "weights": [
+                {
+                    "year": 2020,
+                    "weight": 7.5,
+                }
+            ]
+         },
+         {
+            "name": "Introduction to Java server pages",
+            "weights": [
+                {
+                    "year": 2020,
+                    "weight": 3
+                }
+            ]
+         },
+         {
+            "name": "JSP overview",
+            "weights": [
+                {
+                    "year": 2021,
+                    "weight": 15
+                },
+                {
+                    "year": 2020,
+                    "weight": 15
+                },
+                {
+                    "year": 2019,
+                    "weight": 15
+                },
+                {
+                    "year": 2018,
+                    "weight": 15
+                },
+                {
+                    "year": 2017,
+                    "weight": 15
+                }
+            ]
+         },
+         {
+            "name": "Setting up the JSP environment",
+            "weights": [
+                {
+                    "year": 2018,
+                    "weight": 3
+                },
+                {
+                    "year": 2017,
+                    "weight": 3
+                }
+            ]
+         }
+    ]
+}
