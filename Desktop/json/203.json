@@ -1,0 +1,389 @@
+{
+    "title": "ORGANISATION BEHAVIOUR",
+    "topics": [
+      {
+        "name": "Organisational behaviour",
+        "weights": [
+          {
+            "year": 2022,
+            "weight": 3
+          },
+          {
+            "year": 2019,
+            "weight": 3
+          },
+          {
+            "year": 2019,
+            "weight": 15
+          },
+          {
+            "year": 2018,
+            "weight": 15
+          },
+          {
+            "year": 2018,
+            "weight": 3
+          }
+        ]
+      },
+      {
+        "name": "Motivation",
+        "weights": [
+          {
+            "year": 2022,
+            "weight": 3
+          },
+          {
+            "year": 2022,
+            "weight": 15
+          },
+          {
+            "year": 2022,
+            "weight": 7.5
+          },
+          {
+            "year": 2019,
+            "weight": 15
+          },
+          {
+            "year": 2019,
+            "weight": 3
+          },
+          {
+            "year": 2018,
+            "weight": 7.5
+          }
+        ]
+      },
+      {
+        "name": "Recruitment",
+        "weights": [
+          
+          {
+            "year": 2018,
+            "weight": 3
+          }
+        ]
+      },
+      {
+        "name": "Conflict (term, level and resolution)",
+        "weights": [
+          {
+            "year": 2022,
+            "weight": 3
+          },
+          {
+            "year": 2022,
+            "weight": 15
+          },
+          {
+            "year": 2019,
+            "weight": 7.5
+          },
+          {
+            "year": 2018,
+            "weight": 15
+          },
+          {
+            "year": 2018,
+            "weight": 3
+          },
+          {
+            "year": 2016,
+            "weight": 15
+          }
+        ]
+      },
+      {
+        "name": "Grievances",
+        "weights": [
+          {
+            "year": 2022,
+            "weight": 3
+          },
+          {
+            "year": 2022,
+            "weight": 7.5
+          },
+          {
+            "year": 2019,
+            "weight": 15
+          },
+          {
+            "year": 2019,
+            "weight": 7.5
+          }
+          {
+            "year":2016,
+            "weight":15
+          }
+        ]
+      },
+      {
+        "name": "Personality (terms,types and determinants)",
+        "weights": [
+          {
+            "year": 2022,
+            "weight": 15
+          },
+          {
+            "year": 2022,
+            "weight": 3
+          },
+          {
+            "year": 2019,
+            "weight": 15
+          },
+          {
+            "year": 2018,
+            "weight": 7.5
+          }
+          {
+            "year":2016,
+            "weight":7.5
+          }
+        ]
+      },
+      {
+        "name": "Effective leaders",
+        "weights": [
+          {
+            "year": 2022,
+            "weight": 7.5
+          },
+          {
+            "year": 2017,
+            "weight": 15
+          },
+          {
+            "year": 2019,
+            "weight": 15
+          },
+          {
+            "year": 2018,
+            "weight": 7.5
+          }
+        ]
+      },
+      {
+        "name": "Interpersonal relationship",
+        "weights": [
+          {
+            "year": 2022,
+            "weight": 7.5
+          },
+          {
+            "year": 201,
+            "weight": 7.5
+          }
+        ]
+      },
+      {
+        "name": "Ouchi's theory",
+        "weights": [
+          {
+            "year": 2022,
+            "weight": 7.5
+          },
+          {
+            "year": 2013,
+            "weight": 15
+          },
+          {
+            "year": 2015,
+            "weight": 15
+          },
+          {
+            "year": 2019,
+            "weight": 15
+          },
+          {
+            "year": 2020,
+            "weight": 45
+          }
+        ]
+      },
+      {
+        "name": "Leadership style",
+        "weights": [
+          {
+            "year": 2022,
+            "weight": 7.5
+          },
+          {
+            "year":2016,
+            "weight":3
+          }
+        ]
+      },
+      {
+        "name": "Herzberg's motivation theory",
+        "weights": [
+          {
+            "year": 2022,
+            "weight": 15
+          }
+        ]
+      },
+      {
+        "name": "Supportive model",
+        "weights": [
+          {
+            "year": 2022,
+            "weight": 3
+          },
+          {
+            "year": 2015,
+            "weight": 15
+          },
+          {
+            "year": 2019,
+            "weight": 7.5
+          },
+          {
+            "year": 2021,
+            "weight": 7.5
+          }
+        ]
+      },
+      {
+        "name": "Organisational culture",
+        "weights": [
+          {
+            "year": 2019,
+            "weight": 3
+          },
+          {
+            "year": 2015,
+            "weight": 7.5
+          },
+          {
+            "year": 2019,
+            "weight": 3
+          }
+          {
+            "year":2016,
+            "weight":15
+          }
+        ]
+      },
+      {
+        "name": "Effective teams and groups",
+        "weights": [
+          {
+            "year": 2022,
+            "weight": 15
+          },
+          {
+            "year": 2019,
+            "weight": 7.5
+          },
+          {
+            "year":2018,
+            "weight":15
+          }
+        ]
+      },
+      {
+        "name": "Stress (symptons,prevention and management)",
+        "weights": [
+          {
+            "year": 2019,
+            "weight": 3
+          },
+          {
+            "year": 2018,
+            "weight": 7.5
+          }
+        ]
+      },
+      {
+        "name": "Scientific Management",
+        "weights": [
+          {
+            "year": 2022,
+            "weight": 3
+          }
+         
+        ]
+      },
+      {
+        "name": "Job satisfaction and enrichment",
+        "weights": [
+          {
+            "year": 2018,
+            "weight": 3
+          },
+          {
+            "year": 2018,
+            "weight": 3
+          }
+        ]
+      },
+      {
+        "name": "Perception",
+        "weights": [
+          {
+            "year": 2018,
+            "weight": 15
+          },
+          {
+            "year": 2019,
+            "weight": 7.5
+          }
+          {
+            "year":2016,
+            "weight":3
+          }
+        ]
+      },
+      {
+        "name": "Group decision",
+        "weights": [
+          {
+            "year": 2016,
+            "weight": 15
+          }
+        ]
+      },
+      {
+        "name": "Organisational climate",
+        "weights": [
+          {
+            "year": 2016,
+            "weight": 3
+          },
+          {
+            "year": 2016,
+            "weight": 7.5
+          }
+        ]
+      },
+      {
+        "name": "Group dynamics and development",
+        "weights": [
+          {
+            "year": 2016,
+            "weight": 7.5
+          },
+          {
+            "year": 2016,
+            "weight": 3
+          }
+        ]
+      },
+      {
+        "name": "Maslow's hierarchy of needs",
+        "weights": [
+          {
+            "year": 2016,
+            "weight": 3.5
+          },
+          {
+            "year": 2019,
+            "weight": 7.5
+          }
+        ]
+      }
+    ]
+  }
