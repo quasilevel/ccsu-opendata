@@ -1,0 +1,368 @@
+{ 
+  "title": "Object oriented programming using C++", 
+  "topics": [ 
+    { 
+      "name":"Operators", 
+      "weights": [ 
+        { 
+          "year": 2021, 
+          "weight": 7.5 
+        },
+        {
+            "year":2017,
+            "weight":7.5
+        }
+     ]
+    }, 
+    { 
+      "name": "Difference b/w structured and object oriented language", 
+      "weights": [ 
+        { 
+          "year": 2021, 
+          "weight": 7.5 
+        }, 
+        { 
+          "year": 2019, 
+          "weight": 15 
+        } 
+      ] 
+    }, 
+    { 
+      "name": "Array", 
+      "weights": [ 
+        { 
+          "year": 2021, 
+          "weight": 15 
+        }, 
+        { 
+          "year": 2018, 
+          "weight": 15 
+        }, 
+        { 
+          "year": 2019, 
+          "weight": 7.5 
+        } 
+      ] 
+    }, 
+    { 
+      "name": "WAP", 
+      "weights": [ 
+        { 
+          "year": 2021, 
+          "weight": 15 
+        }    
+      ] 
+    }, 
+    { 
+      "name": "Algorithm and flowcharts", 
+      "weights": [ 
+        { 
+          "year": 2021, 
+          "weight": 15 
+        }, 
+        { 
+          "year": 2013, 
+          "weight": 7.5 
+        }, 
+        { 
+          "year": 2016, 
+          "weight": 7.5 
+        }, 
+        { 
+          "year": 2019, 
+          "weight": 7.5 
+        } 
+      ] 
+    }, 
+    { 
+      "name": "Functions", 
+      "weights": [ 
+        { 
+          "year": 2021, 
+          "weight": 7.5 
+        }, 
+        { 
+          "year": 2020, 
+          "weight": 15 
+        }, 
+        { 
+          "year": 2020, 
+          "weight": 3 
+        }, 
+        { 
+          "year": 2019, 
+          "weight": 7.5 
+        },
+        {
+            "year":2017,
+            "weight":15
+        }
+      ] 
+    }, 
+    { 
+      "name": "Class", 
+      "weights": [ 
+        { 
+          "year": 2021, 
+          "weight": 7.5 
+        }, 
+        { 
+          "year": 2021, 
+          "weight": 15 
+        }, 
+        { 
+          "year": 2020, 
+          "weight": 5 
+        }, 
+        { 
+          "year": 2020, 
+          "weight": 3 
+        }, 
+        { 
+          "year": 2019, 
+          "weight": 7.5 
+        },
+        {
+            "year":2017,
+            "weight":3
+        } 
+      ] 
+    }, 
+    { 
+      "name": "Types of programming language", 
+      "weights": [ 
+        { 
+          "year": 2011, 
+          "weight": 3 
+        }, 
+        { 
+          "year": 2015, 
+          "weight": 7.5 
+        }, 
+        { 
+          "year": 2017, 
+          "weight": 15 
+        }, 
+        { 
+          "year": 2019, 
+          "weight": 7.5 
+        } 
+      ] 
+    }, 
+    { 
+      "name": "Pointer variable", 
+      "weights": [ 
+        { 
+          "year": 2019, 
+          "weight": 15 
+        }
+      ] 
+    }, 
+    { 
+      "name": "Static data member & Static data member functions", 
+      "weights": [ 
+        { 
+          "year": 2021, 
+          "weight": 15 
+        }
+      ] 
+    }, 
+    { 
+      "name": "Data types", 
+      "weights": [ 
+        { 
+          "year": 2021, 
+          "weight": 15 
+        }, 
+        { 
+          "year": 2020, 
+          "weight": 3  
+        },
+        { 
+          "year": 2017, 
+          "weight": 7.5 
+        } 
+      ] 
+    }, 
+    { 
+      "name": "Constructor", 
+      "weights": [ 
+        { 
+          "year": 2021, 
+          "weight": 22.5 
+        }, 
+        { 
+          "year": 2020, 
+          "weight": 7.5 
+        }, 
+        { 
+          "year": 2019, 
+          "weight": 5 
+        }, 
+        { 
+          "year": 2021, 
+          "weight": 7.5 
+        },
+        {
+            "year":2017,
+            "weight":15
+        }
+      ] 
+    }, 
+    { 
+      "name": "Reusability", 
+      "weights": [ 
+        { 
+          "year": 2021, 
+          "weight": 22.5 
+        }, 
+        { 
+          "year": 2020, 
+          "weight": 7 
+        }, 
+        { 
+          "year": 2019, 
+          "weight": 3 
+        } 
+      ] 
+    }, 
+    { 
+      "name": "Encapsulation", 
+      "weights": [ 
+        { 
+          "year": 2020, 
+          "weight": 3 
+        }, 
+        { 
+          "year": 2019, 
+          "weight": 7.5 
+        } 
+      ] 
+    }, 
+    { 
+      "name": "Inheritance", 
+      "weights": [ 
+        { 
+          "year": 2020, 
+          "weight": 10 
+        }, 
+        { 
+          "year": 2019, 
+          "weight": 5 
+        }, 
+        { 
+          "year": 2019, 
+          "weight": 3 
+        }, 
+        { 
+          "year": 2019, 
+          "weight": 7.5 
+        }, 
+        { 
+            "year":2018, 
+            "weight":3 
+        } 
+      ] 
+    }, 
+    { 
+      "name": "Files", 
+      "weights": [ 
+        { 
+          "year": 2020, 
+          "weight": 8 
+        } 
+      ] 
+    }, 
+    { 
+      "name": "Polymorphism", 
+      "weights": [ 
+        { 
+          "year": 2019, 
+          "weight": 15 
+        }, 
+        { 
+          "year": 2019, 
+          "weight": 3 
+        } 
+      ] 
+    }, 
+    { 
+      "name": "Malloc & calloc", 
+      "weights": [ 
+        { 
+          "year": 2020, 
+          "weight": 7.5 
+        }, 
+        { 
+          "year": 2019, 
+          "weight": 7.5 
+        },
+        {
+            "year":2017,
+            "weight":7.5
+        } 
+      ] 
+    }, 
+    { 
+      "name": "Exception handling", 
+      "weights": [ 
+        { 
+          "year": 2019, 
+          "weight": 15 
+        }, 
+        { 
+          "year": 2020, 
+          "weight": 15 
+        },
+        {
+            "year":2017,
+            "weight":3.75
+        }
+      ] 
+    }, 
+    { 
+      "name": "Overloading vs Overriding", 
+      "weights": [ 
+        { 
+          "year": 2015, 
+          "weight": 15 
+        }, 
+        { 
+          "year": 2019, 
+          "weight": 15 
+        },
+        {
+            "year":2017,
+            "weight":7.5
+        }
+      ] 
+    }, 
+    { 
+      "name": "Aggregation", 
+      "weights": [ 
+        { 
+          "year": 2019, 
+          "weight": 5 
+        }, 
+        { 
+          "year": 2018, 
+          "weight": 3
+        } 
+    ] 
+  }, 
+  { 
+    "name": "Data hiding", 
+    "weights": [ 
+      { 
+        "year": 2019, 
+        "weight": 3 
+      }, 
+      { 
+        "year": 2018, 
+        "weight": 3 
+       
+      } 
+    ] 
+  } 
+] 
+}
