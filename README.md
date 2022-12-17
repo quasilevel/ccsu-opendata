@@ -14,3 +14,9 @@ The schema is available in the `schema.json` file.
 
 ## Contributions
 As of yet, data is only available for the `BCA` course. Contributions for other courses will appreciated.
+
+## Testing
+The json files must follow the schema defined in `schema.json`. To test the compliance of your changes locally, use the `go` testing tools.
+Follow the following steps:
+1. Download and install `go` from https://go.dev/dl/
+2. Run `go test` in the repo's root
