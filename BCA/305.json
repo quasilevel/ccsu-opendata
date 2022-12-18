@@ -1,0 +1,343 @@
+{
+  "title": "Elements of Statics",
+  "topics": [
+    {
+      "name": "Discrete and Conitinous Variables(definition, numericals)",
+      "weights": [
+        {
+          "year": 2021,
+          "weight": 7.5
+        }
+      ]
+    },
+    {
+      "name": "Geometric Mean",
+      "weights": [
+        {
+          "year": 2021,
+          "weight": 7.5
+        }
+      ]
+    },
+    {
+      "name": "Partetion Values",
+      "weights": [
+        {
+          "year": 2021,
+          "weight": 7.5
+        }
+      ]
+    },
+    {
+      "name": "Probability(Definition, numericals)",
+      "weights": [
+        {
+          "year": 2021,
+          "weight": 52.5
+        },
+        {
+          "year": 2020,
+          "weight": 13.5
+        },
+        {
+          "year": 2019,
+          "weight": 21
+        },
+        {
+          "year": 2018,
+          "weight": 21
+        },
+        {
+          "year": 2017,
+          "weight": 25.3
+        },
+        {
+          "year": 2016,
+          "weight": 10.5
+        }
+      ]
+    },
+    {
+      "name": "Defects and Defectives(Definition,Numerical)",
+      "weights": [
+        {
+          "year": 2021,
+          "weight": 7.5
+        },
+        {
+          "year": 2020,
+          "weight": 15
+        },
+        {
+          "year": 2017,
+          "weight": 18
+        }
+      ]
+    },
+    {
+      "name": "Central Tendency(Definition, Numerical)",
+      "weights": [
+        {
+          "year": 2021,
+          "weight": 15
+        },
+        {
+          "year": 2019,
+          "weight": 3
+        },
+        {
+          "year": 2018,
+          "weight": 3
+        },
+        {
+          "year": 2017,
+          "weight": 3
+        },
+        {
+          "year": 2016,
+          "weight": 7.5
+        }
+      ]
+    },
+    {
+      "name": "Dispersion(Definition ,Types etc)",
+      "weights": [
+        {
+          "year": 2021,
+          "weight": 15
+        },
+        {
+          "year": 2020,
+          "weight": 30
+        },
+        {
+          "year": 2019,
+          "weight": 7.5
+        },
+        {
+          "year": 2018,
+          "weight": 10
+        },
+        {
+          "year": 2016,
+          "weight": 3
+        }
+      ]
+    },
+    {
+      "name": "Permutation and cvompibation(Definition, Numerical etc)",
+      "weights": [
+        {
+          "year": 2021,
+          "weight": 15
+        },
+        {
+          "year": 2020,
+          "weight": 3
+        },
+        {
+          "year": 2019,
+          "weight": 7.5
+        },
+        {
+          "year": 2018,
+          "weight": 3
+        },
+        {
+          "year": 2017,
+          "weight": 3
+        },
+        {
+          "year": 2016,
+          "weight": 15
+        }
+      ]
+    },
+    {
+      "name": "Mean, Median, Mode (Defination, Numerical,quantiles,quartiles,disiles,percentiles)",
+      "weights": [
+        {
+          "year": 2021,
+          "weight": 22.5
+        },
+        {
+          "year": 2020,
+          "weight": 25.5
+        },
+        {
+          "year": 2019,
+          "weight": 15
+        },
+        {
+          "year": 2018,
+          "weight": 7.5
+        },
+        {
+          "year": 2017,
+          "weight": 15
+        }
+      ]
+    },
+    {
+      "name": "Deviation (Types, definition, Numerical)",
+      "weights": [
+        {
+          "year": 2021,
+          "weight": 22.5
+        },
+        {
+          "year": 2020,
+          "weight": 15
+        },
+        {
+          "year": 2019,
+          "weight": 215
+        }
+      ]
+    },
+    {
+      "name": "Product control,Process control,and Static Quality control(Definition,types differentiation etc.)",
+      "weights": [
+        {
+          "year": 2021,
+          "Weight": 22.5
+        },
+        {
+          "year": 2020,
+          "weight": 30
+        },
+        {
+          "year": 2019,
+          "weight": 3
+        },
+        {
+          "year": 2019,
+          "weight": 3
+        },
+        {
+          "year": 2018,
+          "weight": 10.5
+        },
+        {
+          "year": 2017,
+          "weight": 3
+        }
+      ]
+    },
+    {
+      "name": "Frequency Curve, Frequency polygon and frequency distribution (Definition,Numerical etc.)",
+      "weights": [
+        {
+          "year": 2020,
+          "weight": 18
+        },
+        {
+          "year": 2018,
+          "weight": 3
+        }
+      ]
+    },
+    {
+      "name": "Limits",
+      "weights": [
+        {
+          "year": 2020,
+          "weight": 3
+        },
+        {
+          "year": 2019,
+          "weight": 3
+        },
+        {
+          "year": 2018,
+          "weight": 5
+        },
+        {
+          "year": 2016,
+          "weight": 3
+        }
+      ]
+    },
+    {
+      "name": "Difference between Variance and Coffecient of Varience",
+      "weights": [
+        {
+          "year": 2020,
+          "weight": 3
+        },
+        {
+          "year": 2019,
+          "weight": 3
+        }
+      ]
+    },
+    {
+      "name": "Constructor and Interpretation of mean chart(P-chart, O-give, Control Chart Numerical)",
+      "weights": [
+        {
+          "year": 2020,
+          "weight": 7.5
+        },
+        {
+          "year": 2019,
+          "weight": 15
+        },
+        {
+          "year": 2018,
+          "weight": 15
+        },
+        {
+          "year": 2017,
+          "weight": 15
+        },
+        {
+          "year": 2016,
+          "weight": 15
+        }
+      ]
+    },
+    {
+      "name": "Statistics, Tabulation, Classification (Defination etc)",
+      "weights": [
+        {
+          "year": 2019,
+          "weight": 15
+        },
+        {
+          "year": 2018,
+          "weight": 30
+        },
+        {
+          "year": 2017,
+          "weight": 10.5
+        },
+        {
+          "year": 2016,
+          "weight": 18
+        }
+      ]
+    },
+    {
+      "name": "Mean-Deviation (Definition,Numerical etc)",
+      "weights": [
+        {
+          "year": 2020,
+          "weight": 15
+        }
+      ]
+    },
+    {
+      "name": "Range(Definition,Numerical etc.)",
+      "weights": [
+        {
+          "year": 2020,
+          "weight": 15
+        },
+        {
+          "year": 2017,
+          "weight": 3
+        }
+      ]
+    }
+  ]
+}
