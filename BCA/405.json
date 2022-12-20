@@ -1,0 +1,107 @@
+{
+  "title": "Mathematics-3",
+  "topics": [
+    {
+      "name": "Complex Numbers",
+      "weights": [
+        {
+          "year": 2022,
+          "weight": 10.5
+        },
+        {
+          "year": 2019,
+          "weight": 10.5
+        },
+        {
+          "year": 2018,
+          "weight": 10
+        }
+      ]
+    },
+    {
+      "name": "Differencial linear equation(homogeneous)",
+      "weights": [
+        {
+          "year": 2022,
+          "weight": 7.5
+        },
+        {
+          "year": 2019,
+          "weight": 18
+        },
+        {
+          "year": 2018,
+          "weight": 7.5
+        }
+      ]
+    },
+    {
+      "name": "Vector Algebra",
+      "weights": [
+        {
+          "year": 2022,
+          "weight": 7.5
+        },
+        {
+          "year": 2019,
+          "weight": 10
+        },
+        {
+          "year": 2018,
+          "weight": 7.5
+        }
+      ]
+    },
+    {
+      "name": "4 year series (4 year eqn)",
+      "weights": [
+        {
+          "year": 2022,
+          "weight": 18
+        },
+        {
+          "year": 2019,
+          "weight": 15
+        },
+        {
+          "year": 2018,
+          "weight": 15
+        }
+      ]
+    },
+    {
+      "name": "Pericular, Integral",
+      "weight": [
+        {
+          "year": 2022,
+          "weight": 15
+        },
+        {
+          "year": 2019,
+          "weight": 10.5
+        },
+        {
+          "year": 2018,
+          "weight": 7.5
+        }
+      ]
+    },
+    {
+      "name": "Concversion, Diversion",
+      "weights": [
+        {
+          "year": 2019,
+          "weight": 7.5
+        },
+        {
+          "year": 2018,
+          "weight": 7.5
+        },
+        {
+          "year": 2022,
+          "weight": 7.5
+        }
+      ]
+    }
+  ]
+}
