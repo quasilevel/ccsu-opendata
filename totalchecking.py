@@ -3,7 +3,7 @@ import glob
 import  pandas as pd
 
 def checkTheSum75():
-    all_files_name=glob.glob("*.json")
+    all_files_name=glob.glob("BCA/*.json")
     currentPath=os.getcwd()
     check75=0
     #loop for opening file 
